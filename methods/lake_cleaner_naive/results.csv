@@ -1,0 +1,6 @@
+dataset,executed,runtime,checkpoint,precision,recall,f1
+2012_SAT_Results,False,0.0,,-1.0,0.0,0.0
+Illicit-drug-use.g12_2014_0731_0900,False,0.0,,-1.0,0.0,0.0
+SDWIS_Percent_SW_NO3_Violations_County_1994-2016_FINAL,True,214.10123085975647,214.11553406715393,0.9375,0.031185031185031187,0.060362173038229376
+cdph_ssi_nosurgfac_odp_2019,False,0.0,,-1.0,0.0,0.0
+mrsa-in-rehab-facilities-2015,False,0.0,,-1.0,0.0,0.0

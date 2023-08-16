@@ -1,0 +1,1 @@
+{0: 'sexraceethnicity', 1: 'sex', 2: 'raceethnicity', 3: 'year', 4: 'percentage', 5: 'standard_erroron_percentage', 6: 'noteon_percent'}

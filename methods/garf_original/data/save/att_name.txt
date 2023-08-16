@@ -1,0 +1,1 @@
+{0: 'statevalue', 1: 'city', 2: 'breweryname', 3: 'breweryid', 4: 'ibu', 5: 'abv', 6: 'ounces', 7: 'stylevalue', 8: 'beername', 9: 'id', 10: 'indexvalue'}

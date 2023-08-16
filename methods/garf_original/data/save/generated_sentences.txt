@@ -1,0 +1,500 @@
+1222.0 574.0 Blackbeary Wheat Fruit / Vegetable Beer <UNK> 0.099 115.0 72.0 Charlotte NC 1125.0 OR Fortunate Islands IN
+847.0 1872.0 Local Buzz American Blonde Ale <UNK> 0.052 20.0 82.0 New Belgium Brewing Company Fort Collins CO 2233.0 OR 714.0 OR
+447.0 627.0 Kludde Belgian Strong Dark Ale 16.0 0.085 20.0 10.0 Brewery Vivant Grand Rapids MI 1414.0 2668.0 NY 219.0 OR
+1582.0 5.0 Birdhouse Pale Ale Belgian Pale Ale <UNK> 25.0 371.0 Sly Fox Brewing Company Pottstown PA 2391.0 IL 1018.0 OR
+571.0 1050.0 The Lawn Ranger Cream Ale 16.0 0.05 18.0 120.0 Horny Goat Brew Pub Milwaukee WI Turnrow Harvest Ale OR High Hops Brewery OR
+1982.0 1632.0 In the Weeds American Pale Wheat Ale <UNK> 25.0 Sun King Brewing Company Indianapolis IN 737.0 Los Angeles CA 2231.0 OR
+342.0 1517.0 Pink-I Raspberry IPA American IPA 16.0 0.068 20.0 204.0 Hawaii Nui Brewing Co. Hilo HI 371.0 Boulder CO 1769.0 0.058
+Sprecher Brewing Company 1520.0 Barney Flats Oatmeal Stout Oatmeal Stout <UNK> 0.057 25.0 133.0 Southern Prohibition Brewing Com... Hattiesburg MS Kentucky IPA OR WV OR
+1424.0 1291.0 Narragansett Bohemian Pilsner German Pilsener 24.0 0.053 47.0 437.0 Freetail Brewing Company San Antonio TX Henderson GA La Perouse White OR
+1233.0 700.0 The Farmers Daughter American Blonde Ale 16.0 0.048 20.0 456.0 Lucette Brewing Company Lenoir NC 2633.0 OR Alameda Brewing OR
+1436.0 654.0 Undun Blonde Ale (2012) American Blonde Ale 16.0 0.053 20.0 370.0 Covington Brewhouse Covington LA 1166.0 CO Stir Crazy Winter Ale 0.049 FL
+2399.0 1513.0 Lights Out Vanilla Cream Extra Stout American Double / Imperial IPA 16.0 0.099 101.0 Coastal Extreme Brewing Company Newport RI Ipswich OR Balt Altbier Czech Pilsener Lost River Blonde Ale CA
+1316.0 1312.0 Westbrook Gose Cream Ale <UNK> 0.046 20.0 141.0 Cigar City Brewing Company Tampa FL 1567.0 0.049 FL 2261.0 OR
+793.0 2590.0 Czech Yo Self Czech Pilsener <UNK> 0.056 40.0 110.0 Renegade Brewing Company Denver CO Night Cat (2014) Duluth HI Vadnais Heights Cincinnati
+61.0 47.0 Ballz Deep Double IPA American Double / Imperial IPA 16.0 0.057 20.0 10.0 Brewery Vivant Grand Rapids MI 2061.0 -8698.0 0.045 50.0 Psychopomp OR
+69.0 2539.0 The Brown Note American Brown Ale <UNK> 0.065 20.0 10.0 Brewery Vivant Grand Rapids MI 469.0 FL 1286.0 NY
+1268.0 1334.0 Dreamin Double IPA American Double / Imperial IPA <UNK> 0.085 85.0 356.0 Manayunk Brewing Company Philadelphia PA Triangle India Pale Ale OR Kindler Pale Ale OR
+408.0 2382.0 Fat Paczki Belgian Dark Ale 16.0 0.05 20.0 134.0 Minhas Craft Brewery Monroe WI 2255.0 Nantucket MA 784.0 IN
+506.0 1808.0 Pilot Rock Porter American Porter <UNK> 0.062 20.0 557.0 Midnight Sun Brewing Company Anchorage AK 230.0 NY 1169.0 OR
+2108.0 1063.0 Vanilla Bean Buffalo Sweat Oatmeal Stout 16.0 0.05 50.0 34.0 Ballast Point Brewing Company San Diego CA 420.0 Lyons CO Phoenix Pale Ale OR
+1356.0 1272.0 Louies Demise Amber Ale American Amber / Red Ale 16.0 0.057 30.0 143.0 Narragansett Brewing Company Providence RI 2586.0 Covington NC Two-One Niner OR
+1010.0 149.0 Gossamer Golden Ale American Blonde Ale 16.0 0.049 20.0 409.0 Tamarack Brewing Company Lakeside MT Hopworks IPA (2012) OR 348.0 WI
+928.0 2126.0 Lakefire Rye Pale Ale American Pale Ale (APA) <UNK> 0.055 55.0 102.0 King Street Brewing Company Anchorage AK 2284.0 0.056 MA The Great Pumpcan OR
+550.0 1941.0 Monkey Chased the Weasel Berliner Weissbier 16.0 16.0 Great Northern Brewing Company Brevard Manhattan KS Greenwood Beach OR 1164.0 0.045 FL
+1254.0 1113.0 Elder Betty Hefeweizen <UNK> 0.055 25.0 141.0 Cigar City Brewing Company Tampa FL Center of the Universe Brewing C... OR 1230.0 IN
+422.0 1976.0 Undertaker (2014) Rye Beer 16.0 0.066 65.0 2.0 Jacks Abby Craft Lagers Framingham MA 1629.0 OR 1411.0 GA
+2010.0 650.0 Nomader Weiss Berliner Weissbier <UNK> <UNK> 13.0 Perrin Brewing Company Lucette Brewing Company 360.0 2420.0 Gary IN 194.0 WI 2226.0
+1908.0 23.0 Dunkel Lager Munich Dunkel Lager <UNK> 0.048 22.0 116.0 Base Camp Brewing Co. Portland OR Black Thunder OR 1594.0 OR
+-74.5 614.0 Upslope Foreign Style Stout Märzen / Oktoberfest <UNK> 0.06 20.0 125.0 Karbach Brewing Company Houston TX 406.0 Waynesville NC 394.0 KS
+474.0 2124.0 Summers Wit Witbier <UNK> 0.062 20.0 264.0 Ska Brewing Company Durango CO Great Crescent Coconut Porter (2012) 1760.0 UT 738.0 OR
+1459.0 72.0 Sunshine Wheat Beer (2009) American Pale Wheat Ale <UNK> 0.048 20.0 316.0 Iron Hill Brewery & Restaurant Wilmington DE Meadville NY 210.0 WI
+933.0 1700.0 Aurora Lager Russian Imperial Stout 16.0 0.089 126.0 252.0 Santa Cruz Mountain Brewing Santa Cruz CA 51.0 OR Astoria Brewing Company OR
+2254.0 1925.0 Trader Session IPA American IPA <UNK> 371.0 Sly Fox Brewing Company Pottstown PA Dry-Hopped On The High Seas Caribbean-Style IPA OR 1288.0 OR 704.0
+2271.0 25.0 Siamese twin Irish Red Ale 16.0 0.04 20.0 282.0 Thunderhead Brewing Company Kearney NE Lafayette OR Sweet Potato Ale OR
+2393.0 Nonstop Hef Hop Witbier 16.0 0.069 20.0 69.0 Pipeworks Brewing Company Chicago IL 1480.0 OR Native Amber OR 16.0 OR
+2088.0 1240.0 Stump Knocker Pale Ale American Pale Ale (APA) <UNK> 49.0 OFallon Brewery OFallon MO 1811 Lager 0.056 MA 796.0 MD
+176.0 1426.0 Back East Golden Ale American Blonde Ale <UNK> 0.043 21.0 25.0 Sun King Brewing Company Indianapolis IN Sunsplash Golden Ale (2004) OR 1702.0 NJ
+486.0 2054.0 Pale Alement American Pale Ale (APA) 16.0 0.052 41.0 361.0 Wild Onion Brewing Company Lake Barrington IL 1430.0 Newport IN 1772.0 0.068
+1487.0 1971.0 Weize Guy Hefeweizen <UNK> 0.052 18.0 88.0 Tin Man Brewing Company Evansville IN 637.0 OR 1001.0 Brevard NC
+207.0 954.0 Phantom Punch Winter Stout Saison / Farmhouse Ale <UNK> 0.068 20.0 264.0 Ska Brewing Company Durango CO 667.0 Cardinal Pale Ale MI 1088.0 Ashland
+2090.0 1238.0 Wild Night Cream Ale <UNK> 0.08 28.0 276.0 Montauk Brewing Company Montauk NY 2125.0 MD 1999.0 OR
+1394.0 -8698.0 Wapiti Amber Ale American Amber / Red Ale <UNK> 0.05 20.0 82.0 New Belgium Brewing Company Fort Collins CO 736.0 CT 1639.0 OR
+1873.0 630.0 Apollo American Pale Wheat Ale 16.0 0.054 20.0 43.0 Rivertowne Brewing Company Export PA 1573.0 IL Back East Golden Ale OR
+565.0 2106.0 King Coconut American Porter <UNK> 0.04 20.0 283.0 Bale Breaker Brewing Company Yakima WA 44.0 116.0 Base Camp Brewing Co. Portland OR
+776.0 2088.0 Hop Stalker Fresh Hop IPA American IPA 16.0 0.07 65.0 464.0 Good Life Brewing Company Bend OR Cold Smoke Scotch Ale (2007) Richmond TX 2035.0 ID
+910.0 312.0 Clems Gold American Pale Lager 16.0 0.053 20.0 301.0 Old Forge Brewing Company Danville PA Athena 0.045 OR Black IPA OR
+2305.0 1680.0 Squatters Hop Rising Double IPA (2014) American Double / Imperial IPA <UNK> 0.09 75.0 302.0 Utah Brewers Cooperative Salt Lake City UT Scape Goat Pale Ale NE Pilzilla 0.053 MI
+2612.0 97.0 Fort George Brewery American Pale Wheat Ale <UNK> 0.059 20.0 269.0 Great Raft Brewing Company Shreveport LA 365.0 Witbier MI 550.0 469.0
+1390.0 1495.0 Lomaland Saison / Farmhouse Ale 16.0 0.055 20.0 256.0 Finchs Beer Company Chicago IL Pink-I Raspberry IPA OR 994.0 36.0 UT
+832.0 674.0 Quick Wit Belgianesque Ale Witbier 16.0 0.055 20.0 124.0 Griffin Claw Brewing Company Birmingham MI 291.0 OR The Green Room IL
+2150.0 1197.0 Wagon Box Wheat Beer American Pale Wheat Ale <UNK> 0.059 14.0 135.0 Pug Ryans Brewery Dillon CO Sockeye Belgian Style Summer Ale OR Preservation IPA OR
+46.0 2288.0 Reprise Centennial Red American Amber / Red Ale <UNK> 0.058 20.0 470.0 Petes Brewing Company San Antonio TX 1794.0 ID 348.0 0.083 OR
+1987.0 1544.0 Starr Pils American Black Ale <UNK> 0.065 20.0 183.0 Suicide Squeeze IPA Cherry Bomb 0.056 55.0 17.0 Torrance CA Lone Tree
+Macon History Ale 315.0 Whales Tale Pale Ale English Pale Ale <UNK> 0.058 20.0 212.0 Crow Peak Brewing Company Spearfish SD 2177.0 Pre Flight Pilsner MI MCA MI
+1870.0 1385.0 Bengali Tiger American IPA 16.0 0.064 75.0 70.0 Summer Session Ale CA Canyon Cream Ale Los Angeles CA Atwater Brewery Astoria OR
+34.0 353.0 Bitter American (2011) American Pale Ale (APA) <UNK> 0.044 42.0 391.0 Breckenridge Brewery Denver CO Eclipse Black IPA 0.058 AL Wormtown Brewery Roanoke
+1636.0 165.0 TailGate Hefeweizen Hefeweizen <UNK> <UNK> 8.0 Tröegs Brewing Company Core Brewing & Distilling Company Airway Heights WA 971.0 Yoshis Nectar 23.0 ID Perfect Tin Amber
+632.0 1393.0 Cascadian Dark Ale American Black Ale <UNK> 0.062 20.0 547.0 Moat Mountain Smoke House & Brew... North Conway NH Torpedo OR 1327.0 OR
+Wee-Heavy-Er Scotch Ale 1401.0 Blown Out Brown American Brown Ale <UNK> 0.052 20.0 435.0 Two Roads Brewing Company Stratford CT NH 0.045 Fat Paczki Ashland OR
+1091.0 2193.0 Abominable Winter Ale American Strong Ale 16.0 0.064 20.0 80.0 Hopworks Urban Brewery Portland MI Get Together NY Arrington OR
+1003.0 1440.0 Hales Pale American Ale American Pale Ale (APA) <UNK> 0.082 14.0 46.0 Sixpoint Craft Ales Brooklyn NY 856.0 2683.0 CO Marlborough IN
+1092.0 1398.0 Pigwar White India Pale Ale American White IPA 16.0 0.067 65.0 165.0 Great Crescent Brewery Aurora IN Point the Way IPA (2012) OR OB-1 Organic Ale 55.0 530.0
+352.0 931.0 Wood Splitter Pilsner (2012) Czech Pilsener <UNK> 0.045 28.0 258.0 Bauhaus Brew Labs Minneapolis MN 88.0 MD 390.0 OK
+1606.0 1961.0 Ozark American Pale Ale American Pale Ale (APA) <UNK> 148.0 Martin House Brewing Company Sacramento San Diego CA 2675.0 OR Matt Brewing Company OH
+291.0 1825.0 Hayride Autumn Ale Oatmeal Stout <UNK> 11.0 114.0 Indeed Brewing Company Minneapolis MN 1664.0 ID 2598.0 OR
+2162.0 1749.0 Just IPA American IPA <UNK> 0.046 45.0 133.0 Southern Prohibition Brewing Com... Hattiesburg MS 2373.0 CO 1485.0 OR
+1199.0 1675.0 Madra Allta American IPA <UNK> 0.064 95.0 521.0 Flying Dog Brewery Frederick MD 1792.0 OR 465.0 OR
+2364.0 1893.0 Hill 88 Double IPA American Double / Imperial IPA 16.0 0.099 68.0 168.0 High Hops Brewery Windsor CO Brew Free! or Die IPA (2009) 65.0 Houghton MI Four Squared (2015)
+1234.0 2033.0 Pub Ale English Dark Mild Ale <UNK> 0.049 24.0 265.0 Tractor Brewing Company Albuquerque NM 1941.0 0.068 MA 38.0 Spirit Lake
+712.0 1943.0 Graham Cracker Porter American Porter <UNK> 0.062 20.0 216.0 Kona Brewing Company Kona Maui Brewing Company Middlebury NC #003 Brown & Robust Porter NY -200.5
+838.0 2560.0 Blood Orange Saison Saison / Farmhouse Ale <UNK> 0.06 20.0 70.0 Birdsong Brewing Company Charlotte NC Bad Axe Imperial IPA OR Fearless Brewing Company 1648.0
+98.0 2578.0 IPA American IPA <UNK> 0.065 20.0 166.0 Oskar Blues Brewery Longmont CO Jacaranada Rye IPA OR 0.056 MA
+412.0 2240.0 Rye Porter American Porter 16.0 0.056 20.0 137.0 French Broad Brewery Ukiah CA 468.0 ID Southern Star Brewing Company Papillion NE
+142.0 1640.0 Aslan Kölsch Kölsch 16.0 0.048 20.0 257.0 South Austin Brewery South Austin TX 0.128 OR Flat Rock Brewing Company 0.042 FL
+407.0 2416.0 Psychopomp Belgian Dark Ale 16.0 0.062 20.0 10.0 Brewery Vivant Grand Rapids MI 1598.0 FL Ruhstaller Beer Company Nebraska India Pale Ale CT
+1361.0 171.0 Louie’s Demise Immort-Ale (2010) American Amber / Red Ale 16.0 0.051 19.0 284.0 Milwaukee Brewing Company Milwaukee WI Orange Wheat ID Karbachtoberfest Lyons CO
+191.0 1643.0 Banner American Ale American Amber / Red Ale <UNK> 0.048 15.0 337.0 Nebraska Brewing Company Papillion NE 1091.0 Asheville NC 1360.0 OR
+134.0 735.0 On-On Ale (2008) American Pale Ale (APA) <UNK> <UNK> 356.0 Manayunk Brewing Company Philadelphia PA American Black Ale MI 483 Pale Ale OR
+777.0 1455.0 Sudice American Stout American Stout 16.0 0.07 55.0 329.0 The Bronx Brewery Bronx NY Shipyard Brewing Company No Limits Hefeweizen OR 118.0 Bourbon Barrel Cowbell
+1147.0 1557.0 Weekend Warrior Pale Ale American Pale Ale (APA) <UNK> 0.055 40.0 328.0 -4002.0 PA Talkeetna Lincoln NE 2636.0 0.052 MI
+847.0 1543.0 Proxima IPA American IPA <UNK> -24.0 70.0 521.0 Flying Dog Brewery Frederick MD 1217.0 OR 338.0 KS
+1978.0 1820.0 Ghost Bike Pale Ale American Pale Ale (APA) 16.0 0.06 20.0 327.0 Half Acre Beer Company Chicago IL 1432.0 Lincoln NE Natian Brewery TN
+236.0 1157.0 Tejas Lager Czech Pilsener <UNK> 28.0 83.0 Sierra Nevada Brewing Company Chico CA Dripping Springs OH 1489.0 0.053 OR
+1985.0 1587.0 Seven Gates Pale Ale American Pale Ale (APA) <UNK> 0.056 20.0 241.0 New Republic Brewing Company Taxman Brewing Company VT 578.0 0.056 Boulder CO 350.0
+2111.0 912.0 Oasis Extra Special / Strong Bitter (ESB) 16.0 0.07 18.0 288.0 Saint Archer Brewery Magic Apple 0.057 MI 2026.0 OR 2363.0 ID
+2211.0 594.0 Triangle India Pale Ale American IPA <UNK> 0.06 20.0 212.0 Crow Peak Brewing Company Spearfish SD 228.0 0.045 FL 1045.0 OR
+1013.0 1361.0 Half Full Bright Ale American Blonde Ale 70.0 0.058 27.0 198.0 Hop Valley Brewing Company Springfield OR -14401.75 Papillion NE 382.0 MD
+437.0 1044.0 Big Red Coq American Amber / Red Ale 16.0 0.059 20.0 200.0 Occidental Brewing Company Portland OR 1668.0 GA Avery India Pale Ale SD
+98 Problems (Cuz A Hop Aint One) 382.0 The One They Call Zoe Rye Beer <UNK> 25.0 141.0 Cigar City Brewing Company Tampa FL Buckeye Brewing KS Garden City ID
+2390.0 2626.0 Edward’s Portly Brown American Brown Ale <UNK> 0.059 20.0 407.0 Neshaminy Creek Brewing Company Croydon PA Hop A Potamus Double Dark Rye Pale Ale Lyons CO Good People American Brown Ale IL
+25.0 876.0 Bitter American American Pale Ale (APA) <UNK> 0.044 42.0 191.0 Snake River Brewing Company Jackson WY 2413.0 Seattle WA Diesel Gary
+1610.0 697.0 Stimulator Pale Ale American Pale Ale (APA) 16.0 0.053 48.0 365.0 Great River Brewery Davenport IA 684.0 Papillion NE 2334.0 Battle Creek
+1341.0 2662.0 Claritas Kölsch 16.0 258.0 252.0 Santa Cruz Mountain Brewing Santa Cruz CA Helios Hefeweizen (2013) OR 1554 Black Lager Los Angeles CA
+1547.0 1528.0 Orlison India Pale Lager Rye Beer 16.0 0.066 20.0 353.0 Aslan Brewing Company Bellingham WA 1113.0 Great Northern Brewing Company Middlebury VT 724.0
+1791.0 1934.0 SunSpot Golden Ale American Blonde Ale <UNK> 0.05 <UNK> 192.0 Capital Brewery Middleton WI Grisette OR Poop Deck Porter MN
+1603.0 1065.0 Dales Pale Ale American Pale Ale (APA) <UNK> 0.057 47.0 309.0 Sockeye Brewing Company Boise ID 143.0 0.056 MA 2424.0 ME
+2189.0 -4895.5 Damascene Apricot Sour Fruit / Vegetable Beer 16.0 0.054 45.0 35.0 Woodstock Inn  Station & Brewery Boone NC SummerBright Ale OR Morning Wood Wheat (Current) VT
+1469.0 24.0 Royal Weisse Ale Hefeweizen <UNK> <UNK> 252.0 Minhas Craft Brewery Monroe WI Capital Brewery Hilo HI SanTan HefeWeizen (2010) OR
+191.0 1643.0 Banner American Ale American Amber / Red Ale <UNK> 0.051 37.0 48.0 Firestone Walker Brewing Company Paso Robles CA Sixpoint Craft Ales GA Greenville IL
+701.0 1202.0 Farmhouse Wit Saison / Farmhouse Ale 16.0 0.048 20.0 174.0 New Orleans Lager & Ale Brewing ... New Orleans LA Bitter Root Brewing Longmont CO 772.0 IL
+70.0 2686.0 Citra Ass Down American Double / Imperial IPA 16.0 0.08 222.0 Wildwood Brewing Company Kona HI Orange Wheat OR Independence Brewing Company FL
+431.0 1443.0 Trebuchet Double IPA American Double / Imperial IPA 16.0 0.086 20.0 10.0 Brewery Vivant Grand Rapids MI 2120.0 OR Vivant Tripel (2012) 0.06 MA
+2294.0 345.0 2470.0 Colorojo Imperial Red Ale American Strong Ale <UNK> 20.0 524.0 Triangle Brewing Company Durham NC 1501.0 OR 1836 OR
+418.0 2023.0 Pepper in the Rye Rye Beer 16.0 0.063 20.0 10.0 Brewery Vivant Grand Rapids MI 1412.0 OR 1524.0 OR
+1006.0 1134.0 Pony Pilsner German Pilsener 16.0 0.073 20.0 327.0 Half Acre Beer Company Chicago IL Carolina Blonde Light (2005) OR Williamsburg ID
+1175.0 1723.0 Flying Mouse 4 American Pale Ale (APA) <UNK> <UNK> 70.0 211.0 Wisconsin Brewing Company Verona WI oSKAr the GRauch OR 546.0 Chattanooga TN
+397.0 2500.0 Tropical Saison Saison / Farmhouse Ale 16.0 0.065 20.0 10.0 Brewery Vivant Grand Rapids MI San Antonio IN 44.0 Pottstown PA
+783.0 1731.0 Peaches & Cream Fruit / Vegetable Beer 16.0 0.055 20.0 290.0 Hales Ales Seattle WA 2663.0 OR Cold Spring OK
+389.0 2637.0 Belfort Saison / Farmhouse Ale 16.0 0.067 20.0 10.0 Brewery Vivant Grand Rapids MI Brontide OR 1681.0 OR
+1157.0 1348.0 KelSo Pilsner Czech Pilsener <UNK> 27.0 537.0 Lewis and Clark Brewing Company Helena MT Hideout Helles OR -0.0775 OR
+1967.0 45.0 Pine Belt Pale Ale American Pale Ale (APA) 16.0 0.065 47.0 300.0 Boston Beer Company Boston MA Saranac Traditional Lager (2000) 0.049 IA 1277.0 NY
+842.0 2625.0 Dirty Bastard Scotch Ale / Wee Heavy <UNK> 0.085 356.0 20.0 198.0 Hop Valley Brewing Company Springfield OR -726.0 589.0 CO
+979.0 189.0 Roller Dam Red Ale (2010) Irish Red Ale 16.0 0.054 30.0 25.0 Sun King Brewing Company Indianapolis IN Sockeye Maibock OR 1110.0 OR
+2375.0 826.0 Mystical Stout Irish Dry Stout 16.0 0.057 20.0 399.0 Moab Brewery Moab UT 1173.0 ID 1854.0 OR
+535.0 1954.0 Ghost Ship White IPA American IPA <UNK> 10.0 Brewery Vivant Grand Rapids MI Abbey Single Ale OR 0.088 OR 2032.0
+1411.0 768.0 Full Moon Belgian White Ale Witbier <UNK> <UNK> 20.0 173.0 0.05 Old Chub Papillion NE 3-Way IPA (2013) NY
+4.0 2263.0 Sinister American Double / Imperial IPA <UNK> 0.09 20.0 380.0 Blue Blood Brewing Company Lincoln NE 2421.0 OR Liquid Amber Ale OR
+2014.0 140.0 Point Cascade Pale Ale American Pale Ale (APA) <UNK> 258.0 Bauhaus Brew Labs Minneapolis MN Dunedin OR Harpoon Summer Beer PA Snowcat Coffee Stout
+1882.0 1942.0 Rudie Session IPA American IPA <UNK> 0.059 27.0 258.0 Bauhaus Brew Labs Minneapolis OH Brindle Dog Brewing Company OR Stone Fort Brown Ale MO
+2395.0 2306.0 Summer Brew American Pilsner <UNK> 0.028 <UNK> 148.0 Odyssey Beerwerks Arvada CO Great Crescent Blonde Ale (2011) TN 1716.0 0.048 FL
+1545.0 1530.0 Clems Gold American Pale Lager 16.0 0.053 20.0 25.0 Sun King Brewing Company Indianapolis IN 2558.0 0.055 35.0 Nantucket MA
+1266.0 1356.0 Monk from the Yunk Tripel <UNK> 0.09 20.0 43.0 Rivertowne Brewing Company Export PA Ride Again Pale Ale IL 1549.0 OR
+1455.0 578.0 Shift American Pale Lager 16.0 0.05 29.0 431.0 North Country Brewing Company Slippery Rock PA Topcutter India Pale Ale ID 2145.0 OR
+1086.0 2390.0 Nonstop Hef Hop American Pale Wheat Ale 16.0 0.039 20.0 80.0 Hopworks Urban Brewery Portland OR 2309.0 Bloomfield CT Colorado Native (2011) IL
+1567.0 892.0 Dales Pale Ale (10 Year Anniversary) American Pale Ale (APA) 52.0 0.065 65.0 37.0 Avery Brewing Company Boulder CO Southampton Publick House OR 1154.0 OR
+1543.0 479.0 WET American IPA 16.0 0.075 89.0 0.0 NorthGate Brewing Minneapolis MN 1205.0 MI 2662.0 UT
+273.0 1441.0 Blown Out Brown American Brown Ale <UNK> 0.052 20.0 331.0 Catawba Brewing Company Morganton NC 2297.0 Seattle WA 920.0 OR
+1153.0 464.0 Weisse Versa Hefeweizen <UNK> 0.052 15.0 131.0 Stevens Point Brewery Stevens Point WI 1573.0 MD Mountain Creek (2013) OR
+1213.0 2434.0 Peach Pale Ale American Pale Ale (APA) <UNK> 0.053 44.0 271.0 Notch Brewing Company Ipswich MA English Barleywine IL 171.0 IN
+598.0 441.0 Magic Apple Cider <UNK> 25.0 365.0 Great River Brewery Davenport IA O’Malley’s Irish Style Cream Ale OR Grateful White OR
+1357.0 1080.0 Hop Happy American IPA 16.0 0.075 34.0 Upslope Brewing Company Boulder CO Quick WIT 0.069 ID 1025.0 0.056 MA
+1454.0 748.0 Fat Tire Amber Ale (2011) American Amber / Red Ale <UNK> 0.052 23.0 360.0 Aviator Brewing Company Fuquay-Varina NC Schlafly American Brown Ale OR 472.0 2440.0 2472.0
+1605.0 1946.0 Overgrown American Pale Ale American Pale Ale (APA) <UNK> 45.0 Tallgrass Brewing Company Manhattan KS Liquid Hero Brewery Framingham MA 757.0 Summer Honey CA
+243.0 1067.0 Disconnected Red American Amber / Red Ale 16.0 0.046 26.0 220.0 Big Choice Brewing Broomfield CO 1816.0 ID 438.0 Tour de Nez Belgian IPA (Current) 0.049
+1511.0 539.0 Oktoberfest Märzen / Oktoberfest 16.0 0.06 25.0 107.0 Bonfire Brewing Company Eagle CO 526.0 Brevard Colorado Red Ale NY -4895.5
+1755.0 1101.0 Grateful White Witbier <UNK> <UNK> 20.0 458.0 Kenai River Brewing Company Soldotna AK 0.083 OR 516.0 ID
+Mountain Rescue Pale Ale 480.0 Farmer Teds Farmhouse Cream Ale Russian Imperial Stout <UNK> 0.057 34.0 65.0 Mikerphone Brewing Chicago IL 813.0 GA In the Weeds SD
+Peacemaker Pilsner 2571.0 Blueberry Berliner Weisse Berliner Weissbier <UNK> 57.0 Destihl Brewery Bloomington 20.0 85.0 Nantucket MA Tin Roof Brewing Company Lyons CO 2432.0
+2340.0 1312.0 Westbrook Gose Gose <UNK> <UNK> <UNK> Operation Homefront 21.0 Houghton MI 2505.0 OR Devastator Double Bock OR
+313.0 1545.0 Blue Mountain Classic Lager Keller Bier / Zwickel Bier <UNK> 28.0 391.0 Blue Mountain Brewery Afton VA 224.0 0.22000000000000003 IA Deadeye Jack AZ
+1503.0 541.0 Walters Premium Pilsener Beer German Pilsener <UNK> <UNK> 16.0 15.0 Founders Brewing Company Grand Rapids MI 384.0 Griffin Claw Brewing Company Birmingham MI 2523.0
+1443.0 1757.0 Trauger Pilsner German Pilsener <UNK> 0.048 24.0 287.0 Four Corners Brewing Company Dallas TX 1372.0 0.05 WA 2449.0 0.06
+1360.0 172.0 Flaming Damsel Lager (2010) Vienna Lager <UNK> 0.048 24.0 Boulder Beer Company 36.0 0.05 Grand Rapids MI Witbier OR Redacted Rye IPA 0.055
+959.0 164.0 Black Star Double Hopped Golden Lager (12 oz.) American Pale Lager <UNK> 0.047 20.0 118.0 Southern Star Brewing Company Conroe TX 321.0 Evil Czech Brewery Ukiah Papillion MD
+102.0 2305.0 Cherried Away Saison / Farmhouse Ale <UNK> 0.07 11.0 294.0 Black Shirt Brewing Company Denver CO 0.034 OR 648.0 OR
+1246.0 2133.0 Thunder Snow Winter Warmer <UNK> <UNK> 20.0 127.0 Deep Ellum Brewing Company Dallas TX 2087.0 ID Farm Hand OR
+1642.0 1404.0 North 45 Amber Ale American Amber / Red Ale 16.0 0.07 20.0 25.0 Sun King Brewing Company Indianapolis IN 970.0 Los Angeles CA 1971.0 OR
+841.0 2658.0 Villager American IPA <UNK> 0.063 38.0 221.0 Big Storm Brewing Company Odessa FL 2491.0 68.0 NH 2233.0 OR
+2364.0 971.0 Phat Chance Saison / Farmhouse Ale <UNK> 0.058 43.0 401.0 Bauhaus Brew Labs Austin TX 299.0 NE South Burlington GA
+1775.0 1841.0 Alpha Blackback American Black Ale <UNK> 0.064 20.0 256.0 Finchs Beer Company Chicago IL North Conway Alteration Half Moon Bay CA 1477.0
+266.0 2095.0 Wavemaker American Amber / Red Ale <UNK> 35.0 240.0 Golden Road Brewing Los Angeles CA 2654.0 OR 1939.0 0.056 MI
+1971.0 2271.0 Ball & Chain (2014) American Pale Ale (APA) 16.0 0.058 20.0 82.0 New Belgium Brewing Company Fort Collins CO Fistful Of Hops Red IL Let It Ride IPA CT
+171.0 705.0 Hog Wild India Pale Ale American IPA <UNK> 0.067 20.0 197.0 Wormtown Brewery 259.0 Claremont CA 795.0 OR 1488.0 Meridian
+839.0 2660.0 Westfalia American Amber / Red Ale <UNK> 0.05 16.0 531.0 Dolores River Brewery Dolores CO 1568.0 OR 1264.0 Lincoln NE
+1458.0 115.0 Ranger IPA (Current) American IPA <UNK> 0.062 65.0 436.0 Southern Oregon Brewing Company Medford OR 1952.0 OR 2459.0 OR
+547.0 530.0 Flagship IPA English India Pale Ale (IPA) <UNK> 0.053 20.0 431.0 North Country Brewing Company Slippery Rock PA 1642.0 Chattanooga TN 1841.0 0.057
+2139.0 2117.0 Broken Bridge Dunkelweizen <UNK> <UNK> 24.0 343.0 Hardywood Park Craft Brewery Richmond VA 985.0 MD 1518.0 OR
+620.0 570.0 Hotter Than Helles Lager Munich Helles Lager <UNK> 0.05 20.0 442.0 Telluride Brewing Company Telluride CO 2404.0 OR Vivant Belgian Style Imperial Stout (2012) 0.056 MA
+2049.0 1389.0 Osiris Pale Ale American Pale Ale (APA) 16.0 0.053 34.0 335.0 Fargo Brewing Company Fargo ND 337.0 Boise ID 223.0 MD
+239.0 1154.0 Terlingua Gold American Blonde Ale <UNK> 0.058 20.0 107.0 Bonfire Brewing Company Eagle CO 1830.0 OR 1343.0 Grazias Surly Brewing Company
+2295.0 80.0 Upslope Pale Ale American Pale Ale (APA) <UNK> 0.058 20.0 154.0 2 Towns Ciderhouse Corvallis OR 1141.0 ID Hi-Res OR
+2151.0 1945.0 Birdhouse Pale Ale Belgian Pale Ale <UNK> 20.0 227.0 DC Brau Brewing Company Washington DC Atalanta OR Martinsville IN
+470.0 26.0 Black Noddy Lager (Current) Schwarzbier 16.0 0.052 40.0 2.0 Jacks Abby Craft Lagers Framingham MA Belmont CA 1676.0 0.067 MI
+2076.0 1112.0 Overrated! West Coast Style IPA American IPA 16.0 0.07 65.0 1.0 Against the Grain Brewery Louisville KY Royal Weisse Ale OR Popcorn Pilsner OR
+1273.0 1670.0 Manzanita Pale Ale American Pale Ale (APA) <UNK> 0.066 44.0 346.0 Manzanita Brewing Company Santee CA 441.0 0.05 IL Hot Date Ale Tempe
+851.0 2686.0 White Zombie Ale Witbier <UNK> 0.047 20.0 531.0 Dolores River Brewery Dolores CO Brooklyn Summer Ale 0.05 MI Here Gose Nothin OR
+1023.0 1379.0 Harpoon IPA American IPA 24.0 0.057 20.0 120.0 Horny Goat Brew Pub Milwaukee WI 1514.0 IL Four Peaks Peach Ale ME
+2101.0 622.0 Lahaina Town Brown American Blonde Ale 24.0 0.052 18.0 165.0 Great Crescent Brewery Aurora IN 1110.0 OR Number 22 Porter Cincinnati OH
+2390.0 2626.0 Edward’s Portly Brown American Brown Ale <UNK> 0.059 20.0 145.0 Cisco Brewers Nantucket MA 1900.0 KS Squatters Full Suspension Pale Ale SD
+614.0 1142.0 Humidor Series India Pale Ale American IPA <UNK> 0.075 70.0 335.0 Fargo Brewing Company Fargo ND Upslope Pumpkin Ale OR Ozzy 0.05 MI
+781.0 1451.0 Moirai India Pale Ale American IPA 16.0 0.07 105.0 494.0 Seven Brides Brewery Silverton OR Le Flaneur Ale Stillwater MN Snake Dog IPA MA
+377.0 2167.0 Evil Owl American Amber / Red Ale <UNK> 0.053 40.0 0.052 34.0 45.0 Tallgrass Brewing Company Manhattan KS Wobble TN Smartmouth Brewing Company
+632.0 1393.0 Cascadian Dark Ale American Black Ale <UNK> 0.059 60.0 141.0 Cigar City Brewing Company Tampa FL 196.0 OR Myrtle Beach Papillion NE
+1031.0 506.0 Great Falls Select Pale Ale American Blonde Ale <UNK> 25.0 107.0 Bonfire Brewing Company Eagle CO 2342.0 OR Common Sense Kentucky Common Ale WI
+774.0 1434.0 Wood Chipper India Pale Ale American IPA <UNK> 0.069 70.0 0.059 75.0 474.0 Tonka Beer Company Minnetonka MN 148.0 2428.0 CA
+1553.0 1883.0 Centennial State Pale Ale American Pale Ale (APA) 16.0 0.081 17.0 205.0 Peoples Brewing Company Lafayette IN Summer Session Ale OR NC
+979.0 189.0 Roller Dam Red Ale (2010) Irish Red Ale 16.0 0.051 22.0 236.0 Champion Brewing Company Charlottesville VA 1539.0 MD Indiana City Brewing OR
+281.0 1850.0 American India Red Ale American Strong Ale <UNK> 0.169 20.0 386.0 Revolution Brewing Paonia CO 1363.0 OR Booyah Farmhouse Ale OR
+2201.0 529.0 Tin Roof Blonde Ale American Blonde Ale <UNK> <UNK> 18.0 88.0 Cedar Creek Brewery Seven Points TX 856.0 Crozet VA Granny Smith Hard Apple Cider Boise
+696.0 2371.0 Neato Bandito Euro Pale Lager 24.0 0.06 20.0 96.0 Catawba Valley Brewing Company Morganton NC Extra Pale Ale OR 2166.0 0.056 MA
+1914.0 2405.0 Alter Ego Saison / Farmhouse Ale <UNK> 0.062 33.0 81.0 Epic Brewing Denver CO Alphadelic IPA OR 472.0 MO
+1378.0 1459.0 Shipwrecked Double IPA American Double / Imperial IPA 32.0 0.092 75.0 25.0 Sun King Brewing Company Indianapolis IN 1392.0 0.05 SweetWater IPA ID
+988.0 1185.0 Bring Back the Beach Blonde Ale American Blonde Ale 16.0 0.055 20.0 25.0 Sun King Brewing Company Indianapolis IN Pretzel Stout OR 240.0 MA
+111.0 1217.0 El Steinber Dark Lager Vienna Lager 16.0 0.055 25.0 368.0 21st Amendment Brewery San Francisco CA 2300.0 OR 1597.0 CT
+1194.0 2492.0 Schoolhouse Honey American Amber / Red Ale <UNK> 0.048 20.0 48.0 Firestone Walker Brewing Company Paso Robles CA 1756.0 MO Yard Sale Winter Lager Golden CO
+2258.0 9680.75 Hop Notch IPA (2013) American IPA <UNK> 0.075 20.0 -4002.0 Tallgrass Brewing Company Manhattan KS Arvada IL 380.0 OH
+Haywire Hefeweizen (2010) Heavy Seas Beer Peoples Brewing Company SPRYE <UNK> 0.068 20.0 133.0 Southern Prohibition Brewing Com... Hattiesburg MS 2323.0 GA 2395.0 CO
+1162.0 760.0 Cold Smoke Scotch Ale (2007) Scotch Ale / Wee Heavy 16.0 0.065 11.0 82.0 New Belgium Brewing Company Fort Collins CO Seven Brides Brewery OR Boji Beach Golden Rye Ale Virginia Beach VA
+283.0 1848.0 American Red Saison American Stout <UNK> 0.064 20.0 416.0 Jacks Hard Cider (Hauser Estate... Biglerville PA 1549.0 OR Stamford Papillion NE
+104.0 1738.0 the Kimmie  the Yink and the Holy Gose Gose <UNK> 0.057 20.0 300.0 Boston Beer Company Boston MA 2144.0 Midvale UT 910.0 ID
+2388.0 1469.0 Tiny Bomb American Pilsner <UNK> 0.05 15.0 264.0 Ska Brewing Company Durango CO Jack Stout OR Hop Ryot OR
+1100.0 1417.0 Weiss Trash Culture Berliner Weissbier <UNK> 10.0 10.0 166.0 Oskar Blues Brewery Longmont CO Cold Smoke Scotch Ale MD Ski Patrol MI
+2265.0 1703.0 Uncle Johns Apricot Apple Cider Cider 16.0 0.065 20.0 25.0 Sun King Brewing Company Indianapolis IN Overcast Espresso Stout Gary IN 721.0 GA
+979.0 189.0 Roller Dam Red Ale (2010) Irish Red Ale 16.0 0.054 48.0 258.0 Bauhaus Brew Labs Minneapolis MN Rodeo Clown Double IPA OR 1094.0 OR
+Newport 2215.0 Java Mac Scottish Ale 16.0 0.054 20.0 32.0 James Page Brewing Company Stevens Point WI 983.0 Stamford CT 1534.0 OR
+652.0 556.0 Eclipse Black IPA American Black Ale 16.0 0.065 20.0 358.0 Daredevil Brewing Company Shelbyville IN 626.0 OR Lavery Brewing Company ID
+430.0 1651.0 Maize & Blueberry Fruit / Vegetable Beer 16.0 0.056 25.0 314.0 Piney River Brewing Company Bucryus MO Daves Brewfarm OR 0.071 OR
+2407.0 807.0 2061.0 Hefeweizen 16.0 0.052 18.0 379.0 Grey Sail Brewing of Rhode Island Westerly RI 1673.0 OR Tip Off KS
+594.0 2354.0 Lighthouse Amber Altbier 16.0 0.052 20.0 178.0 Three Notchd Brewing Company Charlottesville VA Cans Bar and Canteen Papillion NE Burning Bush Smoked IPA 0.056
+1357.0 1080.0 Hop Happy American IPA 16.0 0.07 20.0 177.0 18th Street Brewery Gary IN 2377.0 Lincoln NE 2067.0 OR
+324.0 1607.0 Bohemian Export Lager Dortmunder / Export Lager <UNK> 24.0 Burn Em Brewing Brooklyn Brewery Missoula MT 1731.0 IL Stowaway IPA CO
+89.0 1921.0 Freeride APA American Pale Ale (APA) <UNK> 61.0 Surly Brewing Company Brooklyn Center MN Red Cockaded Ale OR 1190.0 0.05 MI
+1937.0 995.0 Winterfest American Strong Ale 16.0 0.084 90.0 220.0 Big Choice Brewing Broomfield CO 990.0 OR Wee Mac Scottish-Style Ale MD
+1790.0 1995.0 Oktoberfest Märzen / Oktoberfest <UNK> <UNK> 25.0 Sun King Brewing Company Indianapolis IN 1121.0 OR Saint Louis IN
+836.0 318.0 Vortex IPA American IPA 16.0 0.066 46.0 Winter Warmer 58.0 23.0 Indiana City Brewing Indianapolis IN 1604.0 112.0 Lansdale PA
+1242.0 1475.0 Macon Progress Ale American Pale Ale (APA) <UNK> 101.0 Coastal Extreme Brewing Company Birdsong Brewing Company Charlotte NC 2392.0 CA 1358.0 VT
+760.0 1504.0 Country Boy IPA American IPA <UNK> 70.0 95.0 Denali Brewing Company Hudsonville MI 2075.0 AXL Pale Ale CA 1667.0 ID
+498.0 2652.0 Boy King American Double / Imperial IPA 16.0 0.097 20.0 10.0 Brewery Vivant Grand Rapids MI Bacon Brown Ale OR IN
+2048.0 1420.0 Grapefruit Jungle (GFJ) American IPA 16.0 0.075 115.0 WI 16.0 0.05 20.0 177.0 18th Street Brewery Gary IN 2055.0 0.05 IL
+2216.0 2203.0 Sunshine Pils American Pilsner <UNK> 0.04 47.0 268.0 Long Trail Brewing Company Bridgewater Corners VT 855.0 KS 0.24550000000000002 65.0 MA
+1143.0 2163.0 Sucha Much IPA American IPA <UNK> 0.059 20.0 45.0 Tallgrass Brewing Company Manhattan KS 1178.0 ID 249.0 0.059 50.0
+15.0 1979.0 Bitter Bitch American Pale Ale (APA) <UNK> 0.072 55.0 155.0 Caldera Brewing Company Ashland OR 2229.0 Eau Claire WI Green Room Brewing OR
+1127.0 2453.0 Razz Wheat Fruit / Vegetable Beer <UNK> 0.055 20.0 36.0 Figueroa Mountain Brewing Company Buellton CA WV IL Captains Daughter OR
+2603.0 1425.0 Barrel Aged Seven Devils Imperial Stout Dubbel 16.0 0.059 20.0 399.0 Moab Brewery Moab UT Tasters Choice 0.049 FL Organic Baba Black Lager Vista
+1326.0 1508.0 Shark Bait Fruit / Vegetable Beer <UNK> 0.053 15.0 250.0 Chapmans Brewing Angola IN Sleeping Lady Brewing Company OR Seventh Son Brewing Company OR
+479.0 2478.0 Pale Alement American Pale Ale (APA) <UNK> 47.0 White Birch Brewing Hooksett NH 409.0 0.049 MI 1238.0 VA
+993.0 2143.0 3 Scrooges Winter Warmer 16.0 0.065 20.0 164.0 Round Guys Brewing Lansdale PA 228.0 OR High Hops Brewery OR
+587.0 2018.0 Ale Cider Fruit / Vegetable Beer 16.0 -0.1285 18.0 57.0 Destihl Brewery Bloomington IL 845.0 MD Notch Brewing Company OR
+1391.0 1494.0 Fortunate Islands American Pale Wheat Ale 16.0 0.051 42.0 0.0 NorthGate Brewing Minneapolis MN 1466.0 OR 2524.0 OR
+1650.0 1437.0 Atom Splitter Pale Ale American Pale Ale (APA) <UNK> 198.0 Hop Valley Brewing Company Springfield OR Lee Hill Series Vol. 4 - Manhattan Style Rye Ale Cambridge MA 2547.0 OR
+572.0 1219.0 All American Blonde Ale American Blonde Ale <UNK> 0.052 20.0 411.0 Blueberry Blonde Ale 2668.0 0.039 20.0 ID River North Brewery OR Roller Dam Red Ale
+1182.0 1274.0 Longboard Island Lager American Amber / Red Lager 32.0 0.04 32.0 14.0 South Austin Brewery South Austin TX Blackbeary Wheat OR Crozet 2458.0 NE
+1805.0 124.0 Epicenter Amber Ale (2010) American Amber / Red Ale <UNK> 0.055 20.0 496.0 Dry Dock Brewing Company Aurora CO 607.0 Temecula CA 2557.0 NY
+995.0 2141.0 Grand Trunk Bohemian Pils Czech Pilsener 16.0 0.053 35.0 82.0 New Belgium Brewing Company Fort Collins CO 352.0 OR 34.0 ID
+1622.0 2238.0 Soul Doubt American IPA <UNK> <UNK> <UNK> 552.0 Pikes Peak Brewing Company Monument CO 0.077 OR 460.0 TX
+763.0 2431.0 Bobblehead American Pale Wheat Ale 16.0 0.049 20.0 530.0 Buckbean Brewing Company Reno NV 169.0 Cincinnati OH 1260.0 OR
+782.0 2191.0 Loki Red Ale American Amber / Red Ale 16.0 0.075 97.0 Lincoln Minneapolis MN Widow Maker Black Ale OR 1307.0 Papillion NE
+2042.0 2000.0 Fistful of Hops Orange American IPA 16.0 0.063 75.0 74.0 Two Brothers Brewing Company Warrenville IL Arkansas Red Gary IN 312.0 Davenport
+1391.0 1494.0 Fortunate Islands American Pale Wheat Ale 16.0 0.047 21.0 365.0 Great River Brewery Davenport IA Juneau MD Torpedo MI
+1842.0 975.0 Shipyard Summer Ale American Pale Wheat Ale <UNK> 18.0 133.0 Southern Prohibition Brewing Com... Hattiesburg MS Deadeye Jack MN 9680.75 OK
+1971.0 2271.0 Ball & Chain (2014) American Pale Ale (APA) 16.0 0.06 20.0 175.0 Spiteful Brewing Company Chicago IL Claremont CO 1138.0 OR
+82.0 2674.0 The Brown Note English Brown Ale 16.0 0.05 20.0 177.0 18th Street Brewery Gary IN Lone Tree Brewing Company Rise Up Red PA St Paul OR
+1418.0 699.0 Session 33 (2011) American Pale Lager <UNK> <UNK> 51.0 Caldera Brewing Company Ashland OR 2498.0 OR Infamous Brewing Company Papillion NE
+2139.0 2117.0 Broken Bridge Dunkelweizen <UNK> <UNK> 43.0 144.0 Grimm Brothers Brewhouse Loveland CO 1449.0 Dank IPA IN 1178.0 ID
+1545.0 1530.0 Clems Gold American Pale Lager 16.0 0.053 20.0 25.0 Sun King Brewing Company Indianapolis IN 1592.0 ID 1777.0 CO
+873.0 2521.0 Soul Doubt American IPA -24.0 0.059 70.0 150.0 Oakshire Brewing Eugene OR 2262.0 OH Camelback FL
+2238.0 1630.0 Night Cat (2014) American Dark Wheat Ale <UNK> 0.058 20.0 538.0 Dundee Brewing Company Rochester MI 2621.0 Brevard NC 335.0 Rogers
+2044.0 1996.0 Fistful of Hops Green American IPA 16.0 0.064 75.0 25.0 Sun King Brewing Company Indianapolis IN Huber Bock (2014) 72.0 Spirit Lake IA 2247.0
+474.0 2124.0 Summers Wit Witbier <UNK> 0.059 20.0 375.0 Maui Brewing Company Lahaina HI 236.0 Cleveland OH Hardywood Cream Ale 0.056
+1106.0 729.0 Wagon Box Wheat Beer American Pale Wheat Ale <UNK> <UNK> 25.0 Sun King Brewing Company Indianapolis IN Point Special (2013) OR -316.5 0.049 MI
+340.0 1549.0 Farmer Wirtz India Pale Ale English India Pale Ale (IPA) 16.0 0.063 50.0 329.0 The Bronx Brewery Bronx NY Shelburne VT Vadnais Heights MN
+735.0 98.0 2578.0 English Dark Mild Ale <UNK> 0.053 20.0 61.0 Surly Brewing Company Brooklyn Center MN Hipster Breakfast MO 2688.0 Devil’s Ale OR
+32.0 531.0 Special Edition: Allies Win The War! English Strong Ale <UNK> 0.085 85.0 368.0 21st Amendment Brewery San Francisco CA 246.0 Midvale UT 969.0 Tempe
+1898.0 30.0 Urban Wilderness Pale Ale English Pale Ale <UNK> 0.059 18.0 528.0 Asheville Brewing Company Asheville NC 690.0 MO Morgan Street Oktoberfest OR
+847.0 1872.0 Local Buzz American Blonde Ale <UNK> 0.048 20.0 504.0 Carolina Beer & Beverage Mooresville NC Flagstaff AZ Big Bend Hefeweizen OR
+1891.0 69.0 Euphoria Pale Ale American Pale Ale (APA) <UNK> 0.037 27.0 170.0 Devils Backbone Brewing Company Lexington VA Dolores River Dry Stout OR 1446.0 0.322 UT
+416.0 2091.0 Mela Belgian Dark Ale 16.0 0.062 20.0 10.0 Brewery Vivant Grand Rapids MI 1319.0 Nantucket MA 1391.0 Papillion
+1835.0 5878.25 Stone Fort Brown Ale English Brown Ale 16.0 0.053 20.0 380.0 Blue Blood Brewing Company Lincoln NE 430.0 OR 1458.0 DE
+1305.0 713.0 Aloha B’ak’tun Belgian Strong Dark Ale <UNK> 0.07 20.0 410.0 New England Brewing Company Woodbridge CT Pine Street Brewery OR 1148.0 OR
+519.0 2257.0 Remain in Light American Pilsner <UNK> 57.0 Destihl Brewery Bloomington 20.0 32.0 North Woodstock NH 1391.0 Newport TX 1143.0
+1848.0 1918.0 Cider 16.0 0.08 20.0 54.0 Cleveland OH 257.0 Nantucket MA Texas Pale Ale (TPA) IN
+131.0 2509.0 Porter (a/k/a Black Gold Porter) American Porter 16.0 0.062 31.0 179.0 Carolina Brewery NH Original Orange Blossom Ale (Current) OR 2236.0 MN American Wild Ale
+2060.0 739.0 Barrel Aged Seven Devils Imperial Stout American Double / Imperial Stout <UNK> 0.099 20.0 507.0 Mudshark Brewing Company Lake Havasu City AZ Hoopla Pale Ale OR 2251.0 OR
+770.0 1286.0 Bikini Beer American IPA <UNK> 0.027 20.0 317.0 Marshall Wharf Brewing Company Belfast ME 594.0 2377.0 Lincoln TN Widow Maker Black Ale
+1181.0 2459.0 Blackberry Wheat American Pale Wheat Ale 16.0 0.048 18.0 141.0 Cigar City Brewing Company Tampa FL Big Island Shandy 336.0 MT 2270.0 Salt Lake City
+55.0 2218.0 Ironman English Strong Ale 16.0 0.09 50.0 362.0 Hilliards Beer Seattle WA Painted Turtle OR NH IL
+1886.0 1192.0 Vernal Minthe Stout Oatmeal Stout <UNK> 20.0 Asher Brewing Company Boulder CO 1864.0 GA 1070.0 OR La Cumbre Brewing Company
+1759.0 1330.0 Track 1 Amber Lager American Amber / Red Lager 16.0 0.045 20.0 399.0 Moab Brewery Moab UT Lonerider Brewing Company Nantucket MA Cornstalker Dark Wheat PA
+1373.0 2274.0 Boxer Ice American Adjunct Lager <UNK> 258.0 Amnesia Brewing Company Washougal WA 1483.0 WY 2074.0 0.056 MA
+815.0 1035.0 Rocky Mountain Oyster Stout American Stout <UNK> 322.0 Voodoo Brewery Meadville PA 1427.0 OR 154.0 OR Ornery Amber Lager (2003)
+600.0 2014.0 Operation Homefront American IPA <UNK> 70.0 Great River Brewery Davenport IA Float Trip Ale Palisade CO 1397.0 0.05 MA
+519.0 2257.0 Remain in Light American Pilsner <UNK> -200.5 49.0 509.0 Wingman Brewers Tacoma WA Rip Van Winkle (Current) OR Peak Organic Brewing Company OR
+79.0 2677.0 Coq de la Marche Saison / Farmhouse Ale 16.0 0.042 16.0 179.0 Carolina Brewery Southampton NY Crazy Mountain Amber Ale OR 904.0 OR
+1895.0 1609.0 Initial Point India Pale Ale American IPA <UNK> 0.059 67.0 290.0 Hales Ales Seattle WA Triangle Brewing Company 0.058 MA 1162.0 ID
+816.0 607.0 Underdog Atlantic Lager American Pale Lager <UNK> 0.047 11.0 30.0 SanTan Brewing Company Chandler AZ 302.0 ID Green Room Brewing OR
+683.0 1263.0 El Hefe Speaks Hefeweizen <UNK> 0.053 15.0 360.0 Aviator Brewing Company Fuquay-Varina NC 2548.0 Papillion NE 974.0 OR
+562.0 138.0 Point Special Lager American Adjunct Lager <UNK> 0.053 7.0 143.0 Narragansett Brewing Company Providence RI 1048.0 ID 2376.0 Yo Soy Un Berliner
+283.0 1848.0 American Red Saison Saison / Farmhouse Ale <UNK> <UNK> 20.0 <UNK> Upslope Brewing Company Boulder CO 2115.0 OR 1721.0 MO
+1054.0 724.0 Hilliards Blonde American Blonde Ale 16.0 0.049 20.0 547.0 Moat Mountain Smoke House & Brew... North Conway NH Oval Beach Blonde Ale CA Dam Lager Tacoma WA
+417.0 2086.0 British Pale Ale English Pale Ale Vienna Lager 16.0 0.051 25.0 1.0 Against the Grain Brewery Louisville KY 1141.0 NY White Rabbit CO
+227.0 2496.0 Coq DOr Belgian Pale Ale 16.0 0.05 20.0 10.0 Brewery Vivant Grand Rapids MI Wolverine Premium Lager IN 2324.0 0.045 MI
+2190.0 2621.0 Csar Russian Imperial Stout 16.0 0.12 90.0 0.082 100.0 110.0 Brooklyn NY Pawtucket AK 2560.0 OR
+Mexican Logger 623.0 TailGate Hefeweizen Hefeweizen <UNK> 0.047 28.0 0.05 20.0 65.0 Mikerphone Brewing Chicago IL 1303.0 Los Angeles CA
+1124.0 1405.0 Helens Blend Cider <UNK> 30.0 SanTan Brewing Company Chandler AZ 1032.0 OR Raspberry Berliner Weisse Los Angeles CA
+256.0 1711.0 Moose Drool Brown Ale American Brown Ale <UNK> 15.0 143.0 Narragansett Brewing Company Providence RI Payette Pale Ale OR 2566.0 Ukiah CA
+715.0 2505.0 Abbeys Single (2015- ) American Pilsner <UNK> 0.049 20.0 269.0 Four Horsemen Brewing Company South Bend IN 1512.0 GA 1617.0 0.067 MI
+1618.0 775.0 Mutton Buster American Brown Ale <UNK> 131.0 Stevens Point Brewery 27.0 450 North Brewing Company Columbus IN 402.0 Leaning Chimney Smoked Porter VT 2025.0 TN
+1102.0 1903.0 Let It Ride IPA American IPA <UNK> 0.068 70.0 541.0 Arcadia Brewing Company Battle Creek MI Elm City Lager (2007) OR Tin Man Brewing Company KS
+569.0 1584.0 Scruffys Smoked Alt Smoked Beer 16.0 0.051 36.0 256.0 Finchs Beer Company Chicago IL Moped Traveler OR 892.0 Boise ID
+118.0 77.0 Summer Solstice (2011) Cream Ale <UNK> 432.0 San Luis Obispo CA 626.0 Boise ID 713.0 IL 1136.0
+1487.0 1811.0 Marblehead American Amber / Red Ale 16.0 0.055 20.0 369.0 Eddyline Brewery & Restaurant Buena Vista CO 1660.0 Pollyanna Brewing Company Lemont IL Zaison
+218.0 2494.0 Oberon American Pale Wheat Ale <UNK> 0.059 20.0 514.0 Monkey Paw Pub & Brewery San Diego CA 2014 IPA Cicada Series NY 1737.0 OR
+545.0 782.0 Carolina Blonde Light (2005) American Blonde Ale <UNK> 129.0 346.0 Manzanita Brewing Company Santee CA 227.0 GA 905.0 0.05 0.049 0.049
+2122.0 1433.0 Hat Trick Hop IPA American IPA 16.0 0.059 20.0 370.0 Pizza Port Brewing Company Carlsbad CA Green Collar OR 1067.0 OR
+1627.0 1794.0 Peoples Pilsner German Pilsener <UNK> 0.059 20.0 81.0 Epic Brewing Denver CO Helena CA 1361.0 OR
+834.0 552.0 Cavatica Stout American Double / Imperial Stout 16.0 0.088 20.0 133.0 Southern Prohibition Brewing Com... Hattiesburg MS 73.0 Macon GA 1545.0 NE
+1944.0 1283.0 Na Zdraví Pilsner Czech Pilsener 16.0 -0.02650000000000001 20.0 263.0 Denver Beer Company Denver CO Denver Pale Ale (Artist Series No. 1) OR 2337.0 OR
+2228.0 1438.0 Presidential Pils Czech Pilsener <UNK> 0.058 20.0 32.0 James Page Brewing Company Stevens Point WI 709.0 OR 1136.0 0.057 MI
+198.0 2188.0 Lost Meridian Wit Witbier <UNK> 0.05 20.0 410.0 New England Brewing Company Woodbridge CT 590.0 IL Tribute OR
+628.0 656.0 Indie Pale Ale American IPA <UNK> Light Lager 20.0 204.0 Hawaii Nui Brewing Co. Hilo HI Capital Trail Pale Ale OR 2636.0 OR
+2112.0 765.0 Buffalo Sweat Milk / Sweet Stout 16.0 0.05 20.0 292.0 Baxter Brewing Company Lewiston ME Squeaky Bike Nut Brown Ale OR 2096.0 GA
+111.0 1217.0 El Steinber Dark Lager Vienna Lager 16.0 0.055 16.0 17.0 Tin Man Brewing Company Evansville IN 964.0 KS 1639.0 ID
+1840.0 738.0 Archers Ale (2004) English Pale Ale <UNK> 0.062 20.0 424.0 Wynkoop Brewing Company Denver CO 1838.0 OR 923.0 OR
+683.0 1263.0 El Hefe Speaks Hefeweizen <UNK> 0.053 15.0 300.0 Boston Beer Company Boston MA Schuylkill Punch IL 730.0 OR
+542.0 61.0 Supper Club Lager American Pale Lager <UNK> 0.05 20.0 299.0 Matt Brewing Company Utica NY 299.0 GA Buckbean Brewing Company Monroe WI
+1758.0 1098.0 Hala Kahiki Pineapple Beer Fruit / Vegetable Beer <UNK> 0.048 20.0 416.0 Jacks Hard Cider (Hauser Estate... Biglerville PA Poleeko Gold Pale Ale (2009) OR Cow Creek 0.06 MI
+55.0 2218.0 Ironman English Strong Ale 16.0 0.09 75.0 25.0 Sun King Brewing Company Indianapolis IN Grateful White OR Mishawaka NY
+713.0 1210.0 Mirror Pond Pale Ale American Pale Ale (APA) <UNK> 45.0 Tallgrass Brewing Company Manhattan KS 525.0 191.0 Kilt Lifter Scottish-Style Ale (2009) NJ 2229.0 OR
+878.0 901.0 Harvest Ale Saison / Farmhouse Ale <UNK> 0.065 77.0 160.0 Four Peaks Brewing Company Tempe AZ 2556.0 Garden City ID Pumpkin Patch Ale (2012) PA
+1495.0 2691.0 Maggies Leap Milk / Sweet Stout 16.0 0.049 26.0 314.0 Piney River Brewing Company Bucryus MO 1438.0 OR Lazy Daze Lager OR
+384.0 1801.0 Celsius Summer Ale (2012) American Pale Wheat Ale <UNK> -2364.0 21.0 Three Pints Brewing Martinsville IN Mishawaka IN 1999.0 OR
+1389.0 2154.0 Aurora American Amber / Red Ale 16.0 0.077 20.0 61.0 Surly Brewing Company Brooklyn Center MN 419.0 Middleburg Heights OH Arjuna OR
+1379.0 1476.0 Squeaky Bike Nut Brown Ale American Brown Ale 16.0 0.042 20.0 411.0 Seattle Cider Company Seattle WA 723.0 OR Left of the Dial IPA MI
+269.0 1255.0 Bad Axe Imperial IPA American Double / Imperial IPA 16.0 0.095 76.0 493.0 Broken Tooth Brewing Company Anchorage AK IL 593.0 0.05
+2382.0 2149.0 #001 Golden Amber Lager American Amber / Red Lager <UNK> 0.055 20.0 141.0 Cigar City Brewing Company Tampa FL Pollyanna Brewing Company OR Freedom Fries IL
+849.0 2612.0 Fathers Beer Belgian Pale Ale 16.0 0.05 23.0 165.0 Great Crescent Brewery Aurora IN 614.0 OR Bells Brewery Kalamazoo MI
+85.0 1137.0 Pre Flight Pilsner American Pilsner 16.0 0.054 19.0 Goodlife Brewing Co. Bend OR Evanston IL 2567.0 Cleveland OH
+1356.0 1272.0 Louies Demise Amber Ale American Amber / Red Ale 16.0 0.04 22.0 132.0 Weston Brewing Company Weston MO Woodbridge OR 982.0 ID
+216.0 892.0 Horny Monk Dortmunder / Export Lager 16.0 0.049 20.0 84.0 Keweenaw Brewing Company Houghton MI 2681.0 OR Miners Gold NY
+1335.0 434.0 Sockeye Red IPA American IPA <UNK> 0.07 21.0 181.0 Wild Wolf Brewing Company Danville PA 1048.0 OR 2277.0 IL
+I.W.A. (2011) 265.0 2065.0 American Pale Ale (APA) 16.0 0.045 9.0 165.0 Great Crescent Brewery Aurora IN Bourbons Barrel Stout MD 2473.0 0.056 MA
+1264.0 1320.0 Last Call Imperial Amber Ale American Amber / Red Ale <UNK> 0.068 70.0 150.0 Oakshire Brewing Eugene OR Daves Brewfarm 344.0 CynicAle IN
+1727.0 1742.0 White Zombie Ale Witbier <UNK> 11.0 Petoskey Brewing Petoskey MI Broad Brook Brewing LLC GA Berliner Weissbier OR Mt. Pleasant
+2366.0 430.0 Hop Slayer Double IPA (2011) American Double / Imperial IPA <UNK> <UNK> 45.0 118.0 Southern Star Brewing Company Conroe TX 1996.0 CO 1964.0 MD
+866.0 1208.0 Twisted Helles Summer Lager Munich Helles Lager <UNK> 0.055 20.0 227.0 DC Brau Brewing Company Washington DC Sunken City Brewing Company Arctic Craft Brewery Santa Cruz CA Miners Gold
+2398.0 1514.0 Easy Day Kolsch Kölsch <UNK> 0.045 25.0 125.0 Karbach Brewing Company Houston TX 102.0 Lincoln NE Lucky Buck OR
+376.0 470.0 Bozone Select Amber Ale American Amber / Red Ale <UNK> 0.055 20.0 43.0 Rivertowne Brewing Company Export PA Grapevine Craft Brewery Shreveport LA 399.0 KS
+665.0 1104.0 Rusty Nail Pale Ale American Pale Ale (APA) <UNK> 0.052 20.0 43.0 Rivertowne Brewing Company Export PA Pearl-Snap OR P-51 Porter Grand Canyon American Pilsner OR
+90.0 1920.0 Alaskan Amber Altbier <UNK> 0.047 20.0 116.0 Base Camp Brewing Co. Portland OR 246.0 Midvale UT 0.098 OR
+1681.0 2269.0 Rahrs Blonde Munich Helles Lager <UNK> 0.043 20.0 27.0 450 North Brewing Company Columbus IN 793.0 OR 1583.0 0.035 MI
+386.0 1799.0 Are Wheat There Yet? American Pale Wheat Ale <UNK> 15.0 Anchor Brewing Company San Francisco CA Wolf Among Weeds IPA MI KS IL 2275.0
+891.0 2045.0 Might As Well IPL American Pale Lager 16.0 0.072 75.0 418.0 Coalition Brewing Company Portland OR 2035.0 Snake River Lager 4.0 MI 1306.0
+Fairweather IPA 1117.0 Ferus Fluxus Wild Belgian Pale Ale English Pale Ale <UNK> 0.059 20.0 1057.0 Tamarack Brewing Company Dayton OH Hawaii Nui Brewing Co. KS 340.0 Shreveport LA
+1885.0 1297.0 Country Boy IPA American IPA <UNK> 0.062 40.0 45.0 Tallgrass Brewing Company Manhattan KS 40th Annual Bix Street Fest Copper Ale (Current) OR 2110.0 0.053 MI
+1121.0 2671.0 Excess IPL American India Pale Lager 16.0 0.072 80.0 61.0 Surly Brewing Company Brooklyn Center MN Local Buzz OR 1638.0 OR
+1074.0 2483.0 Hard Cider Cider 16.0 0.068 20.0 289.0 Rogue Ales Gary IN 755.0 0.056 MA 1011.0 OR
+1880.0 423.0 Righteous Ale (2011) Rye Beer 16.0 0.063 57.0 46.0 Sixpoint Craft Ales Brooklyn NY 0.082 IL 2467.0 Gary IN
+1621.0 1930.0 Summer Session Ale American Pale Wheat Ale <UNK> 27.0 450 North Brewing Company Columbus IN Sugar Plum VA 470.0 MD American Red Saison
+1427.0 403.0 Narragansett Summer Ale American Pale Wheat Ale 16.0 0.095 25.0 368.0 21st Amendment Brewery San Francisco CA Good Life Brewing Company 0.05 FL 2297.0 OR
+391.0 2598.0 Tart Side of the Barrel American Double / Imperial Stout 16.0 10.0 20.0 10.0 Brewery Vivant Grand Rapids MI -13850.75 No Limits Hefeweizen Spirit Lake IA 1811.0
+2018.0 2609.0 Tribute American Pale Ale (APA) <UNK> 0.058 32.0 75.0 Bent Paddle Brewing Company Duluth MN Cavatica Stout 0.062 MI Cafe Leche NJ
+2095.0 1709.0 420 Extra Pale Ale American Pale Ale (APA) <UNK> 0.045 8.0 493.0 Broken Tooth Brewing Company Anchorage AK 1221.0 PA 84.0 Seattle WA
+1639.0 1054.0 Great Crescent Blonde Ale (2011) American Blonde Ale 16.0 0.049 20.0 301.0 Old Forge Brewing Company Danville PA Jacaranada Rye IPA OR Kulshan Brewery OR
+1430.0 314.0 Narragansett Fest Lager Märzen / Oktoberfest 16.0 0.065 25.0 1.0 Athens GA Czech Pilsner OR 1463.0 ID
+2041.0 2001.0 Fistful Of Hops Red American IPA 16.0 0.064 75.0 20.0 Bare Hands Brewery Granger IN 320.0 1913.0 0.078 TX Striped Bass Pale Ale
+1364.0 2358.0 Minhas Light (2012) Light Lager <UNK> 0.04 20.0 134.0 Minhas Craft Brewery Jackson WY Marlborough OR Fistful of Hops Green GA
+743.0 457.0 Dundee Summer Wheat Beer American Pale Wheat Ale <UNK> <UNK> 486.0 Bozeman Brewing Company Bozeman MT FL 801.0 OR 946.0
+1171.0 49.0 Köld Lager (2010) German Pilsener 16.0 0.065 18.0 183.0 Seventh Son Brewing Company Columbus OH 2144.0 Roanoke VA 391.0 Pottstown
+1683.0 2370.0 Bottom Up Belgian Wit Witbier <UNK> 0.046 21.0 82.0 New Belgium Brewing Company Fort Collins CO 1069.0 MD 713.0 NY
+293.0 1480.0 Grand Rabbits Cream Ale <UNK> 0.055 20.0 407.0 Bitter Root Brewing Hamilton MT Sea Dog Brewing Company MI MN
+1551.0 2112.0 Atalanta Saison / Farmhouse Ale <UNK> 0.053 20.0 405.0 Fate Brewing Company Boulder CO 10.0 MI 1959.0 SD
+786.0 682.0 Mjolnir Imperial IPA American Double / Imperial IPA <UNK> 0.08 20.0 487.0 Redhook Brewery Woodinville WA 1622.0 OR 1079.0 Glendale WI
+2296.0 79.0 Upslope India Pale Ale American IPA <UNK> 0.072 20.0 51.0 Upslope Brewing Company Boulder CO Owney Irish Style Red Ale ID Moat Mountain Smoke House & Brew... 0.058 MA
+1238.0 355.0 Lumberyard IPA American IPA <UNK> 0.045 20.0 455.0 Sunken City Brewing Company Pinedale WY 0.097 OR 473.0 CO
+502.0 1442.0 F5 IPA American IPA 16.0 0.068 65.0 4.0 Fort Point Beer Company San Francisco CA 204.0 ID 1463.0 MI
+Oskar Blues Brewery (North Carol... 1233.0 Day Break 4-Grain Breakfast Beer Rye Beer 16.0 0.055 20.0 107.0 Bonfire Brewing Company Eagle CO 429.0 0.07 MI 1805.0 OR
+17.0 2170.0 Cherried Away American Amber / Red Ale <UNK> 0.068 20.0 300.0 Boston Beer Company Boston MA Seventh Son Brewing Company OR Croydon OR
+1192.0 2547.0 Beach Cruiser Hefeweizen <UNK> 0.059 60.0 382.0 Blue Mountain Brewery Afton VA Steel Rail Extra Pale Ale ID Molotov Lite 0.056 MA
+199.0 2187.0 Celestial Meridian Cascadian Dark Lager Euro Dark Lager <UNK> ME <UNK> 361.0 Wild Onion Brewing Company Lake Barrington IL 2667.0 GA 1455.0 MO
+2027.0 2232.0 American Amber American Amber / Red Lager <UNK> 0.041 8.0 276.0 Montauk Brewing Company Montauk NY 2221.0 OR Alley Time OR
+2291.0 614.0 Upslope Foreign Style Stout Foreign / Export Stout <UNK> 0.068 20.0 235.0 Back East Brewing Company Bloomfield CT Blazing World 0.056 MA 2677.0 IN
+1718.0 706.0 Yonder Bock Herbed / Spiced Beer 16.0 0.058 28.0 121.0 Cheboygan Brewing Company Cheboygan MI 707.0 OR 872.0 OR
+1229.0 1308.0 Rhino Chasers Pilsner Czech Pilsener <UNK> 0.058 36.0 72.0 Atwater Brewery Detroit MI 1489.0 OR 1494.0 0.065 MI
+1021.0 1558.0 Honey Cider Cider <UNK> 0.048 20.0 503.0 Oskar Blues Brewery Lyons CO Wonderstuff OR 1421.0 AZ
+2168.0 1276.0 Will Power Pale Ale 23.0 143.0 322.0 Voodoo Brewery Hooksett Shelburne VT 1157.0 IN Stout Ol Friend MO
+770.0 1286.0 Bikini Beer American IPA <UNK> 0.099 85.0 90.0 The Lion Brewery Williamsburg MA 272.0 AZ 909.0 OR
+2362.0 1618.0 Pumpkin Ale Pumpkin Ale <UNK> 0.048 20.0 497.0 Cans Bar and Canteen Charlotte NC Liquid Hero Brewery ID 1603.0 WI
+347.0 1183.0 Kindler Pale Ale American Pale Ale (APA) <UNK> 60.0 4 Hands Brewing Company Saint Louis MO Drop Dead Blonde OR English Brown Ale MI Watermelon Ale
+1056.0 148.0 Daisy Cutter Pale Ale American Pale Ale (APA) 16.0 0.052 20.0 174.0 New Orleans Lager & Ale Brewing ... New Orleans LA Newburyport OR Bozone HopZone IPA OR
+Longfin Lager 1202.0 Caldera Pale Ale (2009) American Pale Ale (APA) <UNK> 25.0 Sun King Brewing Company Indianapolis IN Sheridan Davenport IA Bohemian Brewery MD
+198.0 2188.0 Lost Meridian Wit Witbier <UNK> 0.05 20.0 264.0 Ska Brewing Company Durango CO Carolina Blonde (2006) NY Buena Vista IL
+2197.0 2321.0 Turnrow Harvest Ale American Blonde Ale <UNK> 0.05 20.0 76.0 Bells Brewery Kalamazoo MI 1603.0 OR 172.0 Cambridge MA
+526.0 2067.0 Dead-Eye DIPA American Double / Imperial IPA 16.0 0.084 90.0 9.0 428.0 Schlafly Brewing Company Saint Louis MO -3183.0 OR 65.0 0.049
+1748.0 1880.0 All Aboard! Anniversary Stout Oatmeal Stout <UNK> 0.06 20.0 175.0 Spiteful Brewing Company Chicago IL 2052.0 OR Havanüther Shreveport LA
+860.0 2428.0 Four String Vanilla Porter American Porter <UNK> 0.06 20.0 32.0 James Page Brewing Company Stevens Point WI 828.0 OR Valparaiso IN
+1933.0 1152.0 Galena Golden American Blonde Ale <UNK> 0.043 18.0 454.0 Deschutes Brewery Bend OR 525.0 0.056 35.0 Los Angeles CA
+1932.0 1160.0 Old Devils Tooth American Barleywine <UNK> 0.099 100.0 309.0 Sockeye Brewing Company Boise ID Berkshire Brewing Company Lyons IL 1308.0 Rauchbier
+401.0 2476.0 The Grand Army Belgian IPA 16.0 0.055 20.0 365.0 Great River Brewery Davenport IA 2582.0 Quakertown Stout Salt Lake City UT 753.0
+586.0 2019.0 Enlighten Kölsch 16.0 0.045 20.0 200.0 Occidental Brewing Company Portland OR 2103.0 SD Fiddlehead Brewing Company 2616.0 OR
+97.0 2592.0 Liberty Ale American IPA 70.0 0.059 20.0 35.0 Anchor Brewing Company San Francisco CA 2524.0 Spirit Lake IA Hoodoo Voodoo IPA ID
+2320.0 1845.0 Green Monsta IPA American IPA <UNK> 0.059 55.0 527.0 Intuition Ale Works Jacksonville FL 1360.0 OR Hops & Grain Brewery Sly Fox Brewing Company Pottstown
+1086.0 2390.0 Nonstop Hef Hop American Pale Wheat Ale 16.0 0.059 31.0 486.0 Cutters Brewing Company Avon IN Bengali Tiger GA Maibock / Helles Bock MI
+1998.0 2228.0 Point Special American Adjunct Lager <UNK> 0.047 9.0 131.0 Stevens Point Brewery Stevens Point WI Hodad Porter OR Cheboygan Brewing Company NM
+349.0 9680.75 Tent Pole Vanilla Porter American Porter 16.0 0.061 20.0 370.0 Aspen Brewing Company Aspen CO Pilzilla 0.053 FL 236.0 WY
+1073.0 2357.0 Porter Culture American Porter <UNK> 0.065 20.0 537.0 Lewis and Clark Brewing Company Helena MT 1041.0 Greenville DE 1556.0 Seattle
+936.0 930.0 Great Crescent Oktoberfest Lager Märzen / Oktoberfest 16.0 0.057 25.0 165.0 Great Crescent Brewery Aurora IN Saint Archer Pale Ale ME Springdale KS
+205.0 1778.0 On the Count of 3 (2015) Hefeweizen 16.0 0.052 50.0 449.0 TailGate Beer San Diego CA 1481.0 OR 1231.0 OR
+1442.0 1758.0 County Line IPA American IPA <UNK> 0.064 20.0 59.0 Latitude 42 Brewing Company Portage MI Ashland Amber Ale ID 520.0 OR
+640.0 2061.0 Big Blue Van American Brown Ale 16.0 0.074 20.0 43.0 Rivertowne Brewing Company Export PA Tarnation California-Style Lager OR 1355.0 OR
+2100.0 623.0 TailGate Hefeweizen Hefeweizen 24.0 187.0 Pedernales Brewing Company American Amber / Red Lager <UNK> 0.05 20.0 380.0 Blue Blood Brewing Company Lincoln NE 824.0 OR
+275.0 1411.0 Sawtooth Ale American Blonde Ale <UNK> 0.08 57.0 18.0 Upland Brewing Company Bloomington IN 1095.0 Conroe AK Red Jacket Amber Ale OR
+1265.0 1484.0 932.0 Märzen / Oktoberfest 16.0 0.052 15.0 91.0 Madtree Brewing Company Cincinnati OH Southampton Publick House OR Smithton OR
+2246.0 2037.0 The Gilded Age Munich Helles Lager <UNK> 0.043 20.0 30.0 SanTan Brewing Company Chandler AZ Native Amber (2013) IL 1780.0 Lyons MI
+Irish Dry Stout 2069.0 Pedernales Brewing Company American Amber / Red Lager <UNK> 0.0 NorthGate Brewing Borderlands Brewing Company Tucson AZ 1802.0 OR SNO White Ale IL
+2036.0 2085.0 Hop Up Offa That Brett (2014) Belgian Pale Ale 16.0 0.051 20.0 69.0 Appalachian Mountain Brewery Boone NC 810.0 OR Linnaeus Mango IPA OR
+499.0 2252.0 Gran Sport American Porter 16.0 0.052 20.0 327.0 Half Acre Beer Company Chicago IL Celestial Meridian Cascadian Dark Lager Los Angeles CA 2180.0 Hilo
+369.0 2300.0 1492 American Pale Ale (APA) <UNK> 23.0 20.0 East Windsor CT 838.0 ID 21st Amendment Brewery OR Slippery Rock
+1051.0 96.0 Annies Amber Ale American Amber / Red Ale <UNK> 0.051 20.0 47.0 Fort George Brewery Astoria OR 894.0 OR Branchline Brewing Company MN
+1223.0 573.0 Long Trail Ale (1) Altbier <UNK> 0.051 28.0 521.0 Flying Dog Brewery Frederick MD 1278.0 OR 2267.0 OR
+1553.0 Red Hare Brewing Company Big Bend Brewing Company Schlafly Summer Lager Munich Helles Lager <UNK> 0.055 20.0 43.0 Rivertowne Brewing Company Export PA 1121.0 OR 2563.0 Tempe
+1395.0 719.0 Sweet Georgia Brown American Brown Ale 16.0 0.054 20.0 421.0 Sherwood Forest Brewers Marlborough MA 1723.0 Tempe AZ 1282.0 OR
+235.0 1854.0 Blue Boots IPA American IPA 16.0 0.069 20.0 316.0 Crystal Springs Brewing Company Boulder CO Coq de la Marche OR 1808.0 OR
+775.0 2089.0 Trail Head American Pale Ale (APA) <UNK> 0.052 -11.5 161.0 Martin House Brewing Company Fort Worth TX Portside Brewery Cambridge MA 1118.0 OR
+318.0 2488.0 Van Dayum! American Amber / Red Ale <UNK> 0.05 20.0 29.0 Cedar Creek Brewery Seven Points TX Rule G IPA GA 1077.0 OR
+1192.0 2547.0 Beach Cruiser Hefeweizen <UNK> 0.056 20.0 145.0 Cisco Brewers Nantucket MA 304.0 Santa Fe NM Cortland PA
+1982.0 1632.0 In the Weeds American Pale Wheat Ale <UNK> 0.055 20.0 380.0 Blue Blood Brewing Company Lincoln NE Iron Hill Brewery & Restaurant 0.062 MI 21st Amendment Brewery Lyons
+2174.0 2421.0 Watermelon Ale Fruit / Vegetable Beer <UNK> 0.05 15.0 402.0 Founders Brewing Company 0.057 20.0 ID Cropduster Mid-American IPA MI Sheffield OR
+1354.0 273.0 AXL Pale Ale American Pale Ale (APA) 16.0 0.05 20.0 407.0 Bitter Root Brewing Hamilton MT 1059.0 OR 2504.0 Salt Lake City UT
+1332.0 1814.0 Pleasure Town IPA American IPA <UNK> MO Old Ale 55.0 143.0 Narragansett Brewing Company Providence RI 319.0 0.065 MI
+209.0 707.0 Celsius Summer Ale (2012) American Pale Wheat Ale <UNK> 0.047 20.0 115.0 Wiseacre Brewing Company Memphis TN NM IL King Street Pilsner Tampa FL
+1648.0 1384.0 Elephant Rock IPA American IPA 64.0 0.07 75.0 355.0 Pikes Peak Brewing Company Monument CO 613.0 OR Dolores River Mild OR
+2311.0 1376.0 Hard Apple Cider 16.0 0.068 20.0 51.0 Upslope Brewing Company Boulder CO 1988.0 Woodinville WA 2066.0 NE
+2378.0 324.0 Wyoming Pale Ale American Pale Ale (APA) 16.0 0.061 20.0 10.0 Brewery Vivant Grand Rapids MI Carolina Beer & Beverage Nantucket MA 1220.0 OR
+1726.0 416.0 Eugene Porter American Porter <UNK> 0.068 28.0 276.0 Montauk Brewing Company Montauk NY 1972.0 OR Occidental Brewing Company IN
+76.0 2680.0 Shonuff Belgian Pale Ale 16.0 0.079 17.0 510.0 Kettle House Brewing Company Missoula MT 2156.0 Boonville CA British Pale Ale (2010) Florida Cracker Belgian Wit
+58.0 972.0 Rude Parrot IPA American IPA 16.0 0.064 75.0 61.0 Surly Brewing Company Brooklyn Center MN St. Benedicts Winter Ale Newport RI Upslope Belgian Style Pale Ale Meridian
+36.0 173.0 Back in Black American Black Ale <UNK> 0.068 60.0 277.0 Indeed Brewing Company Minneapolis MN -3592.5 0.056 MA Deviant Dales IPA OR
+1764.0 363.0 Milkshake Stout Milk / Sweet Stout 16.0 0.052 20.0 32.0 James Page Brewing Company Stevens Point WI 1953.0 ID 1730.0 0.056 MA
+2304.0 1681.0 Wasatch Apricot Hefeweizen Fruit / Vegetable Beer <UNK> 0.057 8.0 0.047 Grand Rapids MI 608.0 ID 535.0 MI
+355.0 2062.0 Noche Dulce American Porter 16.0 0.077 23.0 46.0 Sixpoint Craft Ales Brooklyn NY 72.0 OR 665.0 Longmont CO
+1844.0 1177.0 Mutiny IPA American IPA 70.0 0.062 43.0 74.0 Two Brothers Brewing Company Warrenville IL 768.0 ID 1250.0 OR
+2241.0 1042.0 Atom Smasher Märzen / Oktoberfest <UNK> 0.048 16.0 0.065 25.0 63.0 Crazy Mountain Brewing Company Edwards CO Lost River Blonde Ale CA 1192.0
+979.0 189.0 Roller Dam Red Ale (2010) Irish Red Ale 16.0 0.054 43.0 97.0 Tröegs Brewing Company Hershey PA Peoples Pilsner OR 572.0 OR
+1383.0 337.0 Boneshaker Brown Ale English Brown Ale 24.0 0.055 20.0 385.0 Shipyard Brewing Company Portland ME 686.0 OR Celestial Meridian Cascadian Dark Lager UT
+2302.0 397.0 Wolfmans Berliner Berliner Weissbier <UNK> 0.044 <UNK> 17.0 Tin Man Brewing Company Evansville IN Leavenworth Longmont CO Sherwood Forest Brewers 368.0
+1017.0 1331.0 Hardywood Cream Ale Witbier <UNK> 0.061 20.0 82.0 New Belgium Brewing Company Fort Collins CO American Double / Imperial IPA OR 394.0 Bloomfield CT
+1479.0 2042.0 Kadigan American Blonde Ale <UNK> <UNK> 33.0 The Dudes Brewing Company Torrance CA Rhubarbarian OR 908.0 GA
+1053.0 889.0 Hilliards Pils Czech Pilsener 16.0 0.05 20.0 387.0 Natian Brewery Portland OR Sky Blue Golden Ale IN 597.0 OR
+526.0 2067.0 Dead-Eye DIPA American Double / Imperial IPA 16.0 0.09 130.0 230.0 Cape Ann Brewing Company Gloucester MA Pursuit GA 1863.0 OR
+601.0 2013.0 Wandering Pelican American Black Ale <UNK> 0.065 65.0 510.0 Kettle House Brewing Company Missoula MT 536.0 WY 0.098 CO
+2329.0 618.0 Green Monsta IPA American IPA <UNK> 0.059 81.0 448.0 Mavericks Beer Company Dry Dock Brewing Company Aurora CO 323.0 IN Tempter IPA MI
+1359.0 776.0 O-Gii Witbier 16.0 0.069 20.0 24.0 Burn Em Brewing Michigan City IN 1910.0 OR 518.0 OR
+1087.0 2389.0 Nonstop Hef Hop American Pale Wheat Ale 16.0 0.039 20.0 80.0 Hopworks Urban Brewery Portland OR Silverton Brewery GA 1341.0 IL
+765.0 2429.0 Voodoo American Porter 16.0 0.048 20.0 10.0 Brewery Vivant Grand Rapids MI Agent a Deux 0.05 MI 698.0 0.05
+1248.0 1816.0 LIFT Kölsch <UNK> 0.05 22.0 284.0 Milwaukee Brewing Company Milwaukee WI 458.0 0.056 MA 1490.0 IN
+976.0 517.0 40th Annual Bix Street Fest Copper Ale (Current) American Amber / Red Ale 16.0 0.053 20.0 25.0 Sun King Brewing Company Indianapolis IN Wood Splitter Pilsner (2012) Gary IN Blue Owl Brewing IN
+823.0 2111.0 What the Butler Saw Witbier <UNK> 0.042 15.0 419.0 Sanitas Brewing Company Boulder CO 683.0 OR 2339.0 Squatters Hop Rising Double IPA
+1211.0 1687.0 Schweet Ale Fruit / Vegetable Beer <UNK> 0.052 20.0 323.0 D.L. Geary Brewing Company Portland ME 550.0 OR 19.0 0.066 CT
+1303.0 1429.0 Pau Hana Pilsner Czech Pilsener <UNK> 61.0 Surly Brewing Company Brooklyn Center MN Long Trail Ale OR Dales Pale Ale (2010) OR 1031.0
+1658.0 479.0 Missouri Mule India Pale Ale American IPA 16.0 0.07 70.0 209.0 Modern Times Beer San Diego CA 72.0 0.05 MI Redband Stout OR
+-10237.25 2386.0 Third Eye Enlightened Pale Ale American Pale Ale (APA) <UNK> 0.065 65.0 375.0 Maui Brewing Company Lahaina HI 129.0 0.045 FL Pako’s EyePA Davenport
+1362.0 2361.0 Axe Head Malt Liquor American Malt Liquor 24.0 0.081 33.0 165.0 Great Crescent Brewery Aurora IN Ozark American Pale Ale OR 353.0 ID
+1178.0 1666.0 30.0 Urban Wilderness Pale Ale English Pale Ale <UNK> 0.062 20.0 392.0 Santa Fe Brewing Company Santa Fe NM Bronx Pale Ale Galaxyfest OR
+2127.0 2448.0 Reactor American IPA 16.0 0.07 20.0 206.0 Fort George Brewery Astoria OR Amnesia Brewing Company Special Amber Saint Louis MO 1704.0
+706.0 1885.0 Gutch English Style Mild Ale English Pale Mild Ale <UNK> 0.05 16.0 283.0 Two Henrys Brewing Company Plant City FL 1392.0 ME 148.0 Papillion NE
+625.0 1365.0 Pumple Drumkin Kölsch <UNK> 0.058 20.0 216.0 SweetWater Brewing Company Atlanta GA 2618.0 GA Crooked Fence Brewing Company OR
+772.0 1722.0 Iron Horse Pale Ale American Pale Ale (APA) <UNK> 0.05 37.0 47.0 White Birch Brewing Hooksett NH Pako’s EyePA OR 750.0 ID
+5.0 2262.0 Sex and Candy American IPA <UNK> 0.068 20.0 378.0 Bold City Brewery Jacksonville FL 1505.0 OR 1153.0 OR
+1519.0 1130.0 Occidental Dunkel Dunkelweizen 16.0 0.051 20.0 162.0 Right Brain Brewery Traverse City MI 837.0 WV Hop Crisis OR
+1171.0 72.0 Gandhi-Bot Double IPA (16 oz.) (2010) American Double / Imperial IPA 16.0 0.099 85.0 473.0 Engine House 9 Tacoma WA Eddy Out Pale Ale OR Bitter Brewer OR
+389.0 2637.0 Belfort Saison / Farmhouse Ale 16.0 0.067 11.0 133.0 Southern Prohibition Brewing Com... AR American Red Saison OR Warrenville IL
+1348.0 2529.0 Love In An Ellavator American IPA 24.0 0.075 20.0 59.0 Latitude 42 Brewing Company Portage MI Deflator Papillion NE 1356.0 Roanoke
+572.0 1219.0 All American Blonde Ale American Blonde Ale <UNK> 23.0 26.0 Nantucket MA Hard Cider OR Vista OR 868.0
+1106.0 729.0 Midnight Ryder American Black Ale <UNK> 0.065 80.0 277.0 Indeed Brewing Company Minneapolis MN 289.0 0.058 MA Salamander Slam IN
+604.0 2010.0 Puppys Breath Porter American Porter <UNK> 0.068 20.0 212.0 Crow Peak Brewing Company Spearfish SD The Great Pumpcan OR Vadnais Heights AZ
+2158.0 2035.0 Kolschtal Eddy Kölsch 16.0 0.05 20.0 152.0 Tin Roof Brewing Company Baton Rouge LA 509.0 Lost Nation Brewing East Fairfield VT Lucky Buck
+764.0 2430.0 Lucky Dog American Pale Ale (APA) 16.0 0.058 45.0 45.0 Tallgrass Brewing Company Manhattan KS 1898.0 Vista CA Sleeping Lady Brewing Company TX
+2036.0 2085.0 Hop Up Offa That Brett (2014) Cider 16.0 0.058 20.0 284.0 Milwaukee Brewing Company Milwaukee WI 878.0 OR 980.0 OR
+972.0 672.0 Hop A Potamus Double Dark Rye Pale Ale Rye Beer 16.0 0.09 99.0 365.0 Great River Brewery Davenport IA 472.0 Lyons CO 1171.0 OR
+1671.0 1463.0 Hideout Helles Munich Helles Lager <UNK> 149.0 Lonerider Brewing Company Raleigh NC 102.0 Great Crescent Oktoberfest Lager 0.06 MI Boont Amber Ale (2010) TX
+1856.0 161.0 Red Mountain Ale American Amber / Red Ale <UNK> 0.056 20.0 76.0 Bells Brewery Kalamazoo MI Magic Hat Brewing Company 0.056 MA Caldera Brewing Company 0.057
+1421.0 2345.0 Gansett Light Light Lager 16.0 0.082 20.0 10.0 Brewery Vivant Grand Rapids MI Soul Doubt OR 2486.0 NY
+344.0 1421.0 Live Local Golden Ale American Blonde Ale <UNK> 0.047 20.0 142.0 Third Street Brewhouse Cold Spring MN LIFT TX 378.0 38.0 East Fairfield
+973.0 655.0 Farmer Brown Ale American Brown Ale 16.0 0.07 22.0 143.0 Narragansett Brewing Company Providence RI 1436.0 Mammoth Brewing Company MI Shiva IPA ID
+2128.0 2447.0 Mr. Orange Witbier <UNK> 0.057 20.0 32.0 James Page Brewing Company Stevens Point WI 672.0 OR 563.0 IL
+1195.0 2491.0 10 Degrees of Separation American Brown Ale <UNK> 0.055 20.0 256.0 Finchs Beer Company Chicago IL Lemon Shandy Tripel ID 2574.0 NY
+2309.0 1378.0 Totally Roasted Cider 16.0 0.068 20.0 185.0 Vander Mill Ciders Spring Lake MI 2138.0 ID Pumpkin Patch Ale (2012) Contemplation (2012) 0.052
+1664.0 1191.0 Swamis India Pale Ale American IPA 16.0 0.068 20.0 451.0 Dad & Dudes Breweria Aurora CO 621.0 NM 1445.0 Sunny Haze 0.077
+1645.0 2312.0 Camelback American IPA <UNK> 0.061 87.0 202.0 Kirkwood Station Brewing Company Kirkwood MO Intuition Ale Works 0.058 OR 776.0 OR
+411.0 2241.0 Viking Ice Hole Oatmeal Stout 16.0 0.077 20.0 392.0 Santa Fe Brewing Company Santa Fe NM 816.0 OR Thai Style White IPA OR
+1433.0 1265.0 Old Grogham Imperial India Pale Ale American Double / Imperial IPA 16.0 0.085 20.0 173.0 Evil Twin Brewing Brooklyn NY 477.0 Roller Dam Red Ale 2570.0 Bière de Garde 0.044
+507.0 1419.0 Caldera Pale Ale American Pale Ale (APA) <UNK> 177.0 18th Street Brewery 65.0 Indianapolis IN Original Davenport IA 369.0 IA
+867.0 2527.0 OktoberFiesta American IPA <UNK> 0.053 15.0 493.0 Broken Tooth Brewing Company Anchorage AK OK IL 374.0 Boonville CA
+245.0 1002.0 Gerry Dog Stout American Stout <UNK> 0.065 20.0 166.0 Oskar Blues Brewery Longmont CO Ol Factory Pils OR 2575.0 Great Falls Select Pale Ale IN
+946.0 439.0 Great Crescent Mild Ale English Dark Mild Ale 16.0 0.042 18.0 530.0 Buckbean Brewing Company Newport RI Black Beerd Salt Lake City UT Latrobe NY
+2139.0 2117.0 Broken Bridge Dunkelweizen <UNK> 0.058 20.0 366.0 Mustang Brewing Company Mustang OK Back East Brewing Company OR Santa Fe Oktoberfest OR
+2102.0 362.0 Blacktop Blonde American Blonde Ale <UNK> 25.0 Jackson WY 2396.0 IN WY IL 1778.0 KS
+2333.0 1984.0 Cherry Bomb Cider 16.0 0.068 55.0 191.0 Snake River Brewing Company Jackson MS 11582.0 OR 1492 OR
+967.0 1064.0 Owney Irish Style Red Ale Irish Red Ale 16.0 0.05 17.0 377.0 Lucette Brewing Company Menominie WI 2324.0 OR 867.0 0.05
+375.0 1288.0 Bozone Hefe Weizen Hefeweizen <UNK> 15.0 248.0 Half Full Brewery Stamford CT Stone of Arbroath MD 2238.0 0.051 OR
+1531.0 603.0 Midwest Charm Farmhouse Ale Saison / Farmhouse Ale 16.0 0.059 13.0 152.0 Tin Roof Brewing Company Baton Rouge LA 1782.0 0.051 FL Grazias 0.056
+1548.0 1527.0 Brünette American Amber / Red Lager 16.0 0.045 20.0 440.0 MillKing It Productions Royal Oak MI 497.0 Tempe AZ Lexington Black Bear Dark Lager
+129.0 2511.0 Long Leaf American IPA 16.0 0.077 65.0 Mikerphone Brewing Chicago IL Big Bend Brewing Company Breckenridge Brewery Denver CO Banner Beer Company -0.20500000000000002
+2185.0 Tsunami IPA American IPA 16.0 0.072 69.0 225.0 Palisade Brewing Company Palisade CO There Will Be Stout MI 2032.0 0.056 MA
+95.0 1473.0 Damnesia American IPA 16.0 0.06 60.0 80.0 Hopworks Urban Brewery Portland OR Peoples Brewing Company GA 2215.0 0.055 OR
+Milwaukee Brewing Company Wildwood Brewing Company Sea Hag IPA (Current) American IPA <UNK> 20.0 134.0 Minhas Craft Brewery Monroe WI 1811.0 Cambridge MA 715.0 OR
+32.0 531.0 Special Edition: Allies Win The War! English Strong Ale <UNK> 0.085 95.0 368.0 21st Amendment Brewery San Francisco CA Homefront IPA OR 847.0 Papillion NE
+1845.0 2474.0 Nooner German Pilsener <UNK> 0.048 20.0 386.0 Revolution Brewing Paonia CO Baltimore 0.06 PA 1094.0 OR
+648.0 737.0 Chesters Beer (2005) American Pale Lager <UNK> <UNK> 20.0 323.0 D.L. Geary Brewing Company Portland 104.0 Seven Points Chicago IL 1665.0 OR
+2382.0 2149.0 #001 Golden Amber Lager American Amber / Red Lager <UNK> 0.055 20.0 382.0 Blue Mountain Brewery Arrington VA 250.0 0.045 FL 2387.0 ID
+565.0 1213.0 Chuli Stout Irish Dry Stout <UNK> 0.051 20.0 470.0 Petes Brewing Company San Antonio TX 248.0 KS 0.0 0.056 MA
+472.0 2552.0 Painted Turtle American Pale Ale (APA) <UNK> 0.052 20.0 43.0 Rivertowne Brewing Company Export PA 155.0 Black Me Stout NY 1465.0
+1699.0 1467.0 Happy Cider Cider 16.0 0.055 20.0 500.0 High Noon Saloon And Brewery Leavenworth KS 1219.0 OR 972.0 ID
+189.0 1776.0 All Nighter Ale Foreign / Export Stout <UNK> 309.0 20.0 529.0 Northwoods Brewpub Eau Claire WI 595.0 Waynesville NC 590.0 OR
+1952.0 1120.0 Hipster Breakfast Oatmeal Stout 16.0 0.051 50.0 228.0 Geneva Lake Brewing Company Lake Geneva WI 1483.0 TN 994.0 0.056 MA
+190.0 1644.0 Banner American Rye Rye Beer <UNK> 0.045 20.0 460.0 Fremont Brewing Company Seattle WA 1299.0 OR Bay of Bengal Double IPA (2014) OR
+700.0 1203.0 Double Brown Stout Baltic Porter <UNK> 0.07 20.0 11.0 Broken Tooth Brewing Company Anchorage AK 767.0 KS Point Special (Current) OR
+858.0 179.0 Kilt Lifter Scottish-Style Ale (2009) Scottish Ale <UNK> <UNK> 70.0 279.0 Foolproof Brewing Company Pawtucket RI 207.0 FL 1977.0 OR
+1220.0 1924.0 Long Trail Ale American Amber / Red Ale <UNK> 17.0 241.0 New Republic Brewing Company College Station TX 67.0 ID 1378.0 Boise ID
+790.0 1661.0 Dayman IPA American IPA <UNK> 0.062 20.0 1548.0 Rahr & Sons Brewing Company Fort Worth TX 892.0 0.05 FL Newport OR
+908.0 1108.0 Sweet As Pacific Ale American Pale Wheat Ale <UNK> 150.0 American IPA 18.0 217.0 Forgotten Boardwalk Cherry Hill NJ 1163.0 0.049 FL 1358.0
+1445.0 2230.0 American Amber / Red Ale <UNK> 0.054 20.0 551.0 Silverton Brewery Silverton CO 719.0 OR 1770.0 GA
+704.0 943.0 Deep Ellum IPA American IPA <UNK> 0.07 70.0 4051.5 Two Beers Brewing Company Seattle WA Big Muddy Brewing VT High Country Pilsner (Current) OR
+1960.0 1011.0 Red Cockaded Ale (2013) American Double / Imperial IPA <UNK> 148.0 Mike Hess Brewing Company San Diego CA 2688.0 462.0 Silverton CO Lucky Day IPA OR
+1184.0 1070.0 Longboard Island Lager American Amber / Red Lager <UNK> -200.5 470.0 487.0 Redhook Brewery Woodinville WA Last Call Imperial Amber Ale OR Maylanis Coconut Stout OR
+2298.0 381.0 Upstate I.P.W. American IPA <UNK> 0.07 70.0 331.0 Catawba Brewing Company Morganton NC Hyannis OR Meridian ID
+1182.0 1274.0 Longboard Island Lager American Amber / Red Lager 24.0 0.047 8.0 131.0 Stevens Point Brewery Stevens Point WI 1877.0 OR 1086.0 OR
+199.0 2187.0 Celestial Meridian Cascadian Dark Lager Euro Dark Lager <UNK> 0.051 45.0 133.0 Southern Prohibition Brewing Com... Hattiesburg MS Charlottesville CO Copperhead Amber 0.057 MI
+1597.0 733.0 Gordon Beer (2006) American Double / Imperial IPA <UNK> 0.087 85.0 503.0 Oskar Blues Brewery Lyons CO Tallgrass IPA MI Four Horsemen Brewing Company OR
+2189.0 -4895.5 Damascene Apricot Sour Fruit / Vegetable Beer 16.0 0.047 9.0 119.0 Rivertowne Brewing Company Export PA 1939.0 0.056 MA 2503.0 OR

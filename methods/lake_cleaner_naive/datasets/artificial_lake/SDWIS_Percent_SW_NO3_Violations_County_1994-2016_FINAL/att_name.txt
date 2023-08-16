@@ -1,0 +1,1 @@
+{0: 'state_county', 1: 'state', 2: 'statefips', 3: 'cntyfips', 4: 'county', 5: 'county_two', 6: 'fips', 7: 'fips_two', 8: 'perc_viol'}

@@ -1,0 +1,500 @@
+RI Providence Narragansett Brewing Company 143 70 0.082 16 American Strong Ale American India Red Ale 1850 281 1137 Richmond Midwest Charm Farmhouse Ale
+PA Lansdale Round Guys Brewing 164 36 0.056 <UNK> Extra Special / Strong Bitter (ESB) 14° ESB 1902 229 American Barleywine Tug Pale Ale Flat 12 Bierwerks
+HI Hilo Mehana Brewing Co. 203 75 0.072 16 American IPA Green Monsta IPA 618 2329 1292 913 2364
+WI Stevens Point Stevens Point Brewery 131  0.054 <UNK> American Double / Imperial IPA Rhinegeist Brewery 446 Vanilla Java Porter 0.092 1905
+CO Dolores Dolores River Brewery 531   16 Pumpkin Ale 816 1364 2363 Squeaky Bike Nut Brown Ale 2340 295
+IL Chicago Mikerphone Brewing 65  0.055 16 American Pale Ale (APA) Colorado Red Ale 220 1719 AXL Pale Ale 1912 Humulus Nimbus Super Pale Ale
+SC Charleston COAST Brewing Company 5  0.068 <UNK> American Double / Imperial IPA Cali Creamin 2413 1405 Big Sky Brewing Company 1493 Karbachtoberfest
+WY Jackson Snake River Brewing Company 18 0.05 16 Munich Helles Lager Twisted Helles Summer Lager 1208 866 Flagship Ale American Double / Imperial IPA 1875 864 Loki Red Ale (2013) 705
+MI Grand Rapids Brewery Vivant 10  0.055 16 Rauchbier Norns Roggenbier 1453 779 157 Dead-Eye DIPA
+TX Alpine Big Bend Brewing Company 463  0.068 16 Hefeweizen Adams Stout 1832 1209 661 Washougal Rivertowne Brewing Company
+HI Hilo Geneva Lake Brewing Company 1 18 0.049 <UNK> Fruit / Vegetable Beer Hell or High Watermelon Wheat (2009) 802 26 Perpetual IPA 1246 Grandmas Pecan 1113
+MI Grand Rapids Brewery Vivant 10  0.07 16 Belgian Dark Ale Tart Side of the Moon 1136 436 BrightCider Big Blue Van River Runners Pale Ale
+ID Boise Sockeye Brewing Company 309  0.05 <UNK> Märzen / Oktoberfest Manayunk Oktoberfest 1626 1261 Lucky Day IPA Caldera Brewing Company 1841
+SC Mt. Pleasant Westbrook Brewing Company 384 16 0.05 <UNK> Light Lager Wisconsin Amber (1998) 840 538 Consilium 1027 Cowbell
+MI Grand Rapids Brewery Vivant 10  0.045 16 Kölsch Kol Beer 1969 1942 1443 The Right Brain Brewery 957
+CO Fort Collins Pateros Creek Brewing Company 441 48 32 0.038 16 Belgian IPA 30 Min Coma 1948 2045 CA 2192
+CO Edwards Crazy Mountain Brewing Company 63 25 0.082 <UNK> American Double / Imperial IPA 1715 2090 616 1555 Wolf Among Weeds IPA (2012) Bear Butte Nut Brown Ale
+CA Carlsbad Pizza Port Brewing Company 370  0.068 16 American IPA Mad Manatee IPA 1569 329 1846 Worcester 1531
+AZ Williams Grand Canyon Brewing Company 536   <UNK> American Pale Ale (APA) White Thai 576 2341 Citra Faced Vertex IPA 789
+CT Woodbridge New England Brewing Company 410  0.053 <UNK> Munich Helles Lager Helles Golden Lager 1123 1903 Scarecrow 1932 2340
+OH Columbus Four String Brewing Company 105 70 0.07 <UNK> American IPA Tsunami IPA 2186 1320 Bat Outta Helles 1307 Old Grogham Imperial India Pale Ale (2012)
+IN Indianapolis Sun King Brewing Company 25 23 0.09 16 Belgian Dark Ale 914 941 1751 Point Nude Beach Summer Wheat (2011) Granger 1681
+CT Woodbridge New England Brewing Company 410  0.067 <UNK> Munich Helles Lager Summer of Lager 657 627 2179 CA Chronic Ale
+CO Dolores Arctic Craft Brewery 513 missing 0.054 16 Kölsch 183 403 53 Live Local Golden Ale 302 Blue Blood Brewing Company
+CO Denver Denver Beer Company 263 15 American Double / Imperial IPA Fuquay-Varina 967 37 2613 American Double / Imperial IPA 1313 1025 300 175 American Pale Ale (APA)
+TN Memphis Wiseacre Brewing Company 239 missing 0.06 <UNK> American Porter Leatherhead Red 1889 2184 1286 0.097 Pug Ryans Brewery Moose Drool Brown Ale
+MI Grand Rapids Brewery Vivant 10  0.092 16 Belgian Pale Ale Cortez Gold 1724 1761 436 1949 Washita Wheat
+TX Seven Points Cedar Creek Brewery 29 70 0.068 16 American IPA Long Hammer IPA 915 2219 Lake Havasu City American Double / Imperial IPA 1198 2175
+CA Paso Robles Firestone Walker Brewing Company 48 70 0.07 <UNK> American Stout Old Chub (2008) 787 1588 Meckleys Cidery 1087 Best Brown 2667
+CO Denver Great Divide Brewing Company 6  0.071 <UNK> American IPA Bozone HopZone IPA 1289 374 IL 1553 Bloomfield American Double / Imperial IPA
+CA Boonville Anderson Valley Brewing Company 171  0.055 <UNK> American Pale Ale (APA) Smoking Mirror 1057 580 Hop Happy 2162 Occidental Hefeweizen 1224
+CA San Diego Hess Brewing Company 423   16 English Dark Mild Ale Scotty K NA 606 2267 Lizzys Red American Porter 631 991 529
+OR Portland Coalition Brewing Company 418 13 0.051 16 American Blonde Ale Blonde Czich 2604 761 286 765 Titan IPA
+TX Conroe Southern Star Brewing Company 118  0.055 <UNK> American IPA #004 Session I.P.A. 2146 2385 Fruit / Vegetable Beer 984 688 1299
+MN Minneapolis Indeed Brewing Company 277 90 0.084 <UNK> American IPA Hop Knot IPA 358 857 Dolores River Pale Ale American Double / Imperial IPA 2252 428 312
+IN Aurora Great Crescent Brewery 165 66 16 0.05 16 Belgian Pale Ale Very Noddy Lager (Current) 29 467 Hoperation Overload Dales Pale Ale 831
+CO Dillon Pug Ryans Brewery 135 68 0.074 <UNK> American IPA Moose Drool Brown Ale (2011) 767 258 1933 0.082 Night Shift Brewing
+MN Brooklyn Center Surly Brewing Company 61 37 0.063 16 American Amber / Red Ale Louies Demise Amber Ale 1272 1356 2333 Grapefruit Sculpin Midvale
+NM Santa Fe Santa Fe Brewing Company 392  0.055 <UNK> English Stout Roller Dam Red Ale (2010) Belt 291 676 469 1242
+NV Reno Buckbean Brewing Company 530 42 0.077 16 American Pale Ale (APA) Caldera IPA (2007) 792 511 Shift (1) 73 0.093 EOS Hefeweizen
+SD Spearfish Crow Peak Brewing Company 212  0.055 <UNK> Hefeweizen Heliocentric Hefeweizen 1721 1525 2428 Dead Eye Dunkel American Pale Wheat Ale
+CA Boonville Anderson Valley Brewing Company 171 15 0.058 <UNK> American Pale Ale (APA) Beach Patrol 2499 398 541 2038 526
+NY Brooklyn Brooklyn Brewery 437 47 0.051 <UNK> Belgian Pale Ale Fathers Beer 2612 849 Williams Heady Topper 911
+MI Grand Rapids Brewery Vivant 10  0.062 16 American IPA oSKAr the GRauch 992 1564 Tribute 1397 No Wake IPA Cowbell
+CO Denver Wynkoop Brewing Company 424  0.082 <UNK> Winter Warmer 351 missing 1919 168 Painted Turtle Citra Ass Down
+CA Paso Robles Firestone Walker Brewing Company 48 70 0.07 <UNK> Radler Totally Radler 2482 1075 Diesel 12 Man Pale Ale American Double / Imperial IPA 1215
+ME Portland D.L. Geary Brewing Company 323  0.06 <UNK> Altbier Tripel Deke 2536 1897 Leominster Gordon (2005) 497
+MS Hattiesburg Southern Prohibition Brewing Com... 133 60 0.06 <UNK> American Pale Ale (APA) Mjolnir Imperial IPA 682 786 Mr. Orange Good Life Brewing Company 1840
+IL Newport Longhop IPA 1920  0.062 0.072 16 American IPA IPA 2578 65 0.06 1249 Kamen Knuddeln
+CA San Francisco 21st Amendment Brewery 368 17 0.055 <UNK> Berliner Weissbier Yo Soy Un Berliner 2520 874 2341 1100 962
+CO Golden AC Golden Brewing Company 462 26 0.055 <UNK> Czech Pilsener King Street Pilsner 1706 1176 2286 WYLD Extra Pale Ale 1614
+OH Dayton Warped Wing Brewing Company 16 0.08 16 American Porter P-51 Porter 761 2381 King Winterbolt Winter Ale 1731 Raincloud Robust Porter
+IL Chicago Spiteful Brewing Company 175  0.099 <UNK> American Double / Imperial IPA Second Wind Pale Ale 419 1406 Harness the Winter Crazy Mountain Amber Ale Altus Bohemes Altbier
+IL Bloomington Destihl Brewery 57 22 0.048 <UNK> American Pale Wheat Ale 1277 2218 77 Mountain Fairy Raspberry Wheat 1544 1470
+NY Brooklyn Brooklyn Brewery 437  0.058 <UNK> American Amber / Red Ale Point Nude Beach Summer Wheat (2011) 772 2008 273 2550 2231 <UNK>
+CA San Diego Hess Brewing Company 423 85 0.099 32 American Double / Imperial IPA Crazy Mountain Brewing Company 1117 1954 Copperhead Amber Festie Three Creeks Brewing
+CA San Diego Mission Brewery 98 18 0.05 16 American Blonde Ale Dead Horse Amber 902 1380 62 1735 Bark Bite IPA
+CA Sacramento Ruhstaller Beer Company 397 55 0.073 <UNK> American Black Ale Heavy Machinery IPA Series #1: Heavy Fist 1409 157 Martinsville Green Bay 1443 Northamtpon
+PA Hershey Tröegs Brewing Company 97 24 0.054 <UNK> American Brown Ale Hurricane Amber Ale (2004) 751 638 1192 1889 Aftermath Pale Ale
+FL Tampa Cigar City Brewing Company 141 40 0.05 <UNK> American IPA Blackbeary Wheat 574 1222 Fat Tire Amber Ale (2011) 670 Airways Brewing Company
+CA San Diego Mission Brewery 98  0.08 32 Belgian Pale Ale Old Chub 5 1582 Hop Happy 502 645
+CO Lyons Oskar Blues Brewery 503 35 0.058 <UNK> American Pale Ale (APA) Three Way Pale Ale 1781 2171 2044 Wheat Ale Lancaster Brewing Company
+ID Boise Sockeye Brewing Company 309  0.05 <UNK> Fruit / Vegetable Beer Youre My Boy, Blue 1802 383 591 Icey.P.A. 371
+MT Bozeman Bozeman Brewing Company 483 69 0.073 <UNK> American IPA Irish Channel Stout 1582 1473 High Country Pilsner (Current) 1537 2176
+LA Abita Springs Abita Brewing Company 533 52 0.065 <UNK> American IPA Red Clay IPA 1206 2072 Rhinegeist Brewery 1088 Redlands 0.047 WY
+VA Tulsa Dead Armadillo Craft Brewing 330 37 17 0.055 16 Saison / Farmhouse Ale Provision 1835 1058 Birth IPA Vivant Belgian Style Imperial Stout (2012)
+AZ Phoenix Phoenix Ale Brewery 157 60 0.061 <UNK> American IPA Long Hammer IPA 945 1700 Piney River Brewing Company 414 2502
+CA San Diego Mike Hess Brewing Company 3 30 0.054 16 Dortmunder / Export Lager Indians Victory Lager (2012) 698 2061 SD Mamas Little Yella Pils 1790
+MA Hyannis Cape Cod Beer 267 10 0.05 16 American Blonde Ale 90 missing 213 2586 Squatters Hop Rising Double IPA (2014) Minds Eye PA 1358
+MD Baltimore Union Craft Brewing 71 20 0.055 <UNK> American Pale Ale (APA) Boji Blue Pale Ale 774 2009 Brutus 2159 Dodgy Knight Imperial IPA
+IN Fort Wayne Warbird Brewing Company 341  0.052 <UNK> American Pale Ale (APA) Widespread Wit 728 1107 370 Heady Topper 1744 0.063
+VT South Burlington Magic Hat Brewing Company 179 20 0.051 24 Fruit / Vegetable Beer Barn Burner Saison 2293 663 1882 1500 Refuge Brewery
+IN Columbus 450 North Brewing Company 27  0.09 16 American Double / Imperial IPA Unchained #18 Hop Silo 2415 2032 Pale Escoffier Bretta Ale 1354
+TX Austin Lone Tree Brewing Company 58 45 0.049 <UNK> Fruit / Vegetable Beer Tiny Bomb 1469 2388 Avalanche Ale Phoenix American IPA 1746 1184
+CO Boulder Oklahoma City 405 58 0.07 16 American IPA Booming Rollers 2157 1387 155 Perzik Saison 831
+TX Conroe Southern Star Brewing Company 118  0.059 <UNK> American IPA KelSo India Pale Ale 1572 1156 93 Spirit Lake 1197
+missing Salt Lake City Uinta Brewing Company 159 34 0.04 <UNK> American Pale Ale (APA) Full Nelson Pale Ale 1547 311 1305 Sand Island Lighthouse Dark Voyage Black IPA (2013)
+IN Martinsville Three Pints Brewing 21 35 0.054 16 Vienna Lager 233 2455 1553 737 Devils Tramping Ground Tripel Piney River Brewing Company
+OH Dayton Warped Wing Brewing Company 94  0.057 16 Dortmunder / Export Lager Bohemian Export Lager 1607 324 1419 Big Bend Hefeweizen Nuit Serpent
+KS Manhattan Tallgrass Brewing Company 45 20 0.05 16 Baltic Porter 4Beans 2666 1338 Wyoming Pale Ale Four Fathers Brewing Troegenator Doublebock
+IL Lake Barrington Wild Onion Brewing Company 361 41 0.073 <UNK> American Double / Imperial IPA Lights Out Vanilla Cream Extra Stout 1513 2399 488 2047 948
+CA San Francisco Fort Point Beer Company 4 45 0.06 <UNK> American Pale Ale (APA) Undun Blonde Ale (2012) 654 1436 2208 Forgotten Boardwalk Jacaranada Rye IPA
+PA Hershey Tröegs Brewing Company 97  0.055 <UNK> Hefeweizen Dry Heat Hefeweizen (2006) 131 1415 1173 2091 2675
+MI Grand Rapids Brewery Vivant 10  0.045 16 American Pilsner Gunga Din 2242 1986 Summer Wheat Nantucket 1070
+IN Lafayette Peoples Brewing Company 205 77  0.055 <UNK> American IPA Winter Games Select #32 Stout 601 1533 River North Ale 806 2335
+NV Reno Buckbean Brewing Company 530  0.054 16 error5 <UNK> 1784 1118 Great Crescent Oktoberfest Lager 1397 Big Elm Brewing
+NY Brooklyn Evil Twin Brewing 173  0.082 24 American Strong Ale HGH (Home Grown Hops): Part Duh 585 1575 2680 Bitter Brewer English India Pale Ale (IPA)
+CA Torrance The Dudes Brewing Company 33 35 0.05 16 American Brown Ale 2203 1087 1619 1871 1213 Quakertown Stout
+NY Brooklyn Sixpoint Craft Ales 46 57 0.063 16 American Strong Ale Cane and Ebel 861 2244 Double D Blonde (2011) 1217 242
+CT Bloomfield Back East Brewing Company 235 <UNK> 0.058 <UNK> American Amber / Red Ale T-6 Red Ale (2004) 780 2330 Woolybugger Wheat Tempter IPA 1392
+MI Birmingham Griffin Claw Brewing Company 124  0.065 16 English Stout O’Malley’s Stout 1515 1186 Avon Altbier 1229 619 0.067
+VA Lexington Devils Backbone Brewing Company 237 45 0.065 <UNK> American IPA Wood Chipper India Pale Ale 1434 774 1489 2454 South Austin Brewery
+CO Arvada Odyssey Beerwerks 148  0.083 16 American Double / Imperial IPA 361 45 1909 1754 San Luis Obispo Black Me Stout
+CO Monument Pikes Peak Brewing Company 355  0.073 16 Dunkelweizen Fireside Chat (2010) 321 35 Summer Brew Escape to Colorado 1509
+GA Macon error1 400  0.045 <UNK> American IPA Wachusett Light IPA 1846 2319 Southampton Publick House Seattle Cider Company 473
+CA San Diego Mike Hess Brewing Company 250  0.08 16 Scotch Ale / Wee Heavy Whip Fight 2082 2039 947 American India Red Ale Yeti  Imperial Stout
+LA Shreveport Great Raft Brewing Company 269 49 0.052 <UNK> American Pale Ale (APA) Wild Trail Pale Ale 2314 981 1913 1524 2357
+WA Bellingham Northwest Brewing Company 7   16 13 Hefeweizen Wachusett Blueberry Ale 2327 1838 1025 American Double / Imperial IPA 1088 392
+AZ Lake Havasu City Mudshark Brewing Company 507  0.085 <UNK> Tripel Alteration 502 1737 Stevens Point When Helles Freezes Over 2596
+IA Spirit Lake Okoboji Brewing Company 471 21 0.05 16 American Pale Ale (APA) River North Ale 1179 1741 Blackberry Wheat 105 GKNIGHT (12 oz.)
+FL Gainesville Swamp Head Brewery 447 10 0.048 <UNK> Extra Special / Strong Bitter (ESB) 14° ESB 1902 229 Elm City Pilsner Spring Lake 1840
+CA San Diego Mike Hess Brewing Company 3 16 0.085 16 American Double / Imperial Stout Kaleidoscope Collaboration 2012 731 724 Three Pints Brewing 926 Ashburn
+MN Minneapolis Indeed Brewing Company 277 10 0.05 <UNK> Cream Ale Rise to the Top 1780 2172 3Beans Grateful White 1572
+IN Lafayette Peoples Brewing Company <UNK> 15 0.045 <UNK> American Amber / Red Ale Farmers Tan Red Ale 1936 2210 555 Knotty Pine 1145
+CO Buena Vista Eddyline Brewery & Restaurant 369  0.088 16 Tripel Vivant Tripel (2012) 670 445 705 Paddy Pale Ale Abbeys Single Ale (Current)
+GA Savannah Coastal Empire Beer Company 415 55 0.062 <UNK> American IPA Pilot Rock Porter 1808 506 Great Falls Select Pale Ale 1143 Russian Imperial Stout
+LA Covington Anderson Valley Brewing Company 553  0.045 <UNK> Belgian Pale Ale Flagship IPA 530 547 Stevensville 1166 Caldera Pale Ale (2009) 2172
+IN Michigan City Burn Em Brewing 24 40  0.055 16 American Pale Ale (APA) Old Tom Porter 847 1655 20 Viennese Lager
+MA Hyannis Cape Cod Beer 267 10 0.048 16 American Blonde Ale Turnrow Harvest Ale 2321 2197 223 1716 1071
+OR Springfield Hop Valley Brewing Company 198 20 0.077 16 Schwarzbier Schlafly Black Lager 1323 1823 2241 641 Youre My Boy, Blue
+ME Portland Shipyard Brewing Company 385  0.05 <UNK> American Blonde Ale U. P. Witbier 2472 1168 440 Avalanche Ale 1176
+AZ Tempe Four Peaks Brewing Company 160  0.051 <UNK> American Porter King Coconut 2106 1328 1428 1849 1705 1052
+NC Charlotte Two Henrys Brewing Company 467  0.048 <UNK> American Blonde Ale Sawtooth Ale 1411 275 Widespread Wit 81 Ballast Point Pale Ale
+WA Washougal Amnesia Brewing Company 401  0.062 16 American IPA House Brand IPA 632 252 Habitus IPA MD 23
+CA San Luis Obispo Central Coast Brewing Company 350 85 0.075 16 Baltic Porter Lake Monster 2247 1514 904 2345 0.079 Galena Golden 2152
+MS Hattiesburg Southern Prohibition Brewing Com... 133 20 0.05 <UNK> Schwarzbier 55 1496 2006 Wheat the People 2219 Swamis India Pale Ale
+VA Ashland Center of the Universe Brewing C... 122 40 0.05 <UNK> Fruit / Vegetable Beer Oregon Trail Unfiltered Raspberry Wheat 616 1050 254 India Pale Ale Lee Hill Series Vol. 1 - Barrel Aged Brown Ale
+NV Reno Buckbean Brewing Company 530 35 0.05 16 Cream Ale Hardywood Cream Ale 740 711 Fremont Organic Pale Ale 2468 Madison
+TX Alpine Big Bend Brewing Company 463  0.065 <UNK> American Black Ale Sanitas Black IPA 1391 1807 106 Devils Tramping Ground Tripel Organic Baba Black Lager 537
+ME Lewiston Baxter Brewing Company 292 69 0.068 16 American IPA Jacks Hard Cider 823 1125 Misty Mountain IPA 2311 5:00 OClock Afternoon Ale 0.045 error3
+MN Minneapolis Bauhaus Brew Labs 258 48 0.054 <UNK> English Pale Ale Scape Goat Pale Ale 1806 213 Autumnation (2013) Bitter Bitch 701
+MS Hattiesburg Southern Prohibition Brewing Com... 133 90 0.12 16 English Barleywine Bourbon Barrel Johan 1049 2056 Headlands Brewing Company 1122 Macon
+MI Detroit Atwater Brewery 72 25 0.052 16 American Pale Ale (APA) Wagon Box Wheat Beer 1197 2150 821 2233 York
+RI Providence Narragansett Brewing Company 143 35 0.067 16 Milk / Sweet Stout Le Mort Vivant (2011) 555 1965 ND Lockland Lost Nation Brewing
+KY Lexington West Sixth Brewing 100   <UNK> American IPA Good People IPA 309 912 742 1033 344
+IN Indianapolis Sun King Brewing Company 25 36 0.099 16 American Double / Imperial Stout Copperhead Amber 2216 57 English Barleywine 155 16 Hop Crisis
+HI Kona Kona Brewing Company 439 18 0.046 <UNK> American Pale Ale (APA) Freeride APA 1921 89 Le Flaneur Ale Mead 283 1877 0.052
+CO Longmont PA 441 24 0.05 16 American Pale Wheat Ale Oberon 2494 218 Airways Brewing Company 1179 717
+PA Pottstown Sly Fox Brewing Company 371 25 0.055 <UNK> Munich Helles Lager Twisted Helles Summer Lager 1208 866 American Stout 2667 2035
+HI Kona Kona Brewing Company 439 18 0.049 <UNK> Hefeweizen EOS Hefeweizen 1147 1439 2676 Jai Alai IPA Root Stock
+IN Michigan City Burn Em Brewing 24 40 0.055 16 American Pale Ale (APA) T-Rail Pale Ale 509 1543 359 634 957
+WA Woodinville Redhook Brewery 487 44 0.058 0.051 <UNK> American Pale Ale (APA) Thanksgiving Ale 1798 1922 2643 897 1595
+FL Jacksonville Intuition Ale Works 527 22 0.05 <UNK> American Amber / Red Lager Colorado Native (2011) 431 64 1426 Hipster Ale (Westbrook Brewing) 1520
+KS Manhattan Tallgrass Brewing Company 45 22 0.049 16 Rye Beer Totally Radler 2482 1660 Sacramento 2462 Fullsteam Brewery
+FL Odessa Big Storm Brewing Company 221 38 0.048 <UNK> American Amber / Red Lager Abita Amber 514 67 1238 Golden Road Brewing 135
+ME Portland Sea Dog Brewing Company 502  0.047 <UNK> American Pale Ale (APA) Squatters Full Suspension Pale Ale 1679 2306 Pistols at Dawn Half Cycle IPA Woodbridge
+AZ Tempe Four Peaks Brewing Company 160 1667 0.061 <UNK> American IPA 443 71 2213 2131 535 Winter Warmer Mothman Black IPA
+CA San Diego Modern Times Beer 209 75 0.085 16 American Double / Imperial IPA 8 Barrel 379 2146 73 736 Old Wylies IPA
+MN Cold Spring Third Street Brewhouse 142  0.05 <UNK> Hefeweizen Buck Snort Stout 1827 1088 2195 Cream Ale Airways Brewing Company 1179
+UT Midvale Bohemian Brewery 364  0.079 16 American Pale Lager Session 33 (2011) 699 1418 Latitude 42 Brewing Company River North Ale Spilker Ales
+CA San Francisco 21st Amendment Brewery 368 52 0.058 <UNK> American Brown Ale Edward’s Portly Brown 2626 2390 Blazing World Great Crescent Stout 19.2
+MI Grand Rapids Brewery Vivant 10  0.06 16 Oatmeal Stout Vanilla Bean Buffalo Sweat 600 1766 Helena Tampa 710
+CO Fort Collins New Belgium Brewing Company 82 29 0.046 <UNK> American Blonde Ale SunSpot Golden Ale 1934 1791 ME 1052 Behemoth 586
+MN Minneapolis Indeed Brewing Company 277 22 0.045 <UNK> Kölsch Wonderstuff 2043 English India Pale Ale (IPA) Florida Cracker Belgian Wit 1410 1244
+MN Minneapolis Indeed Brewing Company 277 80 0.065 <UNK> American IPA KelSo India Pale Ale 1572 2099 RT Lager 723 Flying Jenny Extra Pale Ale
+OH Columbus Elevator Brewing Company 64  0.054 16 American Pale Ale (APA) Fat Tire Amber Ale (2011) 748 1454 Better Half Winter Warmer (Vault Series) Oak Cliff Coffee Ale
+TX Denton Daredevil Brewing Company 241 40 0.045 <UNK> American Pale Ale (APA) Second Wind Pale Ale 419 1406 2138 2363 Devils Harvest Extra Pale Ale
+CA San Diego Hess Brewing Company 423 23 0.05 16 American Pale Wheat Ale Wet Hot American Wheat Ale 1662 798 1724 0.042 Sprocket Pale Ale (2006) 155
+CO Longmont Oskar Blues Brewery 166 35 0.05 <UNK> Cider Honey Cider 2290 410 1287 The Deuce 2230
+TX Alpine Big Bend Brewing Company 463  0.064 <UNK> American IPA Troopers Alley IPA 1245 963 Yunkin Punkin 585 Rogers 1219
+VT Middlebury Night Shift Brewing 55 90 0.072 16 American IPA Missile IPA 1933 673 181 1685 Crank Yanker IPA
+SD Spearfish Crow Peak Brewing Company 212  0.056 <UNK> Hefeweizen Dry Heat Hefeweizen (2006) 131 1415 Spin Doctor 1083 Kölsch
+TX Austin Blue Owl Brewing 77    <UNK> English India Pale Ale (IPA) Imperial Pumpkin Stout 2068 525 Excess IPL Hooksett
+CO Eagle Bonfire Brewing Company 107  0.049 16 Hefeweizen Helios Hefeweizen (2013) 1430 1528 Houghton 1478 436 509
+WA Kent Airways Brewing Company 367 35 0.053 <UNK> American Pale Ale (APA) 1661 2225 39 1194 Stone Fort Brown Ale Deception
+OR Portland Hopworks Urban Brewery 80 20 0.039 16 American Pale Wheat Ale 860 1566 1476 1625 Williamsburg Gordon (2005)
+NC Raleigh Lonerider Brewing Company 149 85 0.057 <UNK> American IPA Flying Mouse 8 2567 817 Local 5 Pale Ale Bottom Up Belgian Wit 0.084 Boont Amber Ale (2010)
+OH Cincinnati Angry Orchard Cider Company 434  0.05 16 Cider Angry Orchard Crisp Apple 1292 125 871 Brontide TX
+NC Mooresville Carolina Beer & Beverage 504  0.05 <UNK> Vienna Lager Toasted Lager 665 323 Cal and Co. Black Cherry Porter Twisted X 1234
+IN Indianapolis Sun King Brewing Company 25 23 0.055 16 Oatmeal Stout 1085 319 2115 Black Star Double Hopped Golden Lager (12 oz.) Earth-Like Planets 777
+MA Stratford Two Roads Brewing Company 435  0.05 16 Euro Dark Lager KelSo Nut Brown Lager 1678 1155 Ruhstallers Gilt Edge Lager Beer 1732 2231 1891
+AZ Chandler SanTan Brewing Company 30 1312 35 0.045 <UNK> American IPA #9 360 156 Mind Games He Said Baltic-Style Porter MacTarnahans Brewing Company
+CO Eagle Bonfire Brewing Company 107 26 0.047 <UNK> Saison / Farmhouse Ale 1362 794 392 Flying Jenny Extra Pale Ale 332 SurlyFest
+CA San Diego Mike Hess Brewing Company 3 85 0.075 16 American IPA Blood Orange Wit 2087 1706 Sunset Amber 2185 428 Point Nude Beach Summer Wheat (2010)
+OH Columbus Four String Brewing Company 105  0.055 16 Hefeweizen El Hefe Speaks 1263 683 Fearless Brewing Company 234 135 1641
+MD Charleston COAST Brewing Company 5  0.055 <UNK> American Brown Ale Lift Bridge Brown Ale 142 813 1232 Atom Splitter Pale Ale 2562
+MI Grand Rapids Brewery Vivant 10  0.045 16 American Blonde Ale Float Trip Ale 1335 1654 Black Bear Dark Lager 588 Misty Mountain Hop 2185 NoDa Brewing Company
+TX Conroe Southern Star Brewing Company 118 90 60 0.064 <UNK> American IPA India Pale Ale 2460 1180 2530 1328
+IL Chicago Spiteful Brewing Company 175  0.05 16 American Porter 628 744 32 New York 416 155
+MI 2547 Blackrocks Brewery <UNK>  0.048 <UNK> Berliner Weissbier Berliner Weisse 2570 2356 Choc Beer (2003) 123 La Ferme Urbaine Farmhouse Ale
+AK Juneau Alaskan Brewing Company 270 40 error5 <UNK> American Pale Ale (APA) Day Tripper Pale Ale 728 1107 Tip Off Healani NV
+OR Portland Hopworks Urban Brewery 80 20 0.039 16 American Pale Wheat Ale Nonstop Hef Hop 2399 1077 Blackmarket Rye IPA 1597 Blonde Czich
+CA San Diego Mike Hess Brewing Company 546 85 0.099 16 American Double / Imperial IPA 1621 1489 897 1415 449 Hilo
+FL Miami The Black Tooth Brewing Company 457 16 0.048 <UNK> Witbier THP Amber (2006) 869 522 Top Rope Mexican-style Craft Lager City of the Sun 10
+Oklahoma City Anthem Brewing Company Wolf Hills Brewing Company 344 135 0.059 <UNK> American IPA Good People IPA 309 912 Great Crescent Blonde Ale (2011) 1814 1258 1646 984
+CO Longmont Oskar Blues Brewery 166 35 0.055 <UNK> Märzen / Oktoberfest Manayunk Oktoberfest 1626 1261 Blackmarket Rye IPA 381 364
+WA Gig Harbor 7 Seas Brewing Company 481 82 0.084 16 Belgian IPA Suicide Blonde IPA 2514 1696 Gloucester 588 Lee Hill Series Vol. 3 - Barrel Aged Imperial Stout
+CA Buellton Figueroa Mountain Brewing Company 36  0.055 <UNK> American IPA Fishermans IPA 2066 527 Farmer Brown Ale Hess Brewing Company Immersion Amber Ale (2011)
+MI Royal Oak MillKing It Productions 440  0.042 <UNK> American Pale Ale (APA) The Power of Zeus 2294 1048 The Manhattan Brewing Company 989 Burn Em Brewing Back East Golden Ale
+MI Detroit Atwater Brewery 26 16 American Pale Ale (APA) Mission IPA 1999 2043 1034 Oregon Trail Unfiltered Raspberry Wheat 1912
+AZ Williams Grand Canyon Brewing Company 536  0.037 <UNK> American Pale Ale (APA) U. P. Witbier 2472 1168 Pursuit 661 Maine Island Trail Ale 2310
+OH Columbus 212  0.05 16 American Pale Ale (APA) Pamola Xtra Pale Ale 183 211 781 Brooklyn Lager (12 oz.) 1452
+CT Woodbridge New England Brewing Company 410  0.053 <UNK> English Brown Ale 10 Degrees of Separation 2491 1195 Tin Man Brewing Company Pako’s EyePA 2
+CA Boonville Anderson Valley Brewing Company 171  0.082 16 Dunkelweizen Mind Games 2613 394 Everett Special Amber Uroboros
+ID Louisville Indeed Brewing Company 277 80 0.068 <UNK> American IPA Big Sky IPA (2012) 579 260 Montana Trout Slayer Ale (2012) 484 2118
+OR Portland Coalition Brewing Company 418 19 16 0.044 <UNK> American Adjunct Lager Straub Beer (Current) 2369 2025 Lucette Brewing Company 2028 2152
+AZ Chandler SanTan Brewing Company 30 46 0.06 <UNK> American IPA Citra Ass Down 2540 68 1664 New Belgium Brewing Company 2633
+CA San Diego Modern Times Beer 209 70 0.063 16 Bock Narragansett Bock 315 1429 Charlies Rye IPA Dales Pale Ale (2002) Griffin Claw Brewing Company
+MI Grand Rapids Brewery Vivant 10  0.073 16 American Amber / Red Ale Hilliards Saison 496 1056 Golden Fleece Lancaster German Style Kölsch 1905
+missing Denver Great Divide Brewing Company 6  0.054 <UNK> American Pale Ale (APA) Grateful White 1101 1755 1073 1021 1942
+CO Dillon Pug Ryans Brewery 135 341  0.055 <UNK> American Blonde Ale All American Blonde Ale 2005 7 2059 American Black Ale 2014
+MA Westminster Wachusett Brewing Company 295 17 0.045 <UNK> German Pilsener Oklahoma Suks 2350 1946 Molotov Lite 897 Aviator Raspberry Blonde Tampa Bay
+OR Springfield Hop Valley Brewing Company 198 20 0.049 16 American Blonde Ale Grandmas Pecan 1562 2160 Pamola Xtra Pale Ale 781 There Will Be Stout
+NY Brooklyn Brooklyn Brewery 437 47 0.068 16 American IPA Let It Ride IPA 1903 1102 1833 2371 589
+MI Royal Oak MillKing It Productions 440  0.048 16 American Porter Psycho Penguin Vanilla Porter 2333 1524 1861 The Lawn Ranger Sea Dog Wild Blueberry Wheat Ale
+CO Monument Pikes Peak Brewing Company 355  0.075 16 American Black Ale Heavy Machinery IPA Series #1: Heavy Fist 1409 157 2066 North Woodstock Johan the Barleywine
+FL Miami Miami Brewing Company 393 30 0.053 <UNK> American Pale Ale (APA) Wild Onion Summer Wit 398 2367 618 417 Buckbean Brewing Company
+NV Henderson Joseph James Brewing Company 233 50 0.055 <UNK> Hefeweizen Core Oatmeal Stout 1949 427 Camelback 3 Picket Porter Element 29
+MD Mt. Airy Red Shedman Farm Brewery and Hop... 68 17 0.051 16 German Pilsener The Crisp (2011) 477 1528 Astoria Brewing Company 1731 Wynkoop Brewing Company American Double / Imperial IPA 2050
+CA Carlsbad Butchers Brewing 517 36 0.056 <UNK> American Pale Ale (APA) Great Crescent Coconut Porter (2012) 441 944 Mystic Mama IPA 2378 Mystic Mama IPA
+SC Mt. Pleasant Westbrook Brewing Company 384  0.083 <UNK> Belgian Strong Pale Ale Old Soul 1545 429 KY 1850 2069
+IL Lake Barrington Wild Onion Brewing Company 361 100 0.082 <UNK> American Double / Imperial IPA Old Grogham Imperial India Pale Ale (2012) 747 1434 16.9 Tamarack Brewing Company Denver Pale Ale (Artist Series No. 1)
+WY Jackson Snake River Brewing Company 191 80 0.068 <UNK> American IPA Alphadelic IPA 1353 1066 2431 Old Pro Hoodoo Voodoo IPA
+MO Bucryus Piney River Brewing Company 314 40 0.055 16 Pumpkin Ale Pumpion 2689 1497 Danville 921 1385
+IN Aurora Great Crescent Brewery 165 22 0.053 16 American Pale Wheat Ale Bobblehead 2431 763 Port Barrel Wee Mac Rip Van Winkle (Current) Granny Smith Hard Apple Cider
+MI Grand Rapids Brewery Vivant 10  0.061 16 Pumpkin Ale Pumpkin Patch Ale 1590 744 1898 1751 Winter Solstice
+CA Temecula Refuge Brewery 225 16 0.05 16 Milk / Sweet Stout Vanilla Bean Buffalo Sweat 1063 2108 Dales Pale Ale (10 Year Anniversary) 604 Porter (a/k/a Black Gold Porter)
+OH Cincinnati 87 26  0.055 16 American Pale Ale (APA) Arjuna 2040 127 155 2652 1242
+MA Westminster Wachusett Brewing Company 295 37 0.053 <UNK> American IPA Slow Ride 2475 1444 Flat Rock Brewing Company Woodbridge Pale Alement 2216
+MO Bucryus Piney River Brewing Company 314 0.062 0.06 16 American IPA Half Cycle IPA 1610 812 MD #004 Session I.P.A. 668
+error1 Birmingham Good People Brewing Company 478 103 0.093 <UNK> American Double / Imperial IPA Lights Out Vanilla Cream Extra Stout 1513 2399 Robert Earl Keen Honey Pils 98 23
+OH Cincinnati Rhinegeist Brewery 93 60 Pateros Creek Brewing Company 0.052 <UNK> American Pale Ale (APA) Side Kick Kölsch 1087 1619 Draught Hard Apple Cider 96
+IN Indianapolis Sun King Brewing Company 25  0.054 16 American Pilsner Green Bay 2216 57 1509 Cut Throat Pale Ale 0.079 Neato Bandito
+DC Washington DC Brau Brewing Company 227 542 0.05 <UNK> American IPA City of the Sun 2159 1386 509 Pako’s EyePA 927
+TX Conroe Southern Star Brewing Company 118 45 0.055 <UNK> Märzen / Oktoberfest Karbachtoberfest 1458 1148 1497 Newburyport Pale Ale 406
+PA Lancaster Lancaster Brewing Company 545 28 0.05 <UNK> American Blonde Ale 2226 429 140 Broken Tooth Brewing Company 849 Petes Wicked Summer Brew (1996)
+CA San Diego Ballast Point Brewing Company 34 20 0.05 <UNK> American Pale Wheat Ale Point Nude Beach Summer Wheat (2010) 141 2013 31 Prescott Brewing Company 897
+UT Midvale Bohemian Brewery 364  0.06 16 Vienna Lager El Steinber Dark Lager 1217 111 Mooresville 238 434
+AZ Lake Havasu City Vault Brewing Company 113  0.055 <UNK> American Stout Ambitious Lager 813 2377 511 1783 Lost Rhino Brewing Company
+MT Stevensville Wildwood Brewing Company 499  0.05 <UNK> American Amber / Red Ale Oatmeal PSA 1162 84 Hans Pils (2015) Festivus (1) 291
+KY Lexington West Sixth Brewing 100  0.055 <UNK> American Pale Ale (APA) SPRYE 1815 1249 McKinney Eddy Amber Ale Schlafly Black Lager 973
+RI Pawtucket Foolproof Brewing Company 279  0.045 <UNK> American Amber / Red Ale Dales Pale Ale 955 1565 278 1957 Hipster Ale (Westbrook Brewing)
+MI Grand Rapids Brewery Vivant Butternuts Beer and Ale  0.078 24 Tripel Main St. Virginia Ale 1248 576 Isis Moose Drool Brown Ale (2009) 1207
+CA San Francisco 21st Amendment Brewery 368  0.082 <UNK> 0.075 error2 Flanders Red Ale American Stout 2559 1659 RI 2183
+IN Indianapolis Sun King Brewing Company 25 23 0.063 16 Bock Bodacious Bock 825 2376 Bellingham Beer Week 2013 Collaboration Chattanooga 1822
+SC Charleston COAST Brewing Company 5  0.045 <UNK> Munich Helles Lager Cream Ale 2050 1483 Pile of Face American Double / Imperial Pilsner Deep Ellum Pale Ale
+TX Conroe Southern Star Brewing Company 118 45 0.055 <UNK> American Pale Ale (APA) Jade 2258 9 Boonville Big Bend Hefeweizen Clems Gold
+NE Centralia 2640 22   0.055 <UNK> American Pale Wheat Ale TailGate Saison 1164 2097 263 37
+MO Kirkwood Kirkwood Station Brewing Company 0.05  0.053 16 American Pale Ale (APA) Steel Rail Extra Pale Ale 1317 234 2381 Payette Pale Ale 1963
+MO Bucryus Piney River Brewing Company 314 24 0.06 16 Old Ale 1556 1033 438 97 Arcus IPA 792 1583
+TX Fredericksburg Pedernales Brewing Company 358  0.06 <UNK> American IPA 1471 1851 730 Emerald City Beer Company 1831 Mogollon Brewing Company
+IN Gary 18th Street Brewery 177  0.055 <UNK> American Pale Ale (APA) Oktoberfest 539 975 Escape to Colorado Watermelon Ale 678 Goose Island Brewing Company
+VA Crozet Starr Hill Brewery missing 30 0.065 <UNK> Doppelbock Troegenator 2445 2214 Long Leaf English India Pale Ale (IPA) 2253
+CO Longmont Oskar Blues Brewery 166   <UNK> Berliner Weissbier Wolfmans Berliner 1583 62 Upslope Foreign Style Stout Greenville Pale Ale 1959
+CA San Diego Mike Hess Brewing Company 3 85 0.087 16 American Double / Imperial IPA Citra Ass Down 2686 70 464 876 803
+MS Jackson Lucky Town Brewing Company 245 28 0.062 <UNK> American Strong Ale Sympathy for the Lager 945 2347 1117 Sacramento Hill 88 Double IPA
+NV Henderson Joseph James Brewing Company 233 15 0.05 <UNK> 19.2 754 1429 1422 Poop Deck Porter Core ESB Wolverine State Brewing Company
+ME Lewiston Baxter Brewing Company 292 35 0.055 <UNK> American Pale Ale (APA) King Street Blonde Ale Upslope Brewing Company 1753 2327 Belgian IPA 795 Afton
+CA Sacramento Ruhstaller Beer Company 397 15 0.06 <UNK> Hefeweizen A Slice of Hefen 770 1026 <UNK> 2566 1380
+KS Manhattan Tallgrass Brewing Company 45 0.055 0.055 16 American Pale Ale (APA) Phoenix Pale Ale 34 Hop A Potamus Double Dark Rye Pale Ale 1137 1425
+FL Tampa Cigar City Brewing Company 141  0.055 <UNK> American Stout 1299 1793 1126 Cascadia Ciderworks United 1802 Hodad Porter
+WI Stevens Point James Page Brewing Company 35 21 0.068 16 American Black Ale Toxic Sludge 939 320 377 1597 Paso Robles
+CA Mill Valley Headlands Brewing Company 280 65 0.074 16 American IPA Missouri Mule India Pale Ale 544 34 519 KSA Vanilla Java Porter
+CO Longmont Oskar Blues Brewery 166 35 0.048 <UNK> Saison / Farmhouse Ale 420 Extra Pale Ale 1709 2095 Tumbleweed IPA Gold IN
+OH Columbus Seventh Son Brewing Company 183 19 0.077 16 Cider Bronx Black Pale Ale 1747 2155 Narragansett Fest Lager El Rojo Four Peaks Peach Ale
+OH Athens Jackie Os Pub & Brewery 92  0.055 <UNK> American Pale Wheat Ale 312 Urban Pale Ale 2202 917 Cranberry Blend Beach Patrol 1674
+CA San Diego Ballast Point Brewing Company 34 75 0.061 <UNK> American IPA Harness the Winter 2410 228 2508 1528 English Pale Ale
+CA Temecula Black Market Brewing Company 112 44 0.058 <UNK> American Black Ale Ozzy 1079 2152 2014 IPA Cicada Series 1776 2085
+GA Athens Terrapin Brewing Company 469 52 0.055 <UNK> American Pale Ale (APA) Quaff India Style Session Ale 1022 784 Confluence Brewing Company 16 Winter White American Double / Imperial Stout
+CO Lyons Oskar Blues Brewery 503 65 0.065 <UNK> American IPA N Street Drive-In 50th Anniversary IPA 1025 300 2140 Charlotte Old Ale
+ME Portland Shipyard Brewing Company 385  0.073 <UNK> American Double / Imperial IPA Grey Sail Brewing Company 694 972 Jai Alai IPA 1171 1355
+IL 48 Mikerphone Brewing 65  0.05 <UNK> Fruit / Vegetable Beer Fresh Cut Pilsner 1931 1620 129 Moo Thunder Stout 873
+MT Missoula Big Sky Brewing Company 336 26 0.045 <UNK> Hefeweizen TailGate Hefeweizen 361 2103 Patricks Poison Fort Worth Mike Hess Brewing Company Newburyport Brewing Company
+PA Pottstown Sly Fox Brewing Company 371 16 0.042 <UNK> 0.05 <UNK> American Blonde Ale Turnrow Harvest Ale 2321 2197 Sun King Oktoberfest Tacoma 1825
+KS Manhattan Tallgrass Brewing Company 45 20 0.048 16 Kölsch McKinney Eddy Amber Ale 521 1657 Larry Imperial IPA 1280 1628
+MI Houghton Keweenaw Brewing Company 84   <UNK> American Amber / Red Ale Colorado Red Ale 1847 17 Claritas 676 Shandy
+IL Charleston Mikerphone Brewing 65  0.045 16 American Amber / Red Ale Van Dayum! 2488 318 Moat Mountain Smoke House & Brew... Fistful of Hops Green 155 Psychopathy
+OH Cincinnati Madtree Brewing Company 91 36 0.06 <UNK> American Pale Ale (APA) 2226 533 210 106 465 1479
+OH Cincinnati Madtree Brewing Company 91 35 0.055 <UNK> American Pale Wheat Ale Panorama Wheat Ale 451 2235 552 Fargo India Pale Ale
+MI Grand Rapids Brewery Vivant 10  0.092 16 Quadrupel (Quad) Wizard Burial Ground 2137 413 Oakshire Brewing 2213 Black Star Double Hopped Golden Lager (12 oz.)
+PA Philadelphia Manayunk Brewing Company 356 30 0.055 <UNK> Winter Warmer Schlafly Black Lager 1323 1823 1337 Manayunk IPA Tribute
+CA Sacramento Ruhstaller Beer Company 397 35 0.051 <UNK> American Amber / Red Ale 1300 977 737 204 Boy King 2283
+WI Menominie Lucette Brewing Company 456  0.093 16 American Double / Imperial Stout Barrel Aged Seven Devils Imperial Stout 1425 1928 Raleigh 2618 Universale Pale Ale
+CA San Diego Mike Hess Brewing Company 3 24 0.054 16 Rye Beer SurlyFest 69 2079 Irish Dry Stout 1392 Saison Pamplemousse 2063
+CA Temecula Black Market Brewing Company 112 22 0.05 <UNK> Witbier Madra Allta 1675 1199 Twister Creek India Pale Ale Blazing World Psycho Penguin Vanilla Porter
+TX Blanco Real Ale Brewing Company 128 21 0.05 <UNK> American Blonde Ale Harpoon Summer Beer 1380 1022 Carlsbad 1948 Long Trail IPA 965
+LA Abita Springs Abita Brewing Company 533 13 0.045 <UNK> Cream Ale O’Malley’s Irish Style Cream Ale 2342 2350 173 error5 2119
+OR Astoria Astoria Brewing Company 374 66 0.06 <UNK> American Black Ale Epitome 2094 549 2451 Pride of Texas Pale Ale 1306
+NH Hooksett White Birch Brewing 34  0.055 <UNK> American Amber / Red Lager Longboard Island Lager 1770 2313 1880 1088 RoughTail IPA
+CA San Luis Obispo Central Coast Brewing Company 350 99 0.063 16 American IPA White Zombie Ale 1742 557 720 Claremont Craft Ales Pine Knob Pilsner
+CO Denver Great Divide Brewing Company 6  0.073 16 Märzen / Oktoberfest AARGHtoberfest! 989 1342 903 Freedom Fries 1296 1303
+CA missing Anderson Valley Brewing Company missing  0.047 <UNK> Foreign / Export Stout Dirtbag Dunkel 1184 346 Kentucky IPA 1979 999
+Bomb Beer Company missing Fiddlehead Brewing Company 172  0.055 <UNK> American Amber / Red Ale Fat Tire Amber Ale (2008) 71 1460 Sheridan 795 Paw Paw 2150
+MA Westminster Wachusett Brewing Company 295 55 0.06 <UNK> Märzen / Oktoberfest Oktoberfest 539 975 934 South Ridge Amber Ale 334
+CO Lyons Oskar Blues Brewery 503 35 0.08 <UNK> Scottish Ale Old Chub (2004) 786 1589 Sudice American Stout 2323 1131
+FL Tampa Brew Bus Brewing 308  0.05 <UNK> Saison / Farmhouse Ale Oak Aged Cider 1877 2079 Vadnais Heights Mr. Pineapple 586
+CT Charlottesville Thomas Hooker Brewing Company 108 0.065 16 American IPA Ryecoe 2469 248 Bikini Beer 300 984 319
+MA Cambridge Cambridge Brewing Company 178  0.068 <UNK> American IPA 413 64 1467 Louie’s Demise Immort-Ale (2010) Dreamin Double IPA 1889
+NJ Cherry Hill Forgotten Boardwalk 217 18 0.12 <UNK> Tripel Orabelle 2646 953 Hayride Autumn Ale Ultra Gnar Gnar IPA Demshitz Brown Ale
+ID Boise Sockeye Brewing Company 309 35 0.05 <UNK> American Pale Ale (APA) Better Weather IPA 1641 895 Ninja Porter Saint Archer Blonde Four Horsemen Brewing Company
+OR Portland Hopworks Urban Brewery 80 72 0.073 16 American IPA Wolf Among Weeds IPA 1698 894 1491 540 Gary 2071
+MA Boston Harpoon Brewery 234 45 0.055 <UNK> American Amber / Red Ale Avalanche Ale 83 382 2629 Saddle Bronc Brown Ale Citrafest
+IN Indianapolis Sun King Brewing Company 25  0.054 16 Witbier Devils Harvest Extra Pale Ale 1117 1954 Chupahopra 844 363
+Double Brown Stout SweetWater Brewing Company missing  0.055 <UNK> American Pale Ale (APA) 483 Pale Ale 863 971 2285 1769 2394 Belmont
+AZ Lake Havasu City Santa Fe Brewing Company 232   <UNK> American Pale Ale (APA) Maine Island Trail Ale 1807 1739 Quakertown Stout Upslope Brewing Company 28
+OR Ashland Caldera Brewing Company 155 Shipyard Summer Ale 0.056 <UNK> Saison / Farmhouse Ale Pallavicini Pilsner (2009) 530 552 Hans Pils (2015) Passenger Breckenridge Brewery
+CO Boulder Avery Brewing Company 37  0.055 <UNK> Schwarzbier Black Thunder 340 161 Next Adventure Black IPA 1117 Barrel Aged Triomphe
+KS Hays Defiance Brewing Company 196 60 0.07 <UNK> American Porter José Martí American Porter 1140 616 Underdog Atlantic Lager Fox Tail Gluten Free Ale 787
+IL Lyons Oskar Blues Brewery 503 35 0.053 <UNK> Altbier error4 1708 1883 Abrasive Ale Wasatch Apricot Hefeweizen 940
+CA 166 7 242  0.058 <UNK> American Amber / Red Ale Bells Brewery 92 166 324 0.062 Pit Stop Chocolate Porter
+CA Torrance The Dudes Brewing Company 33  0.044 16 Cider Woodchuck Amber Hard Cider 822 2393 American Pilsner 1615 Grey Sail Brewing of Rhode Island Bronx Pale Ale 1917
+IL Chicago Revolution Brewing Company 44 64 0.042 <UNK> American Pale Ale (APA) Mickey Finns Amber Ale 174 1330 758 2321 0.034
+MI Ann Arbor Wolverine State Brewing Company 402 15 0.048 <UNK> Fruit / Vegetable Beer Purple Haze 515 66 1113 Brewerhood Brown Ale Tampa Bay Brewing Company
+WA Woodinville Redhook Brewery 487 44 0.082 24 American Double / Imperial IPA Chomolungma Honey Nut Brown Ale 687 1158 Horny Toad Cerveza (2013) 80 Petoskey
+OR Bend Worthy Brewing Company 199 69 0.069 <UNK> American IPA Heavy Lifting 2596 368 2207 2498 Eclipse Black IPA
+AK Soldotna Kenai River Brewing Company 458  <UNK> American Brown Ale 1618 2362 1946 Foreign / Export Stout 434 588 0.055
+WY Jackson Snake River Brewing Company 191 32 0.047 <UNK> Munich Dunkel Lager Mother in Lager 1560 1146 Bitter American (2011) 1306 November Gale Pale Ale
+NY Chatham Chatham Brewing 226 69 0.082 16 American Double / Imperial IPA Double Trunk 2379 593 504 2065 1254 1197
+CA 1887 Manzanita Brewing Company 346 35 0.056 <UNK> American Amber / Red Ale Hot Rod Red 702 173 Sculpin IPA UFO Pumpkin 644
+OR Sisters Three Creeks Brewing 153 18 0.062 <UNK> American IPA Pump House IPA 2515 1695 1718 Psycho Penguin Vanilla Porter In-Tents India Pale Lager
+AZ Lake Havasu City Mudshark Brewing Company 507  0.055 <UNK> American Amber / Red Ale Van Dayum! 2488 318 664 Klingon Warnog Roggen Dunkel Fruit / Vegetable Beer 1784
+CO Boulder Fate Brewing Company 405 0.044 0.05 16 American Blonde Ale Peoples Brewing Company 507 Dales Pale Ale (2002) Happening Now Roseville
+CO Boulder Upslope Brewing Company 51  0.069 <UNK> Tripel Balt Altbier 582 2275 Mission IPA All Day IPA American Stout
+ME Charleston 45 0.083 16 Mead Tarnation California-Style Lager 1855 204 Athens Santa Fe Irish Red Ale Wind River Blonde Ale 2071
+AZ Lake Havasu City Mudshark Brewing Company 507  0.045 16 American Blonde Ale 483 Pale Ale (2010) 190 978 2238 2450 Euro Pale Lager
+TN Memphis Wiseacre Brewing Company 239 7 0.045 <UNK> Scottish Ale Java Mac 2215 2034 Summer Swelter 57 Export
+CO Denver Breckenridge Brewery 391 82 0.063 <UNK> American IPA Bozone HopZone IPA 1289 374 Classique Bodacious Bock Rising Tide Brewing Company
+HI Hilo Hawaii Nui Brewing Co.   <UNK> Berliner Weissbier Nectar of the Hops 1375 1703 Double Haul IPA (2006) Wachusett IPA Avery Joe’s Premium American Pilsner
+AZ Chandler SanTan Brewing Company 30 50 0.063 <UNK> American IPA Grapefruit Jungle (GFJ) (2011) 532 2065 American Pale Lager American Double / Imperial IPA 1719 Dillon 1016 Bauhaus Brew Labs
+CO Eagle Bonfire Brewing Company 107  0.058 <UNK> English Brown Ale Casper White Stout 1523 1137 American Idiot Ale (2012) 155 <UNK> American Double / Imperial IPA 26 1733
+CO Denver River North Brewery 459  0.05 16 Scottish Ale Java Mac 2215 2034 Canton 1813 Manayunk Brewing Company
+ID Boise Sockeye Brewing Company 309  0.055 <UNK> American Pale Lager Chesters Beer (2005) 737 648 Worcester 1884 Hoptopus Double IPA
+OH CA Chico 48  0.07 16 American Brown Ale Coconut Brown Ale 1496 291 Sex and Candy Kludde Wisconsin Amber
+RI IN missing 65  0.045 16 American Pale Ale (APA) Hurricane Amber Ale 120 639 Mother Ale 222 Triangle White Ale
+KS Manhattan Tallgrass Brewing Company 45 20 0.044 <UNK> American Stout 1279 2464 149 Sex Panther (2014) Granny Smith Hard Apple Cider American Double / Imperial IPA Cisco Brewers 1926
+ME Lewiston Baxter Brewing Company 292  0.068 <UNK> American Malt Liquor The Brown Note 615 1223 TailGate Beer Jockamo IPA 2330
+NY Brooklyn Sixpoint Craft Ales 46 57 0.063 16 American Stout Lights Out Vanilla Cream Extra Stout 1513 2399 Psychopathy Choc Beer (2003) 1732 HopArt 1996
+KS Manhattan Tallgrass Brewing Company 45 20 0.045 16 German Pilsener Capital Gold Golden Lager 969 642 Caldera Pale Ale (2009) 585 Upslope Imperial India Pale Ale
+CO Longmont Oskar Blues Brewery 166  0.082 16 Dunkelweizen Nectar of the Hops 1375 1703 827 Brewerhood Brown Ale 372
+MO Bucryus Piney River Brewing Company 314 10 0.055 16 American Pale Ale (APA) Devil’s Ale Lancaster Brewing Company 2482 Old Potentate Loafin Bräu 1135
+IN Indianapolis Sun King Brewing Company 25 58 16 0.046 16 Dunkelweizen Mind Games 2465 404 697 Crazy Mountain Brewing Company 1687
+AZ Lake Havasu City Mudshark Brewing Company 507  0.045 <UNK> Pumpkin Ale Pumpkinhead Ale 814 1843 714 Dubbel 331
+IL Chicago Spiteful Brewing Company 175  0.055 16 Czech Pilsener Tejas Lager 1157 236 Whales Tale Pale Ale Twister Creek India Pale Ale 2348
+IN Aurora Great Crescent Brewery 165 22 0.051 16 Belgian Pale Ale Winter Games Select #32 Stout 601 1533 2532 Krebs Brewing Company (Petes Pl... 1392
+ID Ponderay Laughing Dog Brewing Company 218 35 American IPA Upstate I.P.W. 381 1171 38 366 Mike Hess Brewing Company 2137 2599
+NY Bronx The Bronx Brewery 329 16 0.045 16 American Pale Wheat Ale Akari Shogun American Wheat Ale 1066 1007 Matt Brewing Company Breakside Brewery THP Dark (2006)
+CA San Diego Hess Brewing Company 423 85 0.099 16 American Double / Imperial Stout Ex Umbris Rye Imperial Stout missing 1046 2074 La Ferme Urbaine Farmhouse Ale 1532
+OR Ashland Caldera Brewing Company 155 55 0.056 16 American IPA Half Cycle IPA 107 0.048 Sunset Amber 1432 1588
+62 62 11  0.053 <UNK> American Pale Ale (APA) Awry Rye Pale Ale 997 350 Four Peaks Brewing Company 237 Dead Armadillo Craft Brewing
+NY Brooklyn Evil Twin Brewing 173  0.055 16 American Pale Ale (APA) Dales Pale Ale (10 Year Anniversary) 892 1567 2163 2126 Dallas
+CA Santa Cruz Uncommon Brewers 522  0.078 16 American Strong Ale Abominable Winter Ale (2012) 916 1094 1272 654 2497
+IL Chicago Mikerphone Brewing 65  0.055 16 American Pale Ale (APA) 8-Bit Pale Ale 595 2114 0.09 Boxer Long Trail IPA
+MN Duluth Bent Paddle Brewing Company 75 37 0.055 <UNK> American Brown Ale Saddle Bronc Brown Ale 2485 285 Northwoods Brewpub 155 Porkslap Pale Ale 2115
+MT Stevensville Wildwood Brewing Company 499  0.054 16 Milk / Sweet Stout Maggies Leap 2691 1495 Southern Star Brewing Company 2394 2415 American Double / Imperial IPA A Little Crazy
+PA Philadelphia Manayunk Brewing Company 356 21 0.045 <UNK> American Blonde Ale Dallas Blonde 946 703 Mountain Fairy Raspberry Wheat Dead Horse Amber 2150
+AZ Tempe Four Peaks Brewing Company 160 21 0.06 <UNK> Hefeweizen 1851 1394 Boji Blue Pale Ale Frog Level Brewing Company Little Sister India Style Session Ale 1157
+OH Columbus Four String Brewing Company 105 62 0.062 <UNK> American IPA IPA & a Half 1856 2204 The Traveler Beer Company 2632 Mustang
+AZ Hyannis Four Peaks Brewing Company 160 21 0.06  American Pale Lager 102 574 2148 Bozone Select Amber Ale 1079 Ginja Ninja 2193
+CO Boulder Upslope Brewing Company 51  0.069 <UNK> American IPA Our Legacy IPA 1135 1291 Broken Bridge Klickitat Pale Ale Immersion Amber
+NV Reno Buckbean Brewing Company 530 42 0.051 16 Saison / Farmhouse Ale Farm Hand 387 448 377 2304 Northamtpon
+CO Aurora Dad & Dudes Breweria 451  0.065 16 Saison / Farmhouse Ale Zaison (2012) 671 444 WYLD Extra Pale Ale 831 Pale
+OR Portland Hopworks Urban Brewery 80 18 0.058 16 Hefeweizen Dry Heat Hefeweizen (2006) 131 1415 0.027 Belgorado West Chester
+MN Brooklyn Center Surly Brewing Company 61 45 0.051 16 Cider Draught Hard Apple Cider 877 2266 WYLD Extra Pale Ale 653 Silverback Pale Ale
+NY Garrattsville Butternuts Beer and Ale 556  0.064 <UNK> American IPA Charlie in the Rye 1550 2345 1337 1148 2557
+OR Portland Natian Brewery 387  0.074 16 American Stout CAPT Black IPA 1478 1779 Fist City 1126 1013
+NY Brooklyn Sixpoint Craft Ales 46 57 0.063 16 American IPA Mutiny IPA Stillwater Artisanal Ales Rocket Bike American Lager Meadville 2228 2212
+TX Conroe Southern Star Brewing Company 118 20 0.05 16 American Blonde Ale Blacktop Blonde 362 2102 Sunshine Wheat Beer (2009) 1604 2082
+NY Santa Cruz Lucette Brewing Company 456  0.055 <UNK> American Brown Ale 33 Select Brown Ale 1058 1530 Abita Amber 1606 702
+SC Myrtle Beach New South Brewing Company 518  0.046 error2 American Pale Ale (APA) Second Wind Pale Ale 419 1406 1282 466 586
+1034 NY Indeed Brewing Company 277 27 0.046 <UNK> American Amber / Red Lager Dottie Seattle Lager 673 752 3 Picket Porter Dog Days Lager Twisted X
+DC Washington DC Brau Brewing Company 227  0.062 <UNK> Saison / Farmhouse Ale Sophomoric Saison 2099 11 Phat Chance 1355 1316
+SC Seattle Two Beers Brewing Company Grey Sail Brewing Company  0.046 <UNK> Kölsch Tin Roof Blonde Ale 529 2201 1009 Caldera Pale Ale (2010) Howard Brewing Company
+CA Temecula Black Market Brewing Company 112 44 0.049 <UNK> German Pilsener Rye Pils Session Lager 1161 702 Towhead 427 0.083
+KY Lexington West Sixth Brewing 100  0.055 <UNK> American Pale Ale (APA) Jalapeno Pale Ale 2508 272 1945 Hoponius Union Old Pro
+UT Midvale Bohemian Brewery 364  0.07 <UNK> American IPA The Farmers Daughter 700 1233 Walloon Breakside Brewery 2213
+OR Ashland Caldera Brewing Company 155 24 0.056 <UNK> Herbed / Spiced Beer Archers Ale (2004) 738 1840 Grapefruit Jungle (GFJ) 1919 Diamond Springs
+MN Minneapolis Indeed Brewing Company 277 10 0.05 error3 399 0.055 <UNK> California Common / Steam Beer Wagon Party 1966 200 Sous Chef 1061
+HI Hilo Hawaii Nui Brewing Co. 204  0.064 <UNK> Foreign / Export Stout Aloha B’ak’tun 713 1305 Boise Co-Op Two Score Ale 1293 Low Alcohol Beer
+MA Gloucester Cape Ann Brewing Company 230 43 0.055 <UNK> error3 Make It So 2549 2030 1325 Yellow Wolf Imperial IPA 2636
+CO Denver Wynkoop Brewing Company 424  0.052 <UNK> American Amber / Red Ale Dad 2132 1731 55 Eau Claire 926
+VT Waterbury The Alchemist 272 120 0.062 16 American IPA Reactor 2448 2127 North Third Stout Ex Umbris Rye Imperial Stout Engine House 9
+VA Afton Blue Mountain Brewery 382 65 0.065  0.055 <UNK> Witbier Nebraska India Pale Ale 1148 1438 Double D Blonde (2013) Mazzie
+MO Saint Louis 4 Hands Brewing Company 60  0.05 <UNK> American Blonde Ale Mother Ale 1159 708 Boohai Red Ale 291 Anchorage
+IN Lyons Oskar Blues Brewery 503 35 0.053 <UNK> American Pale Ale (APA) Mr. Orange 2447 2128 78 American Double / Imperial IPA 2262 Fruit / Vegetable Beer 682 1666
+MI Grand Rapids Brewery Vivant 10  0.065 16 Irish Dry Stout 2625 470 1449 2086 Blazing World CuDa Cascadian Dark Ale (2012)
+KY Louisville Against the Grain Brewery 1 68 0.062 16 American IPA Tallgrass IPA 101 2121 Cape Cod Red 1315 Loafin Bräu Rude Parrot IPA
+CA San Diego Modern Times Beer 209 50 0.051 16 American Pale Ale (APA) Day Tripper Pale Ale 728 1107 Somerset Center JPs Ould Sod Irish Red IPA 973
+OH Columbus Four String Brewing Company 105  0.068 <UNK> American Black Ale Dark Voyage Black IPA (2013) 2227 532 1940 1175 1272
+ID Ponderay Laughing Dog Brewing Company 218 70 0.072 <UNK> American IPA Norms Raggedy Ass IPA 2139 2314 2189 Russian Imperial Stout 1826 1280
+MI Douglas Saugatuck Brewing Company 398 11 0.07 16 Belgian Dark Ale Tart Side of the Moon 1136 436 1631 Belgian Pale Ale Garrattsville
+ME Portland Rising Tide Brewing Company 42  0.063 16 Baltic Porter Double Brown Stout 1203 700 938 1390 Quakertown Stout
+IN Columbus 450 North Brewing Company 27  0.09 16 Scotch Ale / Wee Heavy Supermonk I.P.A. 1299 1793 1021 2209 1324
+SC Mt. Pleasant Westbrook Brewing Company 384 65 0.062 <UNK> American IPA Gangway IPA 938 1692 Saint Archer IPA 2416 2003
+WI Stevens Point James Page Brewing Company 32  0.055 <UNK> American Pale Wheat Ale First Stand 2119 2137 Churchkey Pilsner Style Beer Robert Earl Keen Honey Pils 661
+CA Buellton Figueroa Mountain Brewing Company 36 0.056 <UNK> 0.06 <UNK> Saison / Farmhouse Ale Atalanta 2112 1551 Pail Ale 723
+KY Louisville Against The Grain Brewery 62  0.05 16 American IPA Half Cycle IPA 1610 812 Jacks Abby Craft Lagers Lasso 882
+HI Hilo Mehana Brewing Co. 203 22 0.042 <UNK> Hefeweizen 2129 926 1904 Deep Ellum Pale Ale Voodoo Bengal Pale Ale 7venth Sun
+IL Chicago Revolution Brewing Company 44 40 0.055 <UNK> American Pale Ale (APA) Java the Hop 1803 828 Tumbleweed IPA Freestyle Pilsner 961
+OH Columbus Four String Brewing Company 105 28 0.05 <UNK> American Pale Wheat Ale 312 Urban Wheat Ale (2012) 581 920 Cant Dog Imperial Pale Ale American Blonde Ale 913 43
+MI Petoskey Petoskey Brewing 11 20 0.049 16 0.055 error3 Fruit / Vegetable Beer Blood Orange Honey 649 2357 1096 978 1087
+CA San Diego TailGate Beer 449 77 0.07 <UNK> American IPA Big Sky IPA 1714 253 Pilsner Ukiah 1758 Buffalo Sweat (2010)
+OH Cincinnati Madtree Brewing Company 91 11 0.055 <UNK> Light Lager Up River Light 326 1413 33 Four String Vanilla Porter Oktoberfest Lager
+PA Lansdale Round Guys Brewing 164 28 0.063 <UNK> American IPA Good Vibes IPA 1603 2317 Boise 182 Belt
+OR Newport Rogue Ales 289  0.051 16 Bock LuckenBock 1972 1939 1652 Salt Lake City American Double / Imperial IPA Quarter Mile Double IPA 0.056
+OR Portland MacTarnahans Brewing Company 485 80 0.062 <UNK> American IPA Infamous IPA 2038 1112 Gnarly Brown Estival Cream Stout Green Monsta IPA 1839
+MT Stevensville Wildwood Brewing Company 499  0.07 16 American IPA Bronx Pale Ale 1037 2156 995 Manayunk Oktoberfest The Long Thaw White IPA
+TX Houston Karbach Brewing Company 125 15 0.05 <UNK> Hefeweizen Big Bend Hefeweizen 1155 238 Harpoon Summer Beer 1723 Old Grogham Imperial India Pale Ale (2012)
+IN Indianapolis Sun King Brewing Company 25 60 0.099 16 American Amber / Red Ale Disconnected Red 1067 243 Porter (a/k/a Black Gold Porter) Tempe Bonfire Brewing Company
+CA San Diego Hess Brewing Company 423 85 0.099 16 American Double / Imperial IPA The Imperial Texan 1234 1285 1305 508 Horny Monk
+MO Bucryus Piney River Brewing Company 314 60 0.07 16 American IPA Alloy 951 2193 Dog Days Summer Ale 1358 Undertaker (2014)
+WA Woodinville Redhook Brewery 487 44 0.051 <UNK> American Dark Wheat Ale Dirty Hippie Dark Wheat 927 1608 390 1685 Golden Trout Pilsner Tropical Heatwave
+NH Hooksett White Birch Brewing 47  0.055 <UNK> American Black Ale Cold Press 2496 227 Sunken City Brewing Company 2071 Scarecrow
+CO Buena Vista Eddyline Brewery & Restaurant 369 15 0.066 16 Irish Dry Stout Ring of Dingle 1128 2054 Canton Davids Ale Works 1252
+NV Reno Buckbean Brewing Company 530  0.08 16 Baltic Porter Dubbelicious 642 406 Lakefire Rye Pale Ale 582 Alloy
+MS Hattiesburg Southern Prohibition Brewing Com... 133 60 0.082 16 Belgian IPA Walls End 2690 466 1226 Amber Ale 1972
+NY New York The Manhattan Brewing Company 180 35 0.051 <UNK> American Amber / Red Ale Cedar Point 2075 889 Lake Geneva Bottom Up Belgian Wit 1687
+ND Fargo Fargo Brewing Company 335 64 0.055 <UNK> Märzen / Oktoberfest Moose Drool Brown Ale (2009) 34 264 Lockland 1519 Quarter Mile Double IPA
+PA Philadelphia Manayunk Brewing Company 356  0.055 <UNK> American Pale Ale (APA) 834 Happy As Ale 611 307 1667 Titan IPA 1782 American Double / Imperial Pilsner
+CT Bloomfield Back East Brewing Company 235  0.06 <UNK> American IPA 2234 1915 2142 545 SlapShot Brewing Company 609
+ID Boise Sockeye Brewing Company 309 100 0.063 <UNK> American IPA Raincloud Robust Porter 2072 821 1046 Invasion Pale Ale 1775
+MI Ada Sietsema Orchards and Cider Mill 137  0.069 16 Cider Dry Hard Apple Cider 1464 554 Luchesa Lager 2338 2135
+IL Chicago Spiteful Brewing Company 175  0.055 16 American Pale Ale (APA) Oberon 2494 218 Hunny Do Wheat Widmer Brothers Brewing Company 2539
+IA Davenport Great River Brewery 365 25 0.092 16 Dunkelweizen Fireside Chat (2010) 321 35 512 Peach Pale Ale 1422
+TX Austin Austin Beerworks 413  0.061 <UNK> American IPA Wachusett Light IPA (2013) 1029 2326 Steel Rail Extra Pale Ale 181 2139
+FL Tampa Brew Bus Brewing 308  0.05 <UNK> American Stout Autumnal Molé Stout 774 1888 34 58 2507
+RI Westerly Grey Sail Brewing of Rhode Island 379  0.055 16 American Pale Ale (APA) Cack-A-Lacky 1658 886 Dales Pale Ale (2004) 475 1473
+WI Middleton Capital Brewery 192 18 0.054 <UNK> American Stout Gerry Dog Stout 1002 245 El Chingon IPA 1876 0.095
+TX Alpine Big Bend Brewing Company 463  0.064 <UNK> American Porter Penn Quarter Porter 1092 684 Camelback 2020 588
+VT Middlebury Woodchuck Hard Cider 501  0.05 <UNK> English Dark Mild Ale NOLA Brown Ale 485 1476 1063 Comstock Park Sweet Yamma Jamma Ale
+CA Boonville Anderson Valley Brewing Company 171 15 0.058 <UNK> American Black Ale Wachusett Blueberry Ale 619 2328 2499 Bauhaus Brew Labs Carolina Blonde (2006)
+HI Kona Kona Brewing Company 439 18 0.046 <UNK> American Amber / Red Lager Longboard Island Lager 1274 1182 Walls End 959 Sacramento
+ID Santa Fe Lucette Brewing Company 456  0.06 16 American Pale Ale (APA) Dolores River Pale Ale 448 733 1424 2119 Mastermind
+FL Miami Miami Brewing Company 393 11 0.053 16 American Porter Porter (a/k/a Black Gold Porter) 2509 131 Fort Pitt Ale 2619 American Pale Ale (APA) Peoples Pilsner 1239
+WA Seattle Pyramid Breweries 544 18 0.052 16 Hefeweizen Miners Gold Hefeweizen 472 1205 Bacon Brown Ale Devils Canyon Brewery 1828 Old Chub (2003)
+RI Providence Narragansett Brewing Company 143  0.054 16 Irish Red Ale Fat Badger 1633 1981 Black Adder IBA (Current) Macon History Ale Mudshark Brewing Company
+NH Hooksett White Birch Brewing 47  0.055 <UNK> American Pale Ale (APA) Quaff India Style Session Ale 2582 1226 51 2105 Peak Organic Brewing Company
+IL Warrenville Two Brothers Brewing Company 74 68 <UNK> American Double / Imperial IPA Bay of Bengal Double IPA (2014) 2440 595 40 Mile IPA 1295 2218 American Double / Imperial IPA
+MO Springfield Mothers Brewing 188 15 0.046 <UNK> American Blonde Ale Knoxville 1969 1942 Bimini Twist Side Kick Kölsch 1832
+MI Cheboygan Cheboygan Brewing Company 121 58 0.057 16 American IPA Flyin Rye 2221 2334 Country Boy IPA American Double / Imperial IPA 793 1109 Kilt Dropper Scotch Ale
+VA Nellysford Wild Wolf Brewing Company 181 20 0.051 <UNK> Kölsch Three Kings Ale 650 2010 Wynonas Big Brown Ale Heinnieweisse Weissebier East India Pale Ale
+TX Houston Karbach Brewing Company 125 15 0.052 <UNK> Hefeweizen Big Bend Hefeweizen 1155 238 CANfusion Rye Bock Ashland Amber Ale (2009) Wynonas Big Brown Ale
+WA Yakima Bale Breaker Brewing Company 483 55 0.055 <UNK> American Pale Ale (APA) Naked Pig Pale Ale 1875 180 Roggenbier Bent Hop Golden IPA High Country Pilsner (Current)
+WA Yakima Bale Breaker Brewing Company 483 38 0.05 <UNK> American Black Ale Cold Press 2496 227 Uinta Brewing Company Rauchbier Corvallis 1558 Second Wind Pale Ale
+GA Atlanta SweetWater Brewing Company 49  0.055 <UNK> Gose Scape Goat Pale Ale 1713 346 Dad Karbachtoberfest Biglerville
+WY Hattiesburg Southern Prohibition Brewing Com... 133 80 0.082 16 American Double / Imperial IPA Citra Ass Down 2686 70 1468 Wilson 836
+IN Columbus 450 North Brewing Company 27  0.053 16 American Amber / Red Ale Ashland Amber Ale 98 660 Bomber Mountain Amber Ale (2013) 2131 #004 Session I.P.A.
+KY Lexington West Sixth Brewing 100  0.055 <UNK> American Pale Ale (APA) Lava Lake Wit 685 658 1811 2174 1459
+IN Angola Chapmans Brewing 250 30 0.045 16 American Stout Pothole Stout 1949 427 Summer Wheat Upstate I.P.W. 1313
+VT Middlebury Otter Creek Brewing 17 36 0.053 <UNK> American Pale Ale (APA) Pisgah Pale Ale 398 592 Zaison 823 Baltimore
+SD Spearfish COAST Brewing Company 5  0.051 16 American Pale Ale (APA) AXL Pale Ale 273 1354 Lighthouse Amber 1542 1237
+FL Jacksonville Intuition Ale Works 527 20 0.045 <UNK> American Amber / Red Ale Voodoo 2429 765 828 2420 Coq DOr
+CO Fort Collins Pateros Creek Brewing Company 441 28 0.05 16 Scotch Ale / Wee Heavy Wee Muckle (2011) 584 2064 Archers Ale (2004) 1440 Double Play Pilsner 919
+VA Nellysford Wachusett Brewing Company 295 <UNK> 0.051 <UNK> Cream Ale Gansett Light 2345 1421 Barn Burner Saison 0.083 Portage
+2529 missing Horny Goat Brew Pub 120  0.055 <UNK> American IPA Old Chub (2003) 1820 1978 Monon Wheat 1980 American Double / Imperial IPA 1082
+AZ Chandler SanTan Brewing Company 30 20 0.048 <UNK> Saison / Farmhouse Ale CAPT Black IPA 1751 1826 Norms Gateway IPA Chuli Stout Peacemaker Pale Ale
+IL Chicago Half Acre Beer Company 327  0.07 16 American Pale Ale (APA) Saison Pamplemousse 1960 892 Otter Creek Brewing 1916 Shore Shiver American Double / Imperial IPA Boulder 1770
+WY Jackson Snake River Brewing Company 191 27 0.04 <UNK> American Porter Voodoo 2429 765 287 Loki Red Ale (2013) 2517
+IL Lake Barrington Wild Onion Brewing Company 361 100 0.063 16 English Strong Ale Abominable Ale 994 877 Moar Half Full Brewery 624
+OR Ashland Caldera Brewing Company 155 94 0.061 <UNK> American IPA 983 1398 331 Big Bowl Blonde Ale 745 Northern Lights India Pale Ale 1254
+MI Marquette White Flame Brewing Company 78 11 0.055 16 Winter Warmer Santas Secret 2255 546 Santee Champion Brewing Company 420
+NV Henderson Joseph James Brewing Company 233 15 0.052 <UNK> Euro Pale Lager Blue Mountain Classic Lager 1545 313 Big Bend Brewing Company American Double / Imperial IPA 1335 Wicked Snout Oneida
+NY Brooklyn Sixpoint Craft Ales 46 52 0.1 missing Saison / Farmhouse Ale River House 2331 1737 Mother Ale Cowbell 1094
+CA San Diego Mike Hess Brewing Company 3  0.048 16 0.1 Hopsmith Pale Lager 1828 1535 Great Crescent Belgian Style Wit Star Runner Stevens Point 1604
+MO Bucryus Piney River Brewing Company 314 20 0.055 16 Märzen / Oktoberfest Oktoberfest 1995 1790 Mind Games 2088 Blue Boots IPA
+CO Eagle Bonfire Brewing Company 107 38 0.055 <UNK> American IPA Backyahd IPA 983 820 0.071 Centennial State Pale Ale Lyric Ale Sunken City Brewing Company
+CO Longmont Oskar Blues Brewery 166  0.08 16 Belgian Strong Pale Ale Rip Van Winkle (Current) 2348 2347 544 2023 Euro Pale Lager
+CA Chico Sierra Nevada Brewing Company 83  0.055 <UNK> Pumpkin Ale Wynkoop Pumpkin Ale 1045 2404 Pre Flight Pilsner Buffalo Sweat (2010) 2326
+OH Athens Jackie Os Pub & Brewery 92  0.055 <UNK> American Amber / Red Ale English Dark Mild Ale 864 2035 Petes ESP Lager (1998) 2047 Fresh Slice White IPA
+FL St Petersburg 3 Daughters Brewing 67  0.093 <UNK> American Double / Imperial IPA Hop Crisis 432 33 Boji Beach Golden Rye Ale 2217 721
+VT Waterbury The Alchemist 272 35 0.05 16 American Pale Ale (APA) Rad 2266 1861 Happening Now 997 996
+IN Lafayette Peoples Brewing Company 205 62 0.062 <UNK> American IPA Dayman IPA 2048 1747 1093 2153 Twisted Helles Summer Lager
+IL Chicago Finchs Beer Company 256  0.055 16 Irish Red Ale Station 33 Firehouse Red 1305 1492 Toxic Sludge 1635 Hopped on the High Seas (Calypso)
+NC Charlotte NoDa Brewing Company 359 31 0.051 16 Witbier Big Red Coq 1899 1477 2630 Count Hopula (Vault Series) 1687
+WA Seattle Fremont Brewing Company 460 30 0.046 <UNK> American Double / Imperial IPA Gator Tail Brown Ale 1507 1327 32°/50° Kölsch 2256 The Great Pumpcan
+CO Boulder Upslope Brewing Company 51 15 0.048 <UNK> American Pale Ale (APA) Petes Wicked Pale Ale (1997) 1056 1637 Kilt Lifter Scottish-Style Ale (2009) Miners Gold Hefeweizen 0.096
+KS Manhattan Tallgrass Brewing Company 45 60 0.06 16 American IPA PONTO S.I.P.A. 1589 1096 1197 Volcano Red Ale 155 2104
+CA Conroe Southern Star Brewing Company 118 100 0.099 <UNK> American Double / Imperial IPA Troll Destroyer 1980 14 1634 0.054 Maine Island Trail Ale
+CO Boulder Upslope Brewing Company 51   <UNK> American IPA Lost River Blonde Ale 1789 1869 Ex Umbris Rye Imperial Stout Viking Ice Hole 482
+PA York Liquid Hero Brewery 298 20 0.055 <UNK> Milk / Sweet Stout Lily Flagg Milk Stout 925 2023 Matt Brewing Company 1831 Rollin Dirty Red Ale
+CA San Diego Mission Brewery 98 44 0.057 16 American Brown Ale Saddle Bronc Brown Ale 2485 285 765 625 437
+MN Vadnais Heights Big Wood Brewery 444 87 0.065 16 American IPA WET 329 2077 Good People IPA Nashville 2587
+AL Huntsville Straight to Ale 412 70 0.072 <UNK> American IPA BrightCider 1502 19 Fremont Summer Ale 2038 1542
+OH Columbus Seventh Son Brewing Company 183 20 0.065 16 Doppelbock Troegenator Doublebock 1510 2217 Nebraska India Pale Ale 563 Righteous Ale (2011)
+MT Bozeman Bozeman Brewing Company missing 35 0.045 <UNK> Berliner Weissbier Wolfmans Berliner 1583 62 360° India Pale Ale Dry Heat Hefeweizen (2006) 825
+AZ Lake Havasu City Mudshark Brewing Company 507  0.045 <UNK> 27 missing Wild Onion Pumpkin Ale (2010) Chile Beer 737 831 Day Break 4-Grain Breakfast Beer
+HI Midvale Bohemian Brewery 364  0.05 <UNK> American Amber / Red Lager Yard Sale Winter Lager 2100 2253 2162 1362 711
+WI Denver Peacemaker Pale Ale 38 36 0.056 16 American Pale Ale (APA) Tampa Pale Ale 1096 451 2111 513 2004
+CA Buellton Figueroa Mountain Brewing Company 36  0.055 <UNK> Czech Pilsener Balt Altbier 1847 2016 21st Amendment Brewery 1103 642
+NY Utica Matt Brewing Company 299  0.045 <UNK> German Pilsener Peoples Pilsner 1794 1627 1549 New Orleans Lager & Ale Brewing ... Sex Panther (2014)
+KS Manhattan Tallgrass Brewing Company 45  0.055 16 American Pale Ale (APA) Elliotts Phoned Home Pale Ale 1182 570 Totally Radler 536 Bent Paddle Black Ale
+IL Chicago Spiteful Brewing Company 175  0.055 16 American Pale Ale (APA) 543 Skull Creek Fresh Hopped Pale Ale 937 303 Voodoo Brewery Curious Traveler Shandy 825
+CA San Diego Mission Brewery 98 44 0.057 16 Saison / Farmhouse Ale Farmhouse Wit 1202 701 American Double / Imperial Stout 1827 586
+CA San Diego Modern Times Beer 209 100 0.057 16 American IPA Trader Session IPA 1925 2254 Hopped on the High Seas (Citra) Original Slacker Ale 825
+MO Bucryus Piney River Brewing Company 314 24 0.06 16 American Pale Wheat Ale Endless Sun Ale 1381 1540 Cack-A-Lacky 1250 Bunker Hill Blueberry Ale
+OH Cincinnati Madtree Brewing Company 91 18 0.05 <UNK> American Pale Wheat Ale Honey Lav 1953 290 Deadicated Amber 1791 Rhino Chasers Pilsner
+CA Buellton Figueroa Mountain Brewing Company 36  0.07 <UNK> American IPA 1620 83 1979 Indeed Brewing Company 1345 83 337
+CA San Francisco Anchor Brewing Company 35  0.045 <UNK> American IPA error5 1535 92 Huber Due South Brewing Company Herbed / Spiced Beer
+WY Jackson Snake River Brewing Company 191 335 18 0.05 <UNK> English Pale Ale Scape Goat Pale Ale (2010) 159 262 2421 2645 Apricot Blonde
+CA Paso Robles Firestone Walker Brewing Company 48 20 0.055 <UNK> Hefeweizen North Fork Lager 464 1153 Ethos IPA 1811 Stump Knocker Pale Ale
+CA San Francisco Fort Point Beer Company 4 18 0.048 <UNK> Fruit / Vegetable Beer Mr. Pineapple 777 1800 Dagger Falls IPA 752 Abingdon
+NJ Atlantic Highlands Carton Brewing Company 222 35 0.042 <UNK> Berliner Weissbier Monkey Chased the Weasel 1941 550 2683 0.077 655
+NY Elmira Upstate Brewing Company 546 42 0.055 <UNK> Märzen / Oktoberfest Manayunk Oktoberfest 1626 1261 Gordon Imperial Red (2010) American Barleywine 785 1978
+IN Indianapolis Sun King Brewing Company 25 23 0.063 16 American IPA Beer Agent Re-Ignition 2303 929 Cleveland 725 1759
+IL Evanston Temperance Beer Company 210  0.045 <UNK> American Pale Ale (APA) Jalapeno Pale Ale 2508 272 Mammoth Brewing Company Baltic Porter Chatham Brewing 52 Modus Hoperandi
+CT Woodbridge New England Brewing Company 410  0.055 16 American Pale Ale (APA) Sierra Nevada Pale Ale 400 1853 Marble India Pale Ale Habitus IPA American Double / Imperial IPA Marquette 1818
+CA Los Angeles Golden Road Brewing 240 50 0.055 16 American Pale Ale (APA) Iron Mike Pale Ale 336 1384 834 Happy As Ale Broomfield Samuel Adams Summer Ale
+IN Aurora Great Crescent Brewery 165 26 0.056 16 German Pilsener The Crisp 1388 1867 1669 Hop Nosh IPA Ten Fidy Imperial Stout
+MO OFallon OFallon Brewery 442  0.06 <UNK> Hefeweizen Healani 2480 1134 Greenville 859 Worthy Brewing Company
+TX Conroe Southern Star Brewing Company 118 20 0.05 <UNK> German Pilsener Oregon Trail Unfiltered Raspberry Wheat 616 1050 465 1205 2300
+SC Charleston COAST Brewing Company 5  0.058 <UNK> Witbier MA 2489 317 1724 Ozark Beer Company 2632
+CA Los Angeles Golden Road Brewing 240 70 0.08 16 American IPA Big Eye India Pale Ale 1400 186 1825 Hijack 972
+CA San Francisco Anchor Brewing Company 35 error3 0.07 <UNK> American IPA Snake Dog IPA 608 815 Wind River Brewing Company Brünette 0.054
+WI Middleton Capital Brewery 192  0.047 <UNK> Light Lager Up River Light 326 1413 Shark Tracker Light lager Hop Drop N Roll IPA Isis
+TX Seven Points Cedar Creek Brewery 29 66  16 American IPA 512 912 2111 River House Saison Fist City 1782 1070
+VA Norfolk Smartmouth Brewing Company 115 35 0.045 <UNK> American IPA Wachusett Light IPA 1846 2319 382 Happy Amber Smitten
+CA San Diego Ballast Point Brewing Company 34  0.05 <UNK> American IPA Mango Ginger 2299 231 451 Proxima IPA 1721
+CO Buena Vista Eddyline Brewery & Restaurant 369  0.055 16 Rye Beer SurlyFest 18 2079 880 Yellow Wolf Imperial IPA Fenway American Pale Ale
+OH Columbus Seventh Son Brewing Company 183 20 0.088 16 American Double / Imperial IPA Ballz Deep Double IPA 47 61 Kilt Dropper Scotch Ale 57 Bermuda Triangle Ginger Beer
+SC Charleston COAST Brewing Company 5  0.047 <UNK> American Pale Ale (APA) Mountain Rescue Pale Ale 2205 914 2498 Lee Hill Series Vol. 4 - Manhattan Style Rye Ale Plant City
+MN Duluth Bent Paddle Brewing Company 20  0.06 <UNK> Witbier 11th Hour IPA 271 672 1667 Weim-R-Iner Alphadelic IPA

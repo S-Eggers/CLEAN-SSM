@@ -1,0 +1,1 @@
+10000Fixed866of which the correct number is826, The number of errors is40precision:0.953810623556582           recall:0.18400534640231678           f_measure:0.3084967320261438

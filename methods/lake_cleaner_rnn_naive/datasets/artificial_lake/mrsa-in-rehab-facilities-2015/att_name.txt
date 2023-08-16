@@ -1,0 +1,1 @@
+{0: 'year', 1: 'state', 2: 'hai', 3: 'facility_id_one', 4: 'facility_name_one', 5: 'county', 6: 'hospital_onset_cases', 7: 'patient_days', 8: 'hospital_onset_rate', 9: 'ci_nine_five_lower_limit', 10: 'ci_nine_five_upper_limit', 11: 'comparison', 12: 'notes'}

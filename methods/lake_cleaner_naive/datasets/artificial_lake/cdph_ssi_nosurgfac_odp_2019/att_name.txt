@@ -1,0 +1,1 @@
+{0: 'year', 1: 'state', 2: 'county', 3: 'hai', 4: 'facility_id', 5: 'facility_name', 6: 'facility_type', 7: 'number_months_expected', 8: 'notes'}

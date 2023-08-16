@@ -1,0 +1,1 @@
+{0: 'Provider ID', 1: 'City', 2: 'State', 3: 'ZIP Code', 4: 'County Name', 5: 'Phone Number', 6: 'Condition', 7: 'Measure ID'}

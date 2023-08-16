@@ -1,0 +1,502 @@
+state_county,state,statefips,cntyfips,county,county_two,fips,fips_two,perc_viol,Label
+AK Aleutians East Borough,AK,2,13,Aleutians East Borough,Aleutians East Borough,2013,f02013,0.H,1
+AK Aleutians West Census Area,AK,2,16,Aleutians West Census Area,Aleutians West Census Area,2016,f02016,0.0,0
+AK Anchorage Municipality,AK,2,2w,Anchorage Municipality,Anchorage Municipality,2020,f02020,0.0,1
+AK Bethel Census Area,AK,6,50,Bethel Census Area,Bethel Census Area,2050,f02050,0.0,1
+AK Bristol Bay Borough,AK,2,60,Bristol Bay Borough,Bristol Bay Borough,8003,f02060,0.0,1
+AK Denali Borough,AK,2,68,Graham ,Denali Borough,2068,f02068,0.0,1
+,AK,2,70,Dillingham Census Area,Dillingham Census Area,2070,f02070,0.0,1
+,AK,2,90,Fairbanks North Star Borough,Fairbanks North Star Borough,1107,f02090,0.0,1
+AK Haines Borough,AK,2,100,Haines Borough,Haines Borough,2100,f02100,0.0,0
+AK Hoonah Angoon Census Area,AK,2,105,Hoonah Angoon Census Area,Hoonah Angoon Census Area,2105,f02105,0.0,0
+AK Juneau City and Borough,AK,,137,Juneau City and Borough,Juneau City and Borough,2110,f02110,0.0,1
+FL Hernando,AK,2,122,Kenai Peninsula Borough,Kenai Peninsula Borough,2122,f02122,0.0,1
+AK Ketchikan Gateway Borough,AK,2,130,Ketchikan Gateway Borough,Ketchikan Gateway Borough,2130,f02130,0.0,0
+AK Kodiak Island Borough,AK,2,150,Kodiak Island Borough,Kodiak Island Borough,2150,f02150,0.0123167877817465,1
+AK Lake and Peninsula Borough,AK,2,164,Lake and Peninsula Borough,Lake and Peninsula Borough,13163,f02164,0.0,1
+AK,AK Matanuska Susitna Borough,2,q70,Matanuska Susitna Borough,Matanuska Susitna Borough,2170,f02170,0.0,1
+AK Nome Census Area,CO,2,180,Nome Census Area,Nome Census Area,2180,f02180,2.74599542334096,1
+AK North Slope Borough,AK,2,185,North Slope Borough,North Slope Borough,2185,f02185,0.0,0
+AK Northwest Arctic Borough,AK,2,188,Northwest Arctic Borough,Northwest Arctic Borough,2188,f02188,W.0,1
+AK Petersburg Census Area,AK,2,195,Petersburg Census Area,Petersburg Census Area,,f02195,0.0,1
+,AK,2,198,Prince of Wales Hyder Census Area,Prince of Wales Hyder Census Area,2198,f02198,0.0,1
+AK Sitka City and Borough,AK,2,220,Sitka City and Borough,Sitka City nd Borough,2220,f02220,0.0,1
+AK Skagway Municipality,AK,2,230,Skagway Municipality,Skagway Municipality,2230,f02230,0.0,0
+AL Lauderdale,AK,2,Southeast Fairbanks Census Area,240,Southeast Fairbanks Census Area,2240,f02240,0.0,1
+AK Valdez Cordova Census Area,,2,261,Valdez Cordova Census Area,Valdez Cordova Census Area,2261,f02261,0.0,1
+AK Wade Hampton Census Area,AK,2,270,Wade Hampton Census Area,Wade Hampton Census Area,2270,f02270,0.0,0
+AK Wrangell City and Borough,AK,2,275,Wrangell City and Borough,Wrangell City and Borough,2275,f02275,0.0,0
+AK Yakutat City and Borough,AK,2,282,Yakutat City and Borough,Yakutat City and Borough,2282,f02282,0.0,0
+AK Yukon Koyukuk Census Area,AK,2,290,Yukon Koyukuk Census Area,Yukon Koyukuk Census Area,2290,f02290,0.0,0
+AL Autauga,AL,1,1,Autauga ,Autauga ,4021,f01001,0.0,1
+AL Baldwin,AL,1,3,New London ,Baldwin ,1003,f01003,0.0,1
+AL Barbour,AL,1,5,Barbour ,Barbuor ,1005,f01005,0.,1
+AL Bibb,AT,1,7,Bibb ,Bibb ,1007,f01007,0.0,1
+AL Blount,AL,1,9,Blount ,Blount ,1009,f01009,0.0,0
+AL Bullock,,1,11,Bullock ,Bullock ,1011,f01011,0.0,1
+AL Butler,AL,,13,Butler ,,1013,f01013,0.0,1
+AL Calhoun,AL,1,15,Calhoun ,Calhoun ,1015,f01015,0.0,0
+AL Chambers,AL,1,17,Chambers ,Chambers ,1017,f01017,0.0,0
+AL Cherokee,AL,1,19,Cherokee ,Cherokee ,1019,f01019,0.0520697734964853,1
+AL Chilton,AL,1,21,Chilton ,Chilton ,1021,f01021,,1
+,AL,1,23,Choctaw ,Choctaw ,1023,f01203,0.0,1
+AL Clarke,AL,1,25,Clarke,Clarke ,1025,f01025,0.0,1
+ALC lay,AL,1,27,Clay ,Clay ,1027,f01027,0.0,1
+AL Cleburne,AL,9,29,Cleburne ,Cleburne ,1029,f01029,0.0,1
+AL Coffee,AL,1,31,Coffee ,Coffee ,1031,f12086,0.0,1
+AL Colbert,AL,1,33,Colbert ,Colbert ,1033,,0.0,1
+AL Conecuh,AL,1,35,Conecuh ,Conecub ,10R5,f01035,0.0,1
+AL Coosa,AL,1,37,Coosa ,Coosa ,1037,f01037,0.0,0
+AL Covington,AL,1,20,Covington ,Covington ,1039,f05079,0.0,1
+AL Crenshaw,AL,1,41,Crenshaw ,Crenshaw ,1041,f01041,0.0,0
+AL Cullman,AL,1,,Cullman ,Cullman ,1043,f01043,0.0,1
+AL Dale,AL,1,45,Dale ,Dale ,1045,0.0,f01045,1
+AL Dallas,AL,1,47,Dallas ,Dallas ,1047,f01047,0.0,0
+AL DeKalb,AL,1,49,DeKalb ,DeKalb ,1049,f01049,0.0,0
+AL Elmore,AL,1,51,Elmore ,Elmore ,1051,f01051,0.0,0
+,AL,,53,Escambia ,Escambia ,1053,f01053,0.0,1
+AL Etowah,AL,1,55,Etowah ,Etowah ,1055,f01055,0.0,0
+AL Fayette,AL,1,57,Charlton ,Fayette ,,f01057,0.0,1
+,AL,1,59,Franklin ,Franklin ,1059,f01059,0.0,1
+AL Geneva,AL,1,61,Geneva ,Geneva ,1061,f01061,0.0,0
+AL Geene,AL,1,63,Greene ,Greene ,1063,f01063,0.0,1
+AL Hale,AL,1,65,Hale ,Hal e,60030,f01065,0.0,1
+AL Henry,AL,1,67,Henry ,Henry ,1067,f01067,0.0,0
+AL Houston,AL,1,69,Houston ,Houston ,1069,0.0,f01069,1
+AL Jackson,AL,1,,Jackson ,Jackson ,1071,f01071,0.0,1
+AL Jefferson,AL,1,73,Jefferson ,Jefferson ,1073,f01073,0.0,0
+AL LZmar,AL,1,75,Lamar ,Lamar ,1075,f01075,0.0,1
+AL Lauderdale,AL,1,77,Lauderdale ,Lauderdale ,1077,f01077,0.0,0
+AL Lawrence,rL,1,79,Lawrence ,Lawrence ,1079,f01079,0.0,1
+AL Lee,AL,1,81,Lee ,Lee ,1081,f01081,,1
+AL Limestone,AL,1,83,,Limestone ,1083,f01083,0.0,1
+AL Lowndes,AL,1,85,Lowndes ,Lowndes ,1085,f01085,0.0,0
+AL Macon,AL,1,87,Macon ,,1087,f01087,0.0749625187406297,1
+AL Madison,AL,1,89,Madison ,Madison ,1089,f01089,0.0,0
+AL Marengo,AL,1,91,Marengo ,Marengo ,1091,f01091,,1
+AL Marion,AL,1,93,Marion ,Marion ,1093,f01093,0.0,0
+AL Marshall,AL,1,95,Marshall ,Marshall ,1095,f01095,0.0,0
+AL Mobile,AL,1,97,Mobile ,Mobile ,1097,f01097,0.0,0
+AL Monroe,AL,1,99,Monroe ,Monroe ,1099,f01099,0.0,0
+AL Montgomery,AL,1,101,Montgomery ,Montgomery ,1101,f01101,0.0,0
+CA Nevada,AL,1,103,Morgan ,Morgan ,1103,f01103,0.0,1
+AL Perry,,1,105,Perry ,Perry ,1105,f01105,2.74599542334096,1
+AL Pickens,,1,107,Pickens ,Pickens ,1107,f01107,0.0,1
+AL Pike,1,AL,109,Pike ,Pike ,1109,f01109,0.0,1
+AL Randolph,AL,1,111,Randolph ,Randolph ,1111,f01111,0.0,0
+AL Russell,AL,1,113,Russell ,Russell ,1113,f01113,0.0,0
+AL Shelby,AL,1,117,Shelby ,Shelby ,1117,f01117,.00,1
+AL St. Clair,AL,1,St. Clair ,115,St. Clair ,1115,f01115,0.041407867494824,1
+AL Sumter,AR,1,119,Sumter ,Sumter ,1119,f01119,0.0,1
+AL Talladega,AL,1,121,Talladega ,Talladega ,1121,f01121,0.0,0
+AL Tallapoosa,1,AL,123,Tallapoosa ,Tallapoosa ,1123,f01123,0.0,1
+AL Tuscaloosa,AL,1,125,Tuscalosoa ,Tuscaloosa ,1125,f01125,0.0,1
+AL Walker,AL,1,127,Walker ,Walker ,1127,f01127,0.0,0
+AL Washington,AL,1,129,Washington ,Washington ,1129,f01129,0.0,0
+AL Wilcox,AL,1,131,Wilcox ,Wilcox ,1131,f01131,0.0,0
+AL Winston,AL,1,133,inston ,1133,Winston ,f01133,0.0,1
+AR Arkansas,AR,5,101,Arkansas ,Arkansas ,5001,f05001,0.0,1
+AR Ashley,,5,3,Ashley ,Ashley ,5003,f05003,0.0,1
+AR Baxter,AR,5,5,Baxter ,Baxter ,5005,f05005,0.0,0
+AR Benton,AR,5,7,Benton ,Benton ,5007,f05007,0.0,0
+AR Boone,AR,5,9,Boone ,Boone ,5009,f05009,0.0,0
+AR Bradley,AR,5,11,Bradley ,Yuba ,5011,0.0,f05011,1
+AR Calhoun,AR,5,13,Calhoun ,,5013,f05013,0.0137155397064875,1
+AR Carroll,AR,5,15,Carroll ,Carroll ,5015,f05015,0.0,0
+AR Chicot,AR,5,17,Prowers ,Chicot ,5017,f05017,0.0,1
+AR Clark,AR,12,19,Clark ,Clark ,,f05019,0.0,1
+AR Clay,AR,5,12,Clay ,,5021,f05021,0.0345065562456867,1
+AR Cleburne,AR,5,23,Cleburne ,Cleburne ,5023,f05023,0.0,0
+AR Cleveland,AR,5,25,Cleveland ,Cleveland ,5025,f06003,0.0,1
+AR Columbia,AR,5,27,Columbia ,Columbia ,5027,f05027,0.0,1
+AR Conway,AR,5,29,Conway ,Conway ,5029,0.0,f05029,1
+AR,AR Craighead,5,31,Craighead ,Craighead ,5031,f05031,0.0,1
+AR Crawford,AR,5,33,Crawford ,Crawford ,5033,f05033,0.0,0
+AR Crittenden,AR,5,35,Crittenden ,Crittenden ,5035,f05035,0.0,0
+AR Cross,RA,5,37,Cross ,Cross ,5037,f05037,0.0,1
+,AR,5,39,Dallas ,Dallas ,5039,f05039,0.0,1
+CA Glenn,AR,5,41,Desha ,Desha ,f05041,5041,0.0,1
+AR Drew,AR,5,43,Drew ,Drew ,5043,f05043,0.0,0
+AR Faulkner,AR,5,45,Faulkner ,Faulkner ,504,f05045,0.0,1
+AR Franklin,AR,5,47,Franklin ,Franklin ,5047,f0507,0.0,1
+AR Fulton,RA,5,49,Fulto n,Fulton ,5049,f05049,0.0,1
+AR Garland,AR,5,51,Garland ,Garland ,5051,f05051,0.0,0
+AR Grant,AR,5,53,Grant ,5053,Grant ,f05053,0.0,1
+AR Greene,RA,5,55,Greene ,Greene ,5055,f05055,0.0,1
+AR Hempstead,AR,5,57,Hempstead ,Hempstead ,5057,f05057,0.0,0
+AR Hot Spring,AR,5,95,Hot Spring ,Arapahoe ,5059,f05059,0.0,1
+AR Howard,AR,5,61,Howard ,Howardn,5061,f05061,0.0,1
+AR Independence,AR,5,63,,Independence ,5063,f05063,0.0,1
+AR Izard,AR,5,65,Izard ,Izard ,5605,f05065,0.0,1
+AR,AR Jackson,5,67,Jackson ,Jackson ,5067,f05067,0.,1
+AR Jefferson,FL,5,69,Jefferson ,Jefferson ,5069,f05069,0.0,1
+AR Johnson,AR,5,71,Johnson ,Johnson ,5071,f05071,0.0,0
+AR Lafayette,RA,5,10,Lafayette ,Lafayette ,5073,f05073,0.0,1
+AR Lawrence,AR,5,75,Lawrence ,Lawrence ,5075,f05075,0.0,0
+AR Lee,AR,5,77,Lee ,Lee ,5077,f05077,0.0,0
+AR Lincoln,AR,5,79,Lincoln ,Lincoln ,5079,f05079,0.0,0
+AR,AR Little River,81,5,Little River ,Little River ,5081,f05081,0.0,1
+AR,AR Logan,5,83,Logan ,Logan ,5083,0.0,f05083,1
+AR Lonoke,AR,5,85,Lonoke ,,5085,f05085,0.0,1
+AR Madison,AR,5,Madison ,87,Madison ,5087,f05087,0.0,1
+AR Marion,AR,5,89,Marion ,Marion ,5089,f05089,0.0,0
+AR Miller,AR,5,91,Miller ,Miller ,5091,f05091,0.0,0
+AR Mississippi,AR,5,39,Mississippi ,Mississippi ,5093,0.0,f05093,1
+AR Monroe,AR,5,95,Monroe ,Monroe ,5095,f05095,0.0,0
+AR Montgomery,AR,5,97,Montgomery ,Montgomery ,5097,f05097,0.0,0
+AR Nevada,AR,99,5,Nevada ,Nevada ,5099,f05099,0.0,1
+AR Newton,AR,5,101,Newton ,Newton ,5101,f05101,0.0,0
+AR Ouachita,AR,5,103,Ouachita ,Ouachita ,5103,f05103,0.0,0
+AR Perry,AR,5,105,Perry ,Dallas ,5105,f05105,0.0,1
+AR Phillips,AR,5,,Phillips ,Phillips ,5107,f05107,0.0,1
+AR Pike,AR,5,109,Pike ,Pike ,5109,f05109,0.0,0
+AR Poinsett,AR,5,111,Poinsett ,Poinsett ,5111,0.0,f05111,1
+AR Polk,AR,5,113,Polk ,Polk ,5113,f05113,0.0,0
+AR Pope,AR,5,115,Pope ,Pope ,5115,f05115,0.0,0
+AR Prairie,AR,5,117,Prairie ,Prairie ,5117,f05117,0.0,0
+AR Pulaski,AR,8,119,Pulski ,Pulaski ,5119,f05119,0.0,1
+AR Randolph,Ay,5,121,Randolph ,Randolph ,5121,f05121,0.0,1
+AR Saline,AR,5,,Saline ,Saline ,n125,f05125,0.0,1
+AR Scott,AR,5,127,Scowt ,Scott ,5127,f05127,0.0,1
+AR Searcy,AR,5,129,Wakulla ,Searcy ,529,f05129,0.0,1
+AR Sebastian,AR,5,131,Sebastian ,5131,Sebastian ,f05131,0.0,1
+AR Sevier,,5,133,Sevier ,Sevier ,5133,f05133,0.0,1
+AR Sharp,AR,5,135,Sharp ,Sharp ,13133,f05135,0.0,1
+AR St. Francis,AR,5,123,St. Francis ,St. Francis ,5033,f05123,0.0,1
+,AR,5,137,Stone ,Stone ,5137,,0.0,1
+AR Uion,AR,5,139,Union ,Union ,5139,f05139,0.0,1
+AR Van Buren,AR,5,141,Van Buren ,Van Buren ,13045,f05141,0.0,1
+AR Washington,AR,5,143,Washington ,Washington ,5143,f05143,0.0,0
+AR White,AR,5,145,White ,White ,5145,f05145,0.0,0
+AR Woodruff,AR,5,147,Woodruff ,Woodruff ,5147,,0.0,1
+AR Yell,AR,5,149,Yell ,Yell ,5149,f05149,0.0,0
+AS Eastern District,AS,60,10,Eastern District,Eastern District,60010,f60010,0.0,0
+AS Manu a District,S,60,20,Manu a District,Manu a District,60020,f60020,.00,1
+AS Rose Island,AS,60,30,Rose Island,Rose Island,8077,,0.0,1
+AS Swains Island,A,60,40,Swains Island,Swains Island,60040,f60040,0.0,1
+AS Western District,AS,60,50,Miller ,Western District,60005,f60050,0.0,1
+AZ Apache,AZ,4,1,,Apache ,4001,0.0,f04001,1
+AZ Cochise,AZ,4,3,Cochise ,Cochise ,4003,f04003,0.041407867494824,0
+AZ Coconino,AZ,4,5,Coonino ,Coconino ,4005,f04005,0.0,1
+AZ Gila,AZ,4,7,Gia ,Gila ,4007,f04007,0.0,1
+AZ Graham,AZ,4,9,Graham ,Graham ,4009,f04009,0.0,0
+AZ Greenlee,AZ,4,11,Greenlee ,Greenlee ,4011,f04011,0.0,0
+AZ La Paz,AZ,4,12,La Paz ,La Paz ,4012,f04012,0.0,0
+AZ Maricopa,AZ,4,13,Maricopa ,Maricopa ,4013,f04013,0.03813882532418,0
+AZ Mohave,AZ,4,15,San Joaquin ,Mohave ,4015,f04015,0.0,1
+AZ Navajo,AZ,4,17,Navajo ,Navajo ,4017,f04017,0.0,0
+AZ Pima,AZ,4,19,,Pima ,4019,f04019,0.0,1
+AZ Pinal,AZ,4,21,Pinal ,Pinal ,4021,f04021,0.,1
+AZ Santa Cruz,AZ,4,23,Santa Cruz ,Santa Cruz ,4023,f04023,0.0,1
+AZ Yavapai,AZ,4,25,Yavapai ,Yavapai ,4025,,0.0,1
+AZ Yuma,AZ,4,27,Yuma ,Yuma ,4027,f04027,0.0,0
+CA Alameda,CA,6,1,Almaeda ,Alameda ,6001,f06001,0.0,1
+CA Alpine,CA,6,3,Alpine ,Alpine ,6003,f06003,0.0,0
+CA Amador,CA,2,5,Amador ,Amador ,6005,f06005,,1
+CA Butte,CA,1,7,Butte ,Butte ,6007,f06007,0.0,1
+CA Calaveras,CA,6,,Calaveras ,Calaveras ,6009,f06009,0.0,1
+CA Colusa,CA,6,11,Colusa ,Colusa ,6011,f06011,0.152312378842426,1
+CA Contra Costa,CA,6,13,Contra Costa ,Contra Costa ,6013,f06013,0.0,0
+CA Del Norte,CA,6,15,Del Norte ,Del Norte ,6015,f06015,0.0,0
+CA El Dorado,CA,6,17,Kenai Peninsula Borough,El Dorado ,6017,f06017,0.0,1
+CA Fresno,CA,6,19,Fresno ,Fresno ,6019,f06019,0.0137155397064875,1
+GA Crisp,CA,6,21,Glenn ,Glenn ,6021,f06021,0.0,1
+CA Humboldt,CA,6,23,Humboldt ,Ouray ,6023,f06023,0.0,1
+CA Imperial,CA,60,25,Imperial ,Imperial ,8029,f06025,0.0,1
+CA Inyo,CA,6,,Inyo ,Inyo ,6027,f06027,0.0,1
+CA Kern,C,6,29,Krn ,Kern ,6029,f06029,0.0,1
+CA Kings,CA,6,31,Kings ,Kings ,6031,f06031,0.0,0
+CA Lake,CA,6,33,Lake ,Lake ,6033,f06033,0.0,0
+CA Lassen,,,35,Lassen ,Lassen ,6035,f06035,0.0,1
+CA Los Angeles,6,CA,37,,Los Angeles ,6037,f06037,0.152312378842426,1
+CA Madera,CA,6,39,Madera ,Madera ,6039,f06039,0.0,0
+CA Marin,CA,6,41,Marin ,Marin ,6041,f06401,0.0,1
+CA Mariposa,CA,6,43,Mariposa ,Lonoke ,6043,f06043,0.0,1
+CA Mendocino,CA,6,45,Mendocinoe,Mendocino ,6045,f06045,,1
+CA Merced,CA,6,47,Merced ,Merced ,6047,f06047,0.0,0
+CA Modoc,CA,6,49,Modoc ,Modoc ,6049,f06049,0.0,0
+CA Mono,CA,6,51,Mono ,Mono ,6051,f06051,0.0,0
+CA Monterey,CA,6,53,Monterey ,Monterey ,6053,f06053,0.0,0
+CA Napa,CA,6,55,Napa ,Napa ,6055,f06055,0.0,0
+CA Nevada,CA,6,57,Nevada ,Nevada ,6057,f06057,0.0,0
+CA Orange,CA,6,59,Orange ,Orange ,6059,f06059,0.0869565217391304,0
+AR Lafayette,CA,6,61,Placer ,Placer ,6061,0.0,f06061,1
+CA Plumas,CA,6,63,Plumas ,Plumas ,663,f06063,0.0,1
+CA Riverside,CA,6,65,Riverside ,Riverside ,6065,f06065,0.111482720178372,1
+CA Sacramento,CA,4,67,Sacramento ,Sacramento ,6067,f06067,0.0,1
+CA San Benito,CA,6,69,San Benito ,San Benito ,6069,f06069,0.135869565217391,0
+CA San Bernardino,CA,6,71,San Bernardino ,San Bernardino ,6071,f06071,0.0,0
+CA San Diego,CA,6,,San Diego ,San Diego ,6073,f06073,0.0213128729752771,1
+CA San Francisco,CA,6,75,San Francisco ,San Francisco ,6075,f06075,0.131752305665349,1
+CA San Joaquin,CA,6,77,San Joaquin ,San Joaquin ,6077,f06077,0.0137155397064875,0
+CA San Luis Obispo,6,CA,9,San Luis Obispo ,San Luis Obispo ,,f06079,0.i520697734964853,1
+CA Scn Mateo,CA,6,81,San Mateo ,San Mateo ,6081,f06081,0.0749625187406297,1
+,CA,6,83,Santa Barbara ,,6083,f06083,0.0,1
+CA Santa Clara,CA,6,85,Santa Clara ,Santa Clara ,6085,f06085,0.0,0
+,CA,6,Santa Cruz ,87,Santa Cruz ,6087,f06087,0.0,1
+CA Shasta,CA,6,89,Columbia ,Shasta ,6089,f06089,,1
+CA Sierra,CA,6,Sierra ,91,Sierra ,6091,f06091,,1
+CA Siskiyou,CA,6,93,Siskiyou ,Siskiyou ,6093,f06093,0.0,0
+CA Solano,CA,6,95,Solano ,Solano ,6095,f06095,0.0,0
+CA Sonoma,CA,6,97,Sonoma ,Sonoma ,6097,f06097,0.0520697734964853,1
+CA,CA Stanislaus,6,99,Stanislaus ,Stanislaus ,6099,f06099,0.041407867494824,1
+CA Sutter,CA,6,101,Sutter ,6101,Sutter ,f06101,0.0,1
+CA Tehama,CA,6,103,Tehama ,Tehama ,6103,f06103,0.0,0
+CA Trinity,CA,6,105,Trinity ,Trinity ,6105,f06105,0.0,0
+CA Tulare,CA,6,107,Tulare ,Tulare ,6107,f06107,0.0882167611846251,0
+CA Tuolumne,CA,109,6,Tuolumne ,Tuolumne ,6109,f06109,0.0,1
+CA Ventura,CA,6,111,Ventura ,Lamar ,6111,f06111,0.131752305665349,1
+CA Yolo,CA,6,113,olo ,Yolo ,6113,f06113,0.0,1
+CA Ybua,CA,,115,Yuba ,Yuba ,6115,f06115,00.,1
+CO Adams,CO,8,1,Adams ,Adams ,8001,f08001,0.0,0
+CO Alamosa,CO,8,3,Alamosa ,Alamosa ,8003,f08003,0.0,0
+CO Arapahoe,CO,8,5,Arapahoe ,Arapahoe ,,f08005,0.0,1
+CO Archuleta,,8,,Archuleta ,Archuleta ,8007,V08007,0.0,1
+CO Baca,CO,8,9,Baca ,Baca ,12133,f08f09,y.0,1
+CO Bent,CO,8,11,Bent ,Bent ,8011,0.0,f08011,1
+C Boulder,CO,8,13,Boulder ,Boulder ,8013,f08013,0.111482720178372,1
+CO Broomfield,CO,8,14,Broomfield ,Broomfield ,8014,f0804,0.0,1
+CO Chaffee,CO,8,15,Chaffee ,Chaffee ,8015,f08015,0.0701262272089762,0
+CO Cheyenne,CO,8,17,Cheyenne ,Cheyenne ,8017,f08017,0.0,0
+CO Clear Creek,CO,8,193,Clear Creek ,Clear Creek ,8019,f08019,0.0,1
+CO Conejos,CO,8,21,Conejos ,Conejos ,8021,f08021,0.0,0
+CO Costilla,,8,23,Costilla ,Costilla ,8023,f08023,0.0,1
+CO Crowley,CO,8,25,Crowley ,Crowley ,8025,f08025,0.0,0
+CO Custer,CO,8,27,Custer ,,8027,f08027,0.0,1
+CO Delta,CO,8,29,Delta ,Delta ,8029,f08029,0.0,0
+CO Denver,CO,8,31,Denver ,Denver ,8031,0.0,f08031,1
+CO Dolores,CO,8,33,Dolores ,Dolores ,8014,f08033,0.0,1
+CO Douglas,CO,8,35,Douglas ,Douglas ,8035,f08035,0.0,0
+,8,CO,37,Eagle ,Eagle ,8037,f08037,0.0,1
+,CO,8,41,El Paso ,El Paso ,8041,f08041,0.036231884057971,1
+CO Elbert,CO,,3,Elbert ,Elbetr ,8039,f08j39,0.0,1
+CO Fremont,CO,8,43,Fremont ,Fremont ,8043,f08043,0.144927536231884,0
+CO Garfield,CO,8,45,Garfield ,Garfield ,8045,f08045,0.0,0
+CO Gilpin,CO,8,47,Gilpin ,Gilpin ,8047,f08047,0.82815734989648,0
+CO Grand,CO,8,49,Grand ,Grand ,8049,f08049,0.0,0
+CO Gunnison,CO,8,51,Gunnison ,Gunnison ,8051,f08051,0.0,0
+CO Hinsdale,CO,8,53,Hinsdale ,,8503,f08053,.0,1
+CO Huerfano,CO,8,5,Huerfano ,Huerfano ,8055,,0.0,1
+GA Crawford,CO,8,5H,Jackson ,Jackson ,8057,f08057,0.0,1
+CO Jefferson,CO,8,59,Gilpin ,Dolores ,8059,f08059,0.123051681706317,1
+CO Kiowa,CO,8,61,Kiowa ,Kiowa ,8061,f08061,0.0,0
+CO Kit Carson,CO,8,63,Woodruff ,Kit Carson ,8063,f08063,0.0,1
+CO La Plata,CO,8,67,La Plata ,La Plata ,8067,f08067,0.0,0
+CO Lake,CO,65,8,Lake ,Lake ,8065,f08065,0.0,1
+CO Larimer,CO,8,69,Larimer ,Larimer ,8069,f08069,0.0345065562456867,0
+CO aLs Animas,CO,8,71,Las Animas ,Las Animas ,8071,f08071,0.0,1
+CO Lincoln,CO,8,73,Lincoln ,Lincoln ,8073,f08073,0.0,0
+CO Loan,CO,8,75,Logan ,Logan ,8075,f08075,0.0,1
+CO Mesa,CO,8,77,Mesa ,Mesa ,8077,f08077,0.0749625187406297,1
+CO Mineral,CO,8,79,Mineral ,Mineral ,8079,f08079,0.0,0
+CO Moffat,CO,8,81,Moffat ,Moffat ,8081,f08081,0.0,0
+CO Montezuma,CO,8,83,Montezuma ,Montezuma ,8083,f08083,0.0213128729752771,1
+CO Montrose,CO,8,85,Montrose ,Montrose ,4021,f08085,0.0,1
+CO Morgan,CO,8,87,Morgan ,Morgan ,6017,f08087,0.0,1
+CO Otero,CO,8,89,Otero ,Otero ,8089,f08089,0.181159420289855,0
+CO Ouray,CO,8,91,Ouray ,Ouray ,8091,f08091,0.0,0
+AK Sitka City and Borough,CO,,93,Park ,Park ,8o93,f08093,0.181159420289855,1
+CO Phillips,CO,,95,Phillips ,Phillips ,8095,f08095,0.0,1
+CO Pitkin,CO,8,97,Pitkin ,Pitkin ,8097,f08097,0.0,0
+CO Prowers,CO,8,99,,Prowers ,8099,f08099,0.0,1
+CO Pueblo,CO,8,101,Pueblo ,Pueblo ,8101,0.501672240802676,f08101,1
+CO Rio Blanco,CO,8,103,Rio Blanco ,Rio Blanco ,8103,f08103,0.0,0
+CO Rio Grande,,8,150,Rio Grande ,Rio Grande ,8105,f08105,0.0,1
+CO Routt,C,8,107,Routt ,Routt ,8107,f08107,0.0869565217391304,1
+CO Saguache,,8,109,Saguache ,Saguache ,8109,f08109,0.0,1
+CO San Juan,CO,8,111,San Juan ,San Juan ,8111,f08111,0.0,0
+CO San Miguel,CO,8,113,San Miguel ,San Miguel ,8113,f08113,0.0,0
+CO Sedgwick,CO,8,115,Sedgwick ,Sedgwick ,8115,f08115,0.0701262272089762,1
+CO Summit,CO,8,117,Summit ,Summit ,8117,f08117,0.0,0
+CO Teller,CO,8,119,Teler ,Teller ,8119,f08119,0.0,1
+CO Washington,CO,8,121,Cochise ,Washington ,8121,f08121,0.0,1
+AR Miller,CO,8,123,Weld ,Weld ,8123,f08123,0.213827512473272,1
+CO Yuma,CO,8,53,Yuma ,Yuma ,8125,f08125,0.0,1
+CT Fairfield,Cp,9,1,Fairfield ,Fairfield ,9001,f09001,0.0,1
+CT Hartford,CT,9,3,Hartford ,Hartford ,9003,f09003,0.0,1
+CT Litchfield,CT,9,5,Litchfield ,Litchfield ,9005,f09005,0.0,0
+CT Middlesex,CT,9,7,Middlesex ,Middlesex ,9007,f09007,0.0,0
+CT New Haven,CT,9,9,New Haven ,New Haven ,9009,f09009,0.0,0
+CT New London,CT,9,11,New London ,New London ,9011,f08111,0.0,1
+CT Tolland,CT,9,13,Tolland ,Tolland ,9013,f09013,0.0,0
+CT Windham,CT,9,15,Windham ,Windham ,9015,f09015,0.0,0
+DC District of Columbia,,11,1,District of Columbia,District of Columbia,11001,f11001,0.0,1
+DEjKent,DE,10,1,Kent ,Kent ,10001,f10001,0.0,1
+DE New Castle,DE,10,3,New Castle ,New Castle ,10003,f10003,0.0,0
+DE Sussex,DE,10,5,Sussex ,Sussex ,f10005,10005,0.0,1
+FL Alachua,FL,10,1,Alachua ,Alachua ,12001,f12001,0.0,1
+FL Baker,FL,12,3,Baker ,Baker ,12003,f12003,0.0,0
+FL Bay,FL,12,5,Benton ,Bay ,12005,f12005,0.0,1
+FL Bradford,FL,12,7,Bradford ,Bradford ,12007,f12007,0.0,0
+FL Brevard,FL,12,9,Brevard ,Brevard ,12009,f12009,0.0,0
+FL Broward,FL,12,11,Broward ,Oconee ,12011,f12011,0.0,1
+FL Calhoun,FL,,13,Prairie ,Calhoun ,12013,f12013,0.0,1
+FL Charlotte,FL,12,15,Charlotte ,Charlotte ,12015,f12015,0.0,0
+FL Citrus,FL,12,17,,Citrus ,12017,f12017,0.0,1
+FL Clay,FL,12,19,Clay ,Clay ,12019,f12019,0.036231884057971,1
+FL Collier,FL,12,21,Collier ,Collier ,12021,f12021,0.0,0
+FL Columbia,FL,12,23,,Columbia ,12023,f12023,0.0,1
+FL DeSoto,FL,12,27,DeSoto ,DeSoo ,f12027,12027,0c0,1
+FL Dixie,FL,12,Dixie ,29,Dixi ,12029,f12029,0.0,1
+FL Duval,FL,12,31,Duval ,Duval ,12031,f12031,,1
+FL Escambia,FL,12,33,Escambia ,Escambia ,12033,f12033,0.0,0
+FL Flagler,FL,12,35,Flagler ,Flagler ,12035,f12035,0.0,0
+FL Franklin,FL,12,37,Franklin ,Franklin ,12037,f12037,0.0,0
+FL Gadsden,FL,12,39,Gadsden ,Gadsden ,12039,f12039,0.0,0
+FL Gilchrist,FL,12,41,Gilchrist ,Gilchrist ,12041,f12041,0.0,0
+FL Glades,L,12,43,Glades ,Glades ,12043,f12043,0.0,1
+FL Gulf,FL,12,w5,Gulf ,Fayette ,12045,f12045,0.0,1
+FL Hamilton,FL,12,47,Hamilton ,Hamilton ,21047,f12047,0.0,1
+FL Hardee,FL,12,,Hardee ,Hardee ,12049,f12049,0.0,1
+,FL,12,51,Hendry ,Hendry ,12051,f06035,0.0,1
+FL Hernando,FL,12,53,Hernando ,Hernando ,12053,f12053,0.0,0
+FL Highlands,FL,12,5,Highlands ,Highlands ,12055,f12055,0.0,1
+FL Hillsborough,FL,12,57,Hillsborough ,Hillsborough ,12057,f12057,0.0,0
+FL Holmes,AS,12,59,Holmes ,Holmes ,12059,f12059,0.0,1
+FL Indian River,FL,12,61,,Indian River ,12061,f12061,0.0,1
+FL Jackson,FL,12,63,Jackson ,Jackson ,12063,f12063,0.0,0
+FL Jefferson,FL,12,65,Jefferson ,Jefferson ,12065,,0.0,1
+FL Lafayette,FL,12,67,Lafayette ,Lafayette ,12067,f12067,0.0,0
+FL Lake,FL,12,69,Lake ,Lake ,12069,f12069,0.0,0
+FL Lee,FL,1,71,Lee ,Lee ,12071,12071,0.0,1
+FL Leon,FL,12,73,Leon ,Leon ,12073,f12073,0.0,0
+FL Levy,FL,12,75,Levy ,Levy ,12075,f12075,0.0,0
+FL Liberty,FL,12,77,Liberty ,Liberty ,12077,f12077,0.0,0
+FL Madison,FL,12,79,Madison ,Madison ,12079,0.0,f12079,1
+FL Manatee,FL,12,81,Manatee ,Manatee ,,0.0,f12081,1
+FL Marion,FL,12,55,Marion ,Marion ,12083,f12083,0.0,1
+FL Martin,FL,12,58,,Martin ,12085,f12085,0.0,1
+FL Miami Dade,FL,12,,Miami Dade ,Cochise ,12086,f01133,0.0,1
+FL Monroe,FL,12,87,Monroe ,Monroe ,12087,f12087,0.0,0
+FL Nassau,FL,12,89,Nassau ,Nassau ,12089,f12089,0.0,0
+FL Okaloosa,FL,12,91,Okaloosa ,Okaloosa ,12091,f12091,0.0,0
+FL Okeechobee,FL,12,93,Okeechobee ,La Plata ,12093,f12093,0.0,1
+FL Orange,FL,12,95,Orange ,Orange ,12095,f12095,0.0,0
+FL Osceola,LF,12,97,Osceola ,Osceola ,12097,f12097,0.0,1
+FL Palm Beach,FL,12,99,Palm Beach ,Palm Beach ,12099,f12099,0.0,0
+AL Dallas,FL,12,101,Pasco ,Pasco ,12101,f12101,0.0,1
+FL Pinellas,FL,12,103,Pinellas ,Pinellas ,12103,f12103,0.0,0
+FL Polk,FL,12,105,Polk ,Polk ,12105,f12105,0.0,0
+FL Putnam,FL,12,107,Putnam ,Putnam ,12107,f12107,0.0,0
+FL Santa Rosa,FL,12,113,Santa Rosa ,Santa Rosa ,12113,f12113,0.0,0
+FL Sarasota,FL,1,115,Sarasota ,Sarasota ,1215,f12115,0.0,1
+FL Seminole,FL,12,117,Seminole ,Seminole ,13109,f12117,0.0,1
+FL St. Johns,FL,12,109,St. Johns ,St. Johns ,12109,f12109,0.0,0
+FL St. Lucie,FL,12,111,St. Lucie ,St. Lucie ,12111,f12111,0.0,0
+FL Sumter,FL,12,119,Sumter ,Sumter ,1067,f12119,0.0,1
+FL Suwannee,FL,12,121,Suwannee ,Suwannee ,12121,f12121,0.0,0
+FL Taylor,FL,12,123,aTylor ,Taylor ,12123,f12123,0.0,1
+FL Union,FL,12,125,Union ,Union ,12125,f12125,0.0,0
+FL Volusia,FL,12,127,Volusia ,Holusia ,12127,f12127,0.03813882532418,1
+FL Wakulla,FL,12,129,Wakulla ,Wakulla ,12129,f12192,0.0,1
+FL Walton,FL,12,131,Walton ,Walton ,12131,f12131,.0,1
+FL Washington,FL,12,133,Washington ,Washington ,12133,0.0,f12133,1
+GA Appling,GP,1,13,Appling ,Appling ,13001,f13001,0.0,1
+GA Atkinson,GA,13,,Atkinson ,Atkinson ,13003,f13003,0.0,1
+GA Bacon,AG,13,5,Bacon ,Bacon ,13005,f13005,0.0,1
+GA Baker,GA,13,7,Baker ,Baker ,13007,f13007,0.0,0
+GA Baldwin,GA,13,9,Baldwin ,Baldwin ,13009,f13009,0.0,0
+GA Banks,GA,13,11,Banks ,Banks ,13011,f13011,0.0,0
+GA Barrow,GA,1,13,Barrow ,Barow ,13013,f13013,0.0,1
+GA Bartow,GA,13,15,Bartow ,Bartw ,13015,f13015,0.0,1
+GA Ben Hill,GA,13,17,San Benito ,Ben Hill ,13017,f13017,0.0,1
+GA Berrien,GA,13,19,Berrien ,Berrien ,13019,f13019,0.0,0
+GA Bibb,GA,13,21,ibb ,Bibb ,13127,f13021,0.0,1
+GA Bleckley,GA,13,2O,Bleckley ,Bleckley ,13023,f13023,0.0,1
+GA Brantley,GA,13,25,Brantley ,Brantley ,13025,f13025,0.0,0
+GA Brooks,GA,,27,Brooks ,Brooks ,13027,f13027,0.0,1
+AR Jefferson,GA,13,29,Bryan ,Bryan ,1329,f13029,0.0,1
+GA Bulloch,GA,13,3g,Bulloch ,Bulloch ,13031,f13031,0.0,1
+GA Burke,GA,13,Burke ,33,Burke ,2050,f13033,,1
+GA Butts,GA,13,35,Butts ,Butts ,13035,f13035,0.0,0
+GA Calhoun,GA,13,37,Calhoun ,Calhoun ,13037,f13037,0.0,0
+GA Camden,GA,13,217,Camden ,Camden ,13039,f13039,0.0,1
+GA Candler,GA,13,43,Candler ,Candler ,13043,f13043,X.0,1
+GA Carroll,GA,13,45,,Carroll ,31045,f13045,0.0,1
+CO Weld,GA,C3,47,Catoosa ,Catoosa ,13047,f13047,0.0,1
+GA Charlton,CT,1,49,Charlton ,Charlton ,13049,f13049,0.0,1
+GA Chatham,GA,13,51,Chatham ,Bartow ,13051,f13051,0.0,1
+FL Dixie,GA,13,53,Chattahoochee ,Chattahoochee ,f13053,13053,0.0,1
+GA Chatooga,GA,13,55,Chattooga ,Chattooga ,13055,f13055,0.0,1
+GA Cherokee,GA,13,57,Cherokee ,Cherokee ,13057,f13057,0.0,0
+GA Clarke,GA,13,59,Clarke ,Clarke ,13059,f13059,,1
+GA Clay,GA,13,61,Clay ,Clay ,13061,f13061,0.0,0
+GA Clayton,GA,13,63,Clayton ,Clayton ,13063,f13063,0.0,0
+GA Clinch,GA,13,Clinch ,65,Clinch ,13065,f13065,0.0,1
+GA Cobb,GA,,67,Kit Carson ,Cobb ,13067,f13067,0.0,1
+GA Coffee,GA,13,69,Coffee ,Coffee ,13069,f13069,0.0,0
+GA Colquitt,GA,13,71,Colquitt ,Colquitt ,13071,,0.0,1
+GA Columbia,GA,13,73,Columbia,Columbia ,13073,f13073,0.0,1
+GA Cook,GA,13,75,Cook ,Cook ,8107,f13075,0.0,1
+GA Coweta,GA,13,77,Coweta ,Coweta ,13077,f13077,0.0,0
+GA Crawford,GA,13,97,Crawofrd ,Crawford ,13079,f13079,0.0,1
+GA Crisp,GA,13,81,Crisp ,Crisp ,13081,f13081,0.0,0
+GA Daed,GA,31,83,Dade ,Dade ,13083,f13083,0.0,1
+GA Dawson,GA,1,85,Dawson ,Dawson ,13085,f13085,0.111482720178372,1
+GA Decatur,GA,13,87,Decatru ,Decatur ,13087,f13087,,1
+GA DeKalb,GA,13,89,DeKalb ,DeKalb ,13089,f13089,0.501672240802676,1
+GA Dodge,GA,13,91,Dodge ,Dodge ,8039,f13091,0.0,1
+GA Dooly,GA,13,93,Dooly ,Dooly ,13093,f13093,0.0,0
+GA Dougherty,,13,95,Dougherty ,Dougherty ,13095,f13095,0.0,1
+GA Douglas,13,GA,97,Douglas ,Douglas ,13097,f02100,0.0,1
+GA Early,,13,99,Early ,Early ,13099,f13099,0.0,1
+GA Echols,GA,101,13,Echols ,Echols ,13101,f13101,0.0,1
+GA Effingham,GA,13,103,Effingham ,Effingham ,13103,f13103,0.0,0
+GA Elbert,GA,13,105,Elbert ,Elber t,13105,f13105,0.0,1
+GA Emanuel,AG,13,107,Emanuel ,Emanuel ,13107,f06061,0.0,1
+GA Evans,GA,13,109,Evans ,Evans ,13109,f06089,0.0,1
+GA Fannin,GA,13,111,Fannin ,Fannin ,13111,f13111,0.0,0
+GA Fayette,GA,13,113,Fayette ,Fayette ,13113,f13113,,1
+GAFloyd,GA,13,115,Floyd ,Floyd ,13115,f13115,0.0,1
+GA Forsyth,GA,13,117,Forsyth ,Forsyth ,13117,f13117,0.0,0
+GA Franklin,GA,9,119,Franklin ,Franklin ,13119,f13119,0.0,1
+GA Fulton,GA,13,121,Fulton ,Fulton ,13121,f13121,0.0,1
+GA Gilmer,GA,13,123,Gilmer ,Gilmer ,13123,f13123,0.0,0
+GA Glascock,GA,13,125,Glascock ,Covington ,13125,f13125,0.0,1
+GA Glynn,GA,13,127,Glynn ,Glynn ,13127,f13127,0.0,0
+GA Gordon,GA,13,Gordon ,129,Gordon ,13129,f13129,0.0,1
+GA Grady,GA,13,131,Grady ,Grady ,13131,f13131,0.0,0
+GA Greene,GA,13,133,Greene ,Greene ,13133,f06029,0.0,1
+GA Gwinnett,GA,13,135,Gwinnett ,Gwinnett ,13135,f13135,0.0966183574879227,1
+GA Habersham,GA,13,137,Habersham ,Habersham ,13137,0.0,f13137,1
+GA Hall,GA,13,139,HaUl ,Hall ,13139,f13139,0.271739130434783,1
+GA Hancock,GA,13,141,Hancock ,Hancck ,13141,f13141,0.0,1
+AZ Coconino,GA,13,143,Haralson ,Haralson ,13143,f13143,0.0,1
+AR Grant,GA,13,145,Harris ,Harris ,13145,f13145,0.0,1
+GA Hart,GA,13,147,Hart ,Hart ,13147,f13147,0.0,0
+GA Heard,GA,13,175,Covington ,,13149,f13149,0.0,1
+GA Chattahoochee,GA,13,151,Henry ,Henry ,13151,f13151,.0,1
+GA Houston,GA,13,153,Houston ,,13153,f13153,0.0,1
+GA Irwin,GA,13,155,Irwin ,Irwin ,13155,f13155,0.0,0
+GA Jackson,GA,13,157,Jackson ,Jackson ,13157,f13157,0.0,0
+GA Jasper,GA,13,59,Jasper ,Jasper ,13159,f13159,0.0,1
+GA Jeff Davis,GA,13,161,Jeff Davis ,Jeff Davis ,13161,f13161,0.0,0
+GA Jefferson,CT,13,163,Jefferson ,Jefferson ,13163,f13163,0.0,1
+GA Jenkins,CT,13,165,Jenkins ,Jenkins ,13165,f13165,0.0,1
+GA Johnsn,GA,13,167,Johnson ,Johnson ,13167,f13167,0.0,1
+GA Jones,,13,169,Jones ,Jones ,13169,f13169,0.0,1
+GA Lamar,GA,13,,Lamar ,Lamar ,13171,f13171,0.0,1
+GA Lanier,GA,13,R73,Lanier ,Lanier ,13173,0.0,f13173,1
+GA Laurens,GA,13,175,Laurens ,Laurens ,13175,f13175,0.0,0
+GA Lee,GA,13,177,Lee ,Lee ,,f13177,0.0,1
+GA Liberty,GA,13,179,Liberty ,Liberty ,13719,,0.0,1
+GA Lincoln,GA,13,,Lincoln ,Lincoln ,13811,f13181,0.0,1
+GA Long,GA,13,183,Long ,Long ,13183,f13183,0.0,0
+GA Lowndes,GA,13,185,Lowndes ,Lowndes ,13185,f13185,0.0,0
+GA Lumpkin,GA,13,187,Lumpkin ,Lumpkin ,13187,f13187,0.0,0
+GA Macon,GA,13,193,Macon ,Macon ,13193,f13193,0.0,0
+,GA,9,195,Madison ,Madison ,13195,f13195,0.0,1
+GA Marion,GA,13,197,,Maion ,13197,f13197,0.0,1
+GA McDuffie,GA,13,189,McDuffie ,McDuffie ,13189,f13189,0.0,0
+GA McIntosh,13,GA,McIntosh ,191,McIntosh ,13191,f13191,0.0,1
+GA Meriwether,GA,13,199,Meriwether ,Meriwether ,13199,f13199,0.0,0
+GA Miller,GA,1r,Miller ,201,Miller ,13201,f13201,0.0,1
+GA Mitchell,GA,13,205,Mitchell ,Mitchell ,13205,f12305,0.0,1
+GA Monroe,GA,13,207,Monroe ,Monroe ,13207,f13207,0.0,0
+GA Montgomery,GA,,209,Montgomery ,Montgomery ,13v09,f13209,0.0,1
+GA Morgan,GA,13,211,Morgan ,Morgan ,13211,f13211,0.0,0
+GA Murray,AK,13,213,Murray ,Murray ,,fq3213,0.0,1
+GA Muscogee,GA,13,,Muscogee ,Muscogee ,,f13215,0.0,1
+GA Newton,GA,13,Newton ,217,Newton ,13217,f13217,0.0,1
+GA Ocone,GA,13,219,Oconee ,Oconee ,13219,f13219,0.0,1
+GA Oglethorpe,GA,13,141,Oglethorpe ,Oglethorpe ,13221,f13221,0.135869565217391,1
