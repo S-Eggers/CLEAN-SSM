@@ -1,4 +1,4 @@
-# cleaning-data-lakes-in-a-self-supervised-manner
+# CLEAN-SSM: CLEANing data lakes in a Self-Supervised Manner
  
 Self-supervised data cleaning experiments. Experiments available:
 - GARF (Self-supervised and Interpretable Data Cleaning with Sequence Generative Adversarial Networks)
